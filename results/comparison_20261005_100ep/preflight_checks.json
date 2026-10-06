@@ -1,0 +1,56 @@
+{
+  "baseline": {
+    "rows": 6320,
+    "appearances": 18960,
+    "unique": 12742,
+    "validation": 1592,
+    "domains": [
+      "Japan",
+      "India",
+      "United_States"
+    ]
+  },
+  "country_repeat": {
+    "rows": 6320,
+    "appearances": 18960,
+    "unique": 12742,
+    "validation": 1592,
+    "domains": [
+      "Japan",
+      "India",
+      "United_States"
+    ]
+  },
+  "latent_repeat": {
+    "rows": 6829,
+    "appearances": 13658,
+    "unique": 12742,
+    "validation": 1592,
+    "domains": [
+      "Cluster_0",
+      "Cluster_1"
+    ]
+  },
+  "country_unique": {
+    "rows": 12742,
+    "appearances": 12742,
+    "unique": 12742,
+    "validation": 1592,
+    "domains": [
+      "Japan",
+      "India",
+      "United_States"
+    ]
+  },
+  "latent_unique": {
+    "rows": 12742,
+    "appearances": 12742,
+    "unique": 12742,
+    "validation": 1592,
+    "domains": [
+      "Cluster_0",
+      "Cluster_1"
+    ]
+  },
+  "unit_checks": "PASS: sampling equivalence, domain ownership, valid/invalid triplets, ROI xy axes, missing-domain gradients"
+}

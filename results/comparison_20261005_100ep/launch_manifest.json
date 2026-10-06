@@ -1,0 +1,128 @@
+{
+  "project": "/data4/czh/yolov8-cluster/yolov8-hard-clustering",
+  "python": "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+  "epochs": 100,
+  "total_batch_size": 12,
+  "runs": [
+    {
+      "experiment": "baseline",
+      "gpu": 1,
+      "screen": "R1",
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_adv.py",
+        "--experiment",
+        "baseline",
+        "--epochs",
+        "100",
+        "--batch_size",
+        "12",
+        "--seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep"
+      ],
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R1_baseline.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R1_baseline.log"
+    },
+    {
+      "experiment": "country_repeat",
+      "gpu": 2,
+      "screen": "R2",
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_adv.py",
+        "--experiment",
+        "country_repeat",
+        "--epochs",
+        "100",
+        "--batch_size",
+        "12",
+        "--seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep"
+      ],
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R2_country_repeat.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R2_country_repeat.log"
+    },
+    {
+      "experiment": "latent_repeat",
+      "gpu": 3,
+      "screen": "R3",
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_adv.py",
+        "--experiment",
+        "latent_repeat",
+        "--epochs",
+        "100",
+        "--batch_size",
+        "12",
+        "--seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep"
+      ],
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R3_latent_repeat.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R3_latent_repeat.log"
+    },
+    {
+      "experiment": "country_unique",
+      "gpu": 4,
+      "screen": "R4",
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_adv.py",
+        "--experiment",
+        "country_unique",
+        "--epochs",
+        "100",
+        "--batch_size",
+        "12",
+        "--seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep"
+      ],
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R4_country_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R4_country_unique.log"
+    },
+    {
+      "experiment": "latent_unique",
+      "gpu": 5,
+      "screen": "R5",
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_adv.py",
+        "--experiment",
+        "latent_unique",
+        "--epochs",
+        "100",
+        "--batch_size",
+        "12",
+        "--seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep"
+      ],
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R5_latent_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/results/comparison_20261005_100ep/launch_logs/R5_latent_unique.log"
+    }
+  ]
+}

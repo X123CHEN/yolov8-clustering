@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "evaluation_index_sets": 10,
+  "fitting_index_sets": 10,
+  "evaluation_scores": 70,
+  "refits": 70,
+  "all_image_nearest_center_match": true,
+  "independently_recomputed_pairwise_ari": 315,
+  "summary_and_rank_checks": true,
+  "direct_euclidean_silhouette_spot_checks": 2,
+  "original_artifacts_unchanged": true,
+  "final_k": 2
+}

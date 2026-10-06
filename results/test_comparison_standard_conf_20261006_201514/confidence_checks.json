@@ -1,0 +1,4 @@
+{
+  "overlapping_boxes_keep_max_class_score": true,
+  "threshold_0_8_preserves_score_0_9": true
+}

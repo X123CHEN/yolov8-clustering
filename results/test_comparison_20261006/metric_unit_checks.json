@@ -1,0 +1,7 @@
+{
+  "perfect_detection": true,
+  "no_high_confidence_detections": true,
+  "duplicate_detection": true,
+  "empty_detection": true,
+  "coco_perfect_detection": true
+}

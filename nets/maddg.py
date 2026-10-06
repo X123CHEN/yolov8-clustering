@@ -296,14 +296,14 @@ def euclidean_dist(x, y):
 
 
 class Discriminator1(nn.Module):
-    def __init__(self, nc=128, ndf=128, input_channels=128):
+    def __init__(self, nc=128, ndf=128, input_channels=512):
         super(Discriminator1, self).__init__()
 
         self.fea_project = nn.Sequential(
             nn.Conv2d(input_channels, 128, kernel_size=3, stride=1, padding=1),
             nn.BatchNorm2d(128),
             nn.ReLU()
-        )  # feat1: 128x80x80 => 128x80x80
+        )  # feat3: 512x20x20 => 128x20x20
 
         self.model = nn.Sequential(
             # input is (nc) x 32 x 32
@@ -333,7 +333,7 @@ class Discriminator1(nn.Module):
 
 
 class Discriminator2(nn.Module):
-    def __init__(self, nc=128, ndf=128, input_channels=128):
+    def __init__(self, nc=128, ndf=128, input_channels=512):
         # def __init__(self, nc=128, ndf=128):
         super(Discriminator2, self).__init__()
 
@@ -341,7 +341,7 @@ class Discriminator2(nn.Module):
             nn.Conv2d(input_channels, 128, kernel_size=3, stride=1, padding=1),
             nn.BatchNorm2d(128),
             nn.ReLU()
-        )  # feat1: 128x80x80 => 128x80x80
+        )  # feat3: 512x20x20 => 128x20x20
 
         # self.model = nn.Sequential(
         #     # input is (nc) x 32 x 32
@@ -387,7 +387,7 @@ class Discriminator2(nn.Module):
         return output
 
 class Discriminator3(nn.Module):
-    def __init__(self, nc=128, ndf=128, input_channels=128):
+    def __init__(self, nc=128, ndf=128, input_channels=512):
         # def __init__(self, nc=128, ndf=128):
         super(Discriminator3, self).__init__()
 
@@ -395,7 +395,7 @@ class Discriminator3(nn.Module):
             nn.Conv2d(input_channels, 128, kernel_size=3, stride=1, padding=1),
             nn.BatchNorm2d(128),
             nn.ReLU()
-        )  # feat1: 128x80x80 => 128x80x80
+        )  # feat3: 512x20x20 => 128x20x20
         self.model = nn.Sequential(
             # input is (nc) x 32 x 32
             nn.Conv2d(nc, ndf, 4, 2, 1, bias=False),

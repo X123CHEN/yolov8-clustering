@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "sample_count": 12742,
+  "dimension": 256,
+  "kmeans_runs": 35,
+  "stability_pairs": 70,
+  "all_gmm_converged": true,
+  "candidate_checks": [
+    {
+      "K": 2,
+      "nearest_center_match_rate": 1.0,
+      "sample_count": 12742
+    },
+    {
+      "K": 3,
+      "nearest_center_match_rate": 1.0,
+      "sample_count": 12742
+    },
+    {
+      "K": 4,
+      "nearest_center_match_rate": 1.0,
+      "sample_count": 12742
+    },
+    {
+      "K": 5,
+      "nearest_center_match_rate": 1.0,
+      "sample_count": 12742
+    },
+    {
+      "K": 6,
+      "nearest_center_match_rate": 1.0,
+      "sample_count": 12742
+    },
+    {
+      "K": 7,
+      "nearest_center_match_rate": 1.0,
+      "sample_count": 12742
+    },
+    {
+      "K": 8,
+      "nearest_center_match_rate": 1.0,
+      "sample_count": 12742
+    }
+  ],
+  "final_k": 2,
+  "degenerate_annotation_count": 1,
+  "caveat": "Path uniqueness checked; no image-content deduplication"
+}

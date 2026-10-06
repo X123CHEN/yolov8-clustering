@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "K": 2,
+  "train_images": 12742,
+  "validation_images": 1592,
+  "train_cluster_counts": [
+    5913,
+    6829
+  ],
+  "validation_cluster_counts": [
+    738,
+    854
+  ],
+  "train_val_overlap": 0,
+  "annotations_preserved": true,
+  "single_cluster_duplicates": 0,
+  "combined_train_rows": 6829,
+  "combined_train_missing_images": 0,
+  "repetition": [
+    {
+      "cluster": 0,
+      "unique_images": 5913,
+      "extra_appearances": 916
+    },
+    {
+      "cluster": 1,
+      "unique_images": 6829,
+      "extra_appearances": 0
+    }
+  ],
+  "combined_val_rows": 1592,
+  "combined_val_duplicate_images": 0,
+  "validation_training_center_match_rate": 1.0,
+  "final_train_matches_reviewed_candidate": true,
+  "original_imagesets_unchanged": true,
+  "original_imagesets_files_checked": 16
+}

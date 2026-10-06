@@ -1,0 +1,15 @@
+{
+  "K": 3,
+  "seed": 1,
+  "candidate": true,
+  "silhouette": 0.18214780496817384,
+  "ch": 2934.1081462416546,
+  "db": 1.9420537141525853,
+  "pca_explained_variance": [
+    0.3334959084146056,
+    0.1184813102273054
+  ],
+  "center_space": "standardized 256D; use results/scaler_mean.npy and scaler_scale.npy",
+  "damage_policy": "Keep all images and raw annotations; valid-instance fractions exclude zero/negative-area boxes",
+  "excluded_degenerate_boxes": 1
+}

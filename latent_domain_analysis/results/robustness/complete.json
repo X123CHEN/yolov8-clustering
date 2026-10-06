@@ -1,0 +1,31 @@
+{
+  "status": "complete; awaiting final K confirmation",
+  "elapsed_seconds": 88.63398770894855,
+  "evaluation_subsets": 10,
+  "evaluation_scores": 70,
+  "subsampling_fits": 70,
+  "pairwise_ari_count": 315,
+  "final_k": null,
+  "original_inputs_unchanged": true,
+  "output_sha256": {
+    "evaluation_subset_indices.npy": "442b95ed52ff3b5822474ddee7621ada43510be481068b5d69e696d0461b9716",
+    "fitting_subset_country_counts.csv": "b553f668f1a52f2c98f7e99005694444f1c50b3c7a9707bff4ddfe8d254f2212",
+    "fitting_subset_indices.npy": "4dae2cd7b868f5d78b1aec61f4921755c6d2634b1ca7b4c68c88332608af4eaf",
+    "fixed_refit_evaluation_indices.npy": "2c09e15bf469d592fdd60f71067a42632e7977315d9765e619f5f144976c0fdd",
+    "silhouette_k2_k3_differences.csv": "018c055ef5913ee5be0a7c7846de222a7ea8a1fbfc570bee38cf70264e9201f0",
+    "silhouette_subset_runs.csv": "94cb937cf63ee4c6115cc2c28c8a59836cfc80b52248ebc7373d4010c41a8e79",
+    "silhouette_subset_summary.csv": "4ddc5c8f659c2948ffe5f07d87cf666ad57a8dc8dd934eacf3decd58a1b3333c",
+    "subsampling_k2.npz": "710a4524a14010420e203734412e302f2d1bd8b66a1ac186428f4d3c7634cfe5",
+    "subsampling_k2_k3_differences.csv": "3cc10b067d65fcae9bd49a4d65c6ad9644420488d43f74b27f2db7d88b7bf119",
+    "subsampling_k3.npz": "d887c38408cecfaec4f6a6f36266c8ce6fd470e5037d3a444337bbe4e596ee1e",
+    "subsampling_k4.npz": "de5d14b0b609152b5b9c9f77ed2a95e39a9ef02d65154e42f6a5e6ada929f2a5",
+    "subsampling_k5.npz": "068a1f35ee0c508fbecd1c7de15279070d388a24c1fea559fdb2fbd889d407a6",
+    "subsampling_k6.npz": "8fc600a871d9cf4e4399363a1ed5a65901402dd7ba23d5ed3bedf811974dbc92",
+    "subsampling_k7.npz": "44d8e8deb1081e35f0da9c2423b5cb23c48364afc6ff722087635cd8b5bf8079",
+    "subsampling_k8.npz": "f7038f3598f51f123c9a97600618cf1f3634a78970893e43ddbfb38435a2f423",
+    "subsampling_occupancy.csv": "de9a47fa1d5d65bacd6c3a87d60dd6b694d9f4a61299da4de909a9b3538ae5b7",
+    "subsampling_pairwise_ari.csv": "39f375f8cb0083d333b9d017f98aa5c43f9fcc67b44cc1c4a40f4caa775076e1",
+    "subsampling_runs.csv": "2e16b612bd1c47674fc095740d7e57318b46eedf0425c7a4fd5ca844ec08b0ed",
+    "subsampling_summary.csv": "2f9422e97061d7ff96118d208b57eafff3676bba7b8099dce894e2fc446014b6"
+  }
+}

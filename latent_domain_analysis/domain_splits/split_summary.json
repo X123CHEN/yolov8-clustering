@@ -1,0 +1,143 @@
+{
+  "K": 2,
+  "training_count": 12742,
+  "validation_count": 1592,
+  "clusters": [
+    {
+      "split": "train",
+      "cluster": 0,
+      "count": 5913,
+      "country_counts": {
+        "India": 306,
+        "Japan": 5055,
+        "United_States": 552
+      }
+    },
+    {
+      "split": "train",
+      "cluster": 1,
+      "count": 6829,
+      "country_counts": {
+        "India": 2272,
+        "Japan": 1265,
+        "United_States": 3292
+      }
+    },
+    {
+      "split": "val",
+      "cluster": 0,
+      "count": 738,
+      "country_counts": {
+        "India": 42,
+        "Japan": 631,
+        "United_States": 65
+      }
+    },
+    {
+      "split": "val",
+      "cluster": 1,
+      "count": 854,
+      "country_counts": {
+        "India": 280,
+        "Japan": 159,
+        "United_States": 415
+      }
+    }
+  ],
+  "reference_formats": {
+    "train": {
+      "reference": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/251030_train.txt",
+      "rows": 6320,
+      "format": "cyclic pairing to longest group, separator=&",
+      "source_order": [
+        "Japan",
+        "India",
+        "United_States"
+      ]
+    },
+    "val": {
+      "reference": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/251030_val.txt",
+      "rows": 1592,
+      "format": "ungrouped unique union, one image per line"
+    }
+  },
+  "training_combination": {
+    "rows": 6829,
+    "cluster_order": [
+      0,
+      1
+    ],
+    "separator": "&",
+    "rule": "deterministic modulo cycling to the longer cluster length; no shuffle; no truncation",
+    "repetition": [
+      {
+        "cluster": 0,
+        "unique_images": 5913,
+        "appearances": 6829,
+        "extra_appearances": 916,
+        "missing_images": 0,
+        "occurrence_histogram": {
+          "1": 4997,
+          "2": 916
+        }
+      },
+      {
+        "cluster": 1,
+        "unique_images": 6829,
+        "appearances": 6829,
+        "extra_appearances": 0,
+        "missing_images": 0,
+        "occurrence_histogram": {
+          "1": 6829
+        }
+      }
+    ]
+  },
+  "validation_combination": {
+    "rows": 1592,
+    "rule": "unique concatenation: Cluster_0 then Cluster_1",
+    "duplicate_images": 0,
+    "missing_images": 0
+  },
+  "all_train": {
+    "rows": 12742,
+    "rule": "unique source order India, Japan, United_States"
+  },
+  "validation_assignment": "training scaler and training centres only; no validation fitting",
+  "labels_match_reviewed_candidate": true,
+  "final_fit_seed": 2,
+  "original_images_referenced_only": true,
+  "source_images_copied_or_moved": false,
+  "original_imagesets_sha256": {
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/251030_train.txt": "be82351a7f63162a99e31b065ffeff7ac657d4fe90f25fef6c9b33bbaadcba95",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/251030_train_0.2.txt": "b3a46ba72741e0b2bada95ea683fd98a4e2928273f29f28320b9d4210ae91093",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/251030_val.txt": "0a323c530ace2427286bb8d0c363d5fe3ef43d52b3ecc840daa467febd7e85f6",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/251030_val_0.2.txt": "3d0868b40b63769c841e6ca6b09950b9d3a827776989ab5f3a0481cec7d95d6b",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/India_test.txt": "c12978abcf6666c6b4676b824314e0af921a1a65b59b03fdfccaf008b19245b4",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/India_train.txt": "e3d4f09f7510bf0c53a2481ee1775c555e18298f43275c7f2f0c5de1e069692d",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/India_val.txt": "5d95736fa29f85e461fc4a43bfb81d42e705ac56c487e2397715566cdb0c7c12",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/Japan_test.txt": "af967ac4f11780bab02fdcc7c1a9caf4584331339933a4f32dba90e823bb31a5",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/Japan_train.txt": "eba983c680d4ea675d14a7d8d8d56a1051933cadeb97e0ecb1df4dcafc1be590",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/Japan_val.txt": "696646ce5a065920c1fc7816918a0c3c6934c847e6cc71a9cd56bd5964bca74f",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/United_States_test.txt": "ba961989b7da060fb87ec4f57859d8c3a969a60c4028055ade3c83017f8f5807",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/United_States_train.txt": "5e6569f8fc31be3fd9e2de07343d5719ac04fe932b29d867b1a71c93a10397e9",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/United_States_val.txt": "a76269738db41e2f635651b0be2c7ac39649197a17d7c88d3575e03febfac9b6",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/india_total.txt": "c0ac9d21f98a50d4e7a62fa8d2765dc4eb02c80b608af108c6a909c434ac1936",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/japan_total.txt": "36e49e0542b4eb30d4a8ac693ad6bbedc4ebe1b5b381d9eadba44cd71e48bbe8",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/united_states_total.txt": "41fb5f34604e7b4cc357367405abc257197f515a39e7794c2a580e0c64d378f4"
+  },
+  "original_imagesets_unchanged": true,
+  "validation_feature_metadata_sha256": "94e621c9f4dc067d6a84b6565333f0d2ebfaa75ab8833489e9490e86f35e4746",
+  "scaler_mean_sha256": "d63bd565448cd52b637c3b1383fd25df8cb00bc662836df35ef62b97f2d1d5fc",
+  "scaler_scale_sha256": "915229198fe7abe2cedcdd63d96ac8f0b32956350cd6cc601feebc6dfa0141c4",
+  "training_centres_sha256": "ee082f0b4fe81adc20ff412d6cf1927bf38fa7f18e7176541011f1e6e7164290",
+  "output_sha256": {
+    "Cluster_0_train.txt": "289f27208fcaf3d85ccb629652267ee1b6b828254f87eb9e8c8204021fb5941d",
+    "Cluster_0_val.txt": "e76df8d20e38fdc6cd408a9d37fb7491a39bf69b67e3d1c84e117074f60edd29",
+    "Cluster_1_train.txt": "c21a24f1dea6273e6df638e7974f289720fd93e203ab14932666af2fc1379e7a",
+    "Cluster_1_val.txt": "6a05f7a953a484ca72cfce9cd55f305352ab0d20aa330f9a322ef0bf0878faac",
+    "all_train.txt": "09572a4e061a2252008dc40f5cd918262763b8b6c28206b7a162569d010477f0",
+    "combined_train.txt": "81ed8544669738d2b10502fa0b90522c6c343be11bb121331d4f03b146947e38",
+    "combined_val.txt": "bb1aadc30e9349228f2a140dbcf678ae1c3c025971474afd63a1cbf3286a4ffd"
+  }
+}

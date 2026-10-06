@@ -1,0 +1,12 @@
+{
+  "final_k": 2,
+  "confirmed_by": "user",
+  "evidence": [
+    "initial K selection",
+    "10 evaluation subsets",
+    "10 80% subsampling fits"
+  ],
+  "fit_seed": 2,
+  "validation_fitted": false,
+  "export_directory": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits"
+}

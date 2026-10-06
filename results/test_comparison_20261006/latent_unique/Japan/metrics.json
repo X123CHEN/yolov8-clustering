@@ -1,0 +1,78 @@
+{
+  "experiment": "latent_unique",
+  "domain": "Japan",
+  "images": 790,
+  "voc": {
+    "map50": 0.6016147941097495,
+    "per_class": {
+      "D00": {
+        "ap50": 0.537565001365377,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 386,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 386
+      },
+      "D10": {
+        "ap50": 0.4995306669220543,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 395,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 395
+      },
+      "D20": {
+        "ap50": 0.7176768654708832,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 646,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 646
+      },
+      "D40": {
+        "ap50": 0.6516866426806834,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 223,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 223
+      }
+    },
+    "precision_macro": 0.0,
+    "recall_macro": 0.0,
+    "f1_macro": 0.0
+  },
+  "coco": {
+    "map50_95": 0.2731898438244377,
+    "map50": 0.5964438313532305,
+    "map75": 0.20090795026110003,
+    "per_class": {
+      "D00": {
+        "ap50_95": 0.22757203723066927,
+        "ap50": 0.5353989317226523
+      },
+      "D10": {
+        "ap50_95": 0.1975605579740369,
+        "ap50": 0.49403718667687024
+      },
+      "D20": {
+        "ap50_95": 0.3723839856797613,
+        "ap50": 0.709791971810881
+      },
+      "D40": {
+        "ap50_95": 0.29524279441328344,
+        "ap50": 0.6465472352025191
+      }
+    },
+    "max_detections": 100
+  },
+  "elapsed_s": 126.51375412940979
+}

@@ -1,0 +1,26 @@
+{
+  "sample_count": 1592,
+  "country_counts": {
+    "India": 322,
+    "Japan": 790,
+    "United_States": 480
+  },
+  "manifest_hashes": {
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/India_val.txt": "5d95736fa29f85e461fc4a43bfb81d42e705ac56c487e2397715566cdb0c7c12",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/Japan_val.txt": "696646ce5a065920c1fc7816918a0c3c6934c847e6cc71a9cd56bd5964bca74f",
+    "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/United_States_val.txt": "a76269738db41e2f635651b0be2c7ac39649197a17d7c88d3575e03febfac9b6"
+  },
+  "weights_sha256": "bdc4bb8b12c63e59a6de61ae41295cb27e4c84ea743b8d34cc6339f35a8ede72",
+  "feature_layer": "backbone.dark3 / feat1 / P3",
+  "feature_dimension": 256,
+  "preprocessing": "RGB; direct BICUBIC resize 640x640; float32 /255; no augmentation",
+  "std_correction": 1,
+  "training_extraction_metadata_sha256": "c59f00cd6085f2eecd544a194547f11d1a5eabb0c4214812a6674745e6670179",
+  "validation_extractor_sha256": "b55c0622029381b9e29a592f5f5cc7e5c08793f2c35b491d919380565504154a",
+  "device": "cuda:0",
+  "torch_version": "2.1.1+cu121",
+  "features_sha256": "46c948994898da16e93dfc8440e0c25db9d4abe7df90f19699c9c37d9db3ad96",
+  "metadata_sha256": "3d2b2712bfcf0f9d9f27dca20562dca1d5df5b7c7ecf1129329edb860d8fa38b",
+  "fitting_performed": false,
+  "elapsed_seconds": 18.3118540616706
+}

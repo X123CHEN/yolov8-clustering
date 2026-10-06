@@ -1,0 +1,7 @@
+{
+  "models": 5,
+  "domains_per_model": 7,
+  "images_per_model": 14,
+  "strict_loading": true,
+  "legacy_voc_ap_matches": true
+}

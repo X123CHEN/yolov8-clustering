@@ -1,0 +1,80 @@
+{
+  "k_values": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "n_init": 10,
+  "max_iter": 300,
+  "kmeans_init": "k-means++",
+  "kmeans_algorithm": "lloyd",
+  "kmeans_tol": 0.0001,
+  "silhouette_sample_size": 5000,
+  "sample_seed": 3407,
+  "silhouette_metric": "euclidean in standardized 256D space",
+  "stability": "pairwise ARI over five full-training-data initializations; ddof=1",
+  "gmm_covariance": "diag",
+  "gmm_n_init": 3,
+  "gmm_max_iter": 300,
+  "gmm_seed": 0,
+  "gmm_reg_covar": 1e-06,
+  "numpy_version": "1.26.4",
+  "sklearn_version": "1.5.2",
+  "extraction": {
+    "sample_count": 12742,
+    "country_counts": {
+      "India": 2578,
+      "Japan": 6320,
+      "United_States": 3844
+    },
+    "weights": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/model_data/yolov8_s.pth",
+    "weights_sha256": "bdc4bb8b12c63e59a6de61ae41295cb27e4c84ea743b8d34cc6339f35a8ede72",
+    "backbone_sha256": "2d705bd950090ddc1033fd2ec13fc6a2554b201d7011fd1d6e2c4784a8f3e6bf",
+    "extractor_sha256": "354d25c600a10e6018581fada0a8bc9aebe1fd1b3215abb97ad07f75d7705dbb",
+    "manifest_hashes": {
+      "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/India_train.txt": "e3d4f09f7510bf0c53a2481ee1775c555e18298f43275c7f2f0c5de1e069692d",
+      "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/India_val.txt": "5d95736fa29f85e461fc4a43bfb81d42e705ac56c487e2397715566cdb0c7c12",
+      "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/Japan_train.txt": "eba983c680d4ea675d14a7d8d8d56a1051933cadeb97e0ecb1df4dcafc1be590",
+      "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/Japan_val.txt": "696646ce5a065920c1fc7816918a0c3c6934c847e6cc71a9cd56bd5964bca74f",
+      "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/United_States_train.txt": "5e6569f8fc31be3fd9e2de07343d5719ac04fe932b29d867b1a71c93a10397e9",
+      "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/United_States_val.txt": "a76269738db41e2f635651b0be2c7ac39649197a17d7c88d3575e03febfac9b6"
+    },
+    "phi": "s",
+    "feature_layer": "backbone.dark3 / feat1 / P3",
+    "feature_shape": [
+      128,
+      80,
+      80
+    ],
+    "feature_dimension": 256,
+    "preprocessing": "RGB; direct BICUBIC resize 640x640; float32 /255; no augmentation",
+    "std_correction": 1,
+    "eval_mode": true,
+    "frozen": true,
+    "precision": "float32",
+    "seed": 0,
+    "device": "cuda:0",
+    "gpu": "NVIDIA GeForce RTX 2080 Ti",
+    "torch_version": "2.1.1+cu121",
+    "numpy_version": "1.26.4",
+    "pillow_version": "12.2.0",
+    "features_sha256": "a9bba26d3cfda3e36c04ba208353effe9c275cbe4a6de3737f1feeafbe50bbf1",
+    "metadata_sha256": "aee061ec4b7be4d8c7773f28492fde374a64ce019cef888bc8a1bbcf3d4d505f",
+    "elapsed_seconds": 153.74920136667788
+  },
+  "candidate_selection": "minimum inertia over five runs",
+  "final_k": null,
+  "country_balancing": false,
+  "fit_split": "source train only"
+}
