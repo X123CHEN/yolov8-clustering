@@ -10,7 +10,7 @@ LICENSE,35149,/data4/czh/yolov8-cluster/yolov8-hard-clustering/LICENSE
 MAMDG_K-way判别器.md,31659,/data4/czh/yolov8-cluster/yolov8-hard-clustering/MAMDG_K-way判别器.md
 README.md,10829,/data4/czh/yolov8-cluster/yolov8-hard-clustering/README.md
 README_style.md,4475,/data4/czh/yolov8-cluster/yolov8-hard-clustering/README_style.md
-SNAPSHOT_20261016.md,8985,snapshot support material
+SNAPSHOT_20261016.md,9025,snapshot support material
 YOLOv8_风格软聚类对抗实验3_4_5_Codex实施说明.md,30880,/data4/czh/yolov8-cluster/yolov8-hard-clustering/YOLOv8_风格软聚类对抗实验3_4_5_Codex实施说明.md
 core/Train.py,17125,/data4/czh/yolov8-cluster/yolov8-hard-clustering/core/Train.py
 core/evaluate.py,2446,/data4/czh/yolov8-cluster/yolov8-hard-clustering/core/evaluate.py
