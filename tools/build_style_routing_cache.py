@@ -190,7 +190,7 @@ def main():
     metadata = {
         "schema_version": 1,
         "num_clusters": 3,
-        "feature_layer": "feat3",
+        "feature_layer": "feat1",
         "style_vector": "channel_mean_std",
         "feature_dimension": int(mean.size),
         "input_shape": [640, 640],

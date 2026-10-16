@@ -1,9 +1,0 @@
-{
-  "models": 5,
-  "full_test_mode": true,
-  "strict_weight_loading": true,
-  "gpu_mapping_verified": true,
-  "weight_hashes_verified": true,
-  "test_lists_verified": true,
-  "evaluation_parameters_match": true
-}

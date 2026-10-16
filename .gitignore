@@ -142,3 +142,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# New reproduction outputs and local environments
+reproductions/
+.venv-detection/
+.venv-clustering/

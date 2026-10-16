@@ -3,15 +3,7 @@
 # -------------------------------------#
 import datetime
 import os
-import sys
 from functools import partial
-
-# The five country/latent-domain comparisons share one implementation.
-# Dispatch before the legacy parser and its hard-coded GPU/style-cache setup.
-if __name__ == '__main__' and any(arg == '--experiment' or arg.startswith('--experiment=') for arg in sys.argv):
-    from utils.comparison_training import main
-    main()
-    raise SystemExit(0)
 
 import numpy as np
 import torch
@@ -52,7 +44,7 @@ from core.loss import TripletLossCal
 # from core.loss import TripletLossCal_double
 
 # os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
-os.environ["CUDA_VISIBLE_DEVICES"] = "6"
+os.environ["CUDA_VISIBLE_DEVICES"] = "4"
 
 parser = argparse.ArgumentParser(description="MADDoG")
 # wrq修改自己的datasets--------------------------------------------------------------------------------------------------
@@ -165,7 +157,7 @@ if __name__ == "__main__":
         f"{style_cfg['experiment_name']}_tau{style_cfg['temperature']}_"
         f"floor{style_cfg['confidence_floor']}_adv{style_cfg['adv_weight']}"
     )
-    args.results_path = str(dg_config.PROJECT_ROOT / "logs" / "Style_soft" / "260713" / experiment_dirname)
+    args.results_path = str(dg_config.PROJECT_ROOT / "logs" / "Style_soft" / "260712" / experiment_dirname)
     # ---------------------------------#
     #   Cuda    是否使用Cuda
     #           没有GPU可以设置成False
@@ -478,7 +470,7 @@ if __name__ == "__main__":
     FeatEmbd_restore = None
 
     # FeatExtor = init_model(net=FeatExtmodel, init_type=args.init_type, restore=FeatExt_restore).to("cuda")
-    FeatEmbdmodel = FeatEmbedder(in_channels=512, nettype=None).to("cuda")
+    FeatEmbdmodel = FeatEmbedder(in_channels=128, nettype=None).to("cuda")
     Discriminator1 = init_model(net=Dismodel1, init_type=args.init_type, restore=Dis_restore1)
     Discriminator2 = init_model(net=Dismodel2, init_type=args.init_type, restore=Dis_restore2)
     Discriminator3 = init_model(net=Dismodel3, init_type=args.init_type, restore=Dis_restore3)

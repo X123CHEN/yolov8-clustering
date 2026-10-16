@@ -67,10 +67,10 @@ STYLE_EXPERT_PATHS = [
     for k in range(NUM_STYLE_DOMAINS)
 ]
 
-# 聚类与对抗统一使用 feat3：输入 640 时为 512×20×20。
-# Student 使用 outputs[5]，专家使用返回特征的下标 2；判别器输入通道为 512。
+# 聚类与对抗统一使用 feat1：输入 640 时为 128×80×80。
+# Student 使用 outputs[7]，专家使用返回特征的下标 0；判别器输入通道为 128。
 # 若改层，必须同步修改 Student/专家取层位置和三个判别器输入通道，不能只改字符串。
-STYLE_FEATURE_LAYER = "feat3_20x20"
+STYLE_FEATURE_LAYER = "feat1_80x80"
 
 # 专家只作为固定参考，不参与训练。
 FREEZE_STYLE_EXPERTS = True
@@ -223,7 +223,7 @@ INITIAL_ABLATION_PLAN = (
 #
 # 每次正式运行前建议人工确认以下摘要：
 #   1. STYLE_EXPERIMENT_NAME 与预期一致；
-#   2. STYLE_FEATURE_LAYER 仍为 feat3_20x20；
+#   2. STYLE_FEATURE_LAYER 仍为 feat1_80x80；
 #   3. 三个专家路径存在且顺序为 Style_0/1/2；
 #   4. 启动日志 hard_label_match_rate 为 1.0；
 #   5. 不同实验输出到不同日志目录；

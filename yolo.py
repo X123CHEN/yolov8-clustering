@@ -26,7 +26,7 @@ class YOLO(object):
         #   如果出现shape不匹配，同时要注意训练时的model_path和classes_path参数的修改
         #--------------------------------------------------------------------------#
         # "model_path"        : 'model_data/yolov8_s.pth',
-        "model_path"        : '/data4/czh/yolov8-cluster/yolov8-hard-clustering/logs/Style_soft/260712/exp5_soft_top2_conf_tau1.0_floor0.2_adv0.7/best_epoch_weights.pth',
+        "model_path"        : '/data4/czh/yolov8-cluster/yolov8-hard-clustering/logs/Style/260711/best_epoch_weights.pth',
         "classes_path"      : 'model_data/rdd_classes.txt',
         #---------------------------------------------------------------------#
         #   输入图片的大小，必须为32的倍数。

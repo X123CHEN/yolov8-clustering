@@ -1,3 +1,5 @@
+> **2026-10-16 项目快照：** [保存范围、依赖与复现命令](SNAPSHOT_20261016.md) · [潜在域与 K-way 方法文档](docs/methods/README.md)
+
 ## YOLOV8：You Only Look Once目标检测模型在pytorch当中的实现
 ---
 

@@ -823,6 +823,7 @@ class DecodeBox():
         prediction[:, :, :4] = box_corner[:, :, :4]
 
         output = [None for _ in range(len(prediction))]
+        from nets.losses import relu_evidence
         for i, image_pred in enumerate(prediction):
             # ----------------------------------------------------------#
             #   对种类预测部分取max。
@@ -832,8 +833,12 @@ class DecodeBox():
 
             class_conf, class_pred = torch.max(image_pred[:, 4:4 + num_classes], 1, keepdim=True)
 
-            # decode_box already applies sigmoid. Use the selected class score
-            # consistently for filtering, NMS and exported detection confidence.
+            #不确定性分析
+            _, class_pred = torch.max(image_pred[:, 4:4 + num_classes], 1, keepdim=True)
+            evidence = relu_evidence(image_pred[:, 4:4 + num_classes])
+            alpha = evidence + 1
+            uncertainty = num_classes / torch.sum(alpha, dim=1, keepdim=True)
+            class_conf = 1 - uncertainty
             # print('# ----------------------------------------------------------#')
             # print('evidence: ',evidence)
             # print('class_conf: ',class_conf)

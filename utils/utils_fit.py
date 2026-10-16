@@ -31,16 +31,16 @@ def _append_routing_statistics(path, row):
 
 
 def _select_expert_style_feature(expert_outputs):
-    """选择专家的风格对抗特征；feat3 对应返回序列下标 2。"""
-    if dg_config.STYLE_FEATURE_LAYER == "feat3_20x20":
-        return expert_outputs[2]
+    """选择专家的风格对抗特征；feat1 对应返回序列下标 0。"""
+    if dg_config.STYLE_FEATURE_LAYER == "feat1_80x80":
+        return expert_outputs[0]
     raise ValueError(f"Unsupported STYLE_FEATURE_LAYER: {dg_config.STYLE_FEATURE_LAYER}")
 
 
 def _select_student_style_feature(student_outputs):
-    """选择 Student 的风格对抗特征；feat3 对应 YOLO 输出下标 5。"""
-    if dg_config.STYLE_FEATURE_LAYER == "feat3_20x20":
-        return student_outputs[5]
+    """选择 Student 的风格对抗特征；feat1 对应 YOLO 输出下标 7。"""
+    if dg_config.STYLE_FEATURE_LAYER == "feat1_80x80":
+        return student_outputs[7]
     raise ValueError(f"Unsupported STYLE_FEATURE_LAYER: {dg_config.STYLE_FEATURE_LAYER}")
 
 def fit_one_epoch(model_train, model, ema, yolo_loss, loss_history, eval_callback, optimizer, epoch, epoch_step,

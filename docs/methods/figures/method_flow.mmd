@@ -1,0 +1,15 @@
+flowchart LR
+    A[Source train: 12,742 images] --> B[Frozen YOLOv8-s backbone feat1]
+    B --> C[128 channel means + 128 standard deviations]
+    C --> D[Train-only StandardScaler]
+    D --> E[K-means++: K=2..8, 5 seeds]
+    E --> F[Structure metrics and resampling stability]
+    F --> G[Confirmed K=2; fixed centres and IDs]
+    V[Source validation: 1,592 images] --> W[Same extractor, train scaler and centres]
+    G --> W
+    G --> H[Domain-aware detector training]
+    A --> H
+    H --> I[Best EMA detector: minimum source-val detection loss]
+    V --> I
+    I --> J[Seven-domain test: standard class confidence]
+    T[Target test images: evaluation only] --> J

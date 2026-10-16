@@ -1,0 +1,19 @@
+flowchart TB
+    subgraph MULTI[Multi-expert domain module]
+        X1[Image x, hard domain k] --> E[Frozen expert E_k]
+        X1 --> S1[Student feat3]
+        E --> D1[D_k: expert real / student fake]
+        S1 --> D1
+        D1 --> LG[Student LSGAN objective: aim at real]
+        E --> LD[D loss: expert real + detached student fake]
+        S1 --> LD
+    end
+    subgraph KWAY[Single K-way domain module]
+        X2[Image x] --> S2[Student feat3]
+        S2 --> R[GRL: identity forward, negative feature gradient]
+        R --> D2[K logits, spatial mean]
+        ID[Fixed hard domain ID] --> CE[Mean cross entropy]
+        D2 --> CE
+    end
+    S1 --> TASK1[Detection + 0.3 object Triplet]
+    S2 --> TASK2[Same detection and object Triplet]
