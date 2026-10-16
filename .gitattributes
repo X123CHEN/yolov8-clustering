@@ -1,0 +1,5 @@
+*.pth binary
+*.pt binary
+*.npy binary -delta
+*.npz binary -delta
+*.tar.gz binary -delta
