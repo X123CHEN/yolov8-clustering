@@ -1,0 +1,32 @@
+[
+  {
+    "expert": "India",
+    "screen": "R1",
+    "gpu": 1,
+    "configuration_verified": true
+  },
+  {
+    "expert": "Japan",
+    "screen": "R2",
+    "gpu": 2,
+    "configuration_verified": true
+  },
+  {
+    "expert": "United_States",
+    "screen": "R3",
+    "gpu": 3,
+    "configuration_verified": true
+  },
+  {
+    "expert": "Cluster_0",
+    "screen": "R4",
+    "gpu": 4,
+    "configuration_verified": true
+  },
+  {
+    "expert": "Cluster_1",
+    "screen": "R5",
+    "gpu": 5,
+    "configuration_verified": true
+  }
+]

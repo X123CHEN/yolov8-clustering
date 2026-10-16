@@ -1,0 +1,78 @@
+{
+  "experiment": "country_repeat",
+  "domain": "new_China_MotorBike",
+  "images": 2,
+  "voc": {
+    "map50": 0.4166666666666667,
+    "per_class": {
+      "D00": {
+        "ap50": 0.5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 1,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 1
+      },
+      "D10": {
+        "ap50": null,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 0,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 0
+      },
+      "D20": {
+        "ap50": 0.25,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 2,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 2
+      },
+      "D40": {
+        "ap50": 0.5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 1,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 1
+      }
+    },
+    "precision_macro": 0.0,
+    "recall_macro": 0.0,
+    "f1_macro": 0.0
+  },
+  "coco": {
+    "map50_95": 0.19240924092409242,
+    "map50": 0.4174917491749175,
+    "map75": 0.08415841584158416,
+    "per_class": {
+      "D00": {
+        "ap50_95": 0.2,
+        "ap50": 0.5
+      },
+      "D10": {
+        "ap50_95": null,
+        "ap50": null
+      },
+      "D20": {
+        "ap50_95": 0.22722772277227724,
+        "ap50": 0.2524752475247525
+      },
+      "D40": {
+        "ap50_95": 0.15,
+        "ap50": 0.5
+      }
+    },
+    "max_detections": 100
+  },
+  "elapsed_s": 0.08602046966552734
+}

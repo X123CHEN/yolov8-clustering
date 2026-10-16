@@ -1,0 +1,50 @@
+/data4/czh/yolov8-cluster/yolov8-pretrain/utils/utils_bbox.py:719: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources as pkg
+initialize network with normal type
+Load weights ./model_data/yolov8_s.pth.
+
+Successful Load Key: ['backbone.stem.conv.weight', 'backbone.stem.bn.weight', 'backbone.stem.bn.bias', 'backbone.stem.bn.running_mean', 'backbone.stem.bn.running_var', 'backbone.stem.bn.num_batches_tracked', 'backbone.dark2.0.conv.weight', 'backbone.dark2.0.bn.weight', 'backbone.dark2.0.bn.bias', 'backbone.dark2.0.bn.running_mean', 'backbone.dark2.0.bn.running_var', 'backbone.dark2.0.bn.num_batches_tracked', 'backbone.dark2.1.cv1.conv.weight', 'backbone.dark2.1.cv1.bn.weight', 'backbone.dark2.1.cv1.bn.bias', 'backbo ……
+Successful Load Key Num: 349
+
+Fail To Load Key: ['cv3.0.2.weight', 'cv3.0.2.bias', 'cv3.1.2.weight', 'cv3.1.2.bias', 'cv3.2.2.weight', 'cv3.2.2.bias'] ……
+Fail To Load Key num: 6
+
+[1;33;44m温馨提示，head部分没有载入是正常现象，Backbone部分没有载入是错误的。[0m
+EXPERT_CONFIG {"expert": "Cluster_0", "train_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/Cluster_0_train.txt", "val_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/Cluster_0_val.txt", "num_train": 32, "num_val": 17, "epochs": 200, "batch_size": 16, "seed": 11, "input_shape": [640, 640], "phi": "s", "initial_weights": "/data4/czh/yolov8-cluster/yolov8-pretrain/model_data/yolov8_s.pth", "optimizer": "sgd", "initial_lr": 0.01, "min_lr": 0.0001, "momentum": 0.937, "weight_decay": 0.0005, "lr_decay": "cos", "freeze_train": false, "fp16": false, "mosaic": true, "mosaic_prob": 0.5, "mixup": false, "mixup_prob": 0.2, "special_aug_ratio": 0.5, "num_workers": 8, "use_adv": false, "align_type": "none", "fft_enabled": false, "mixstyle_enabled": false, "cuda_visible_devices": "4", "best_criterion": "minimum val_loss", "validation_shuffle": false, "validation_drop_last": false, "validation_average": "batch loss weighted by number of images", "smoke_test": true}
+Configurations:
+----------------------------------------------------------------------
+|                     keys |                                   values|
+----------------------------------------------------------------------
+|             classes_path |             ./model_data/rdd_classes.txt|
+|               model_path |                ./model_data/yolov8_s.pth|
+|              input_shape |                               [640, 640]|
+|               Init_Epoch |                                        0|
+|             Freeze_Epoch |                                        0|
+|           UnFreeze_Epoch |                                      200|
+|        Freeze_batch_size |                                       10|
+|      Unfreeze_batch_size |                                       16|
+|             Freeze_Train |                                    False|
+|                  Init_lr |                                     0.01|
+|                   Min_lr |                                   0.0001|
+|           optimizer_type |                                      sgd|
+|                 momentum |                                    0.937|
+|            lr_decay_type |                                      cos|
+|              save_period |                                        1|
+|                 save_dir | /data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/smoke_tests/Cluster_0|
+|              num_workers |                                        8|
+|                num_train |                                       32|
+|                  num_val |                                       17|
+----------------------------------------------------------------------
+
+[1;33;44m[Warning] 使用sgd优化器时，建议将训练总步长设置到50000以上。[0m
+[1;33;44m[Warning] 本次运行的总训练数据量为32，Unfreeze_batch_size为16，共训练200个Epoch，计算出总训练步长为400。[0m
+[1;33;44m[Warning] 由于总训练步长为400，小于建议总步长50000，建议设置总世代为25001。[0m
+Start Train
+Epoch 1/200:   0%|          | 0/2 [00:00<?, ?it/s<class 'dict'>]Epoch 1/200:   0%|          | 0/2 [00:18<?, ?it/s, yolo_loss=1.63e+3, yolo_lr=0.00025]Epoch 1/200:  50%|█████     | 1/2 [00:18<00:18, 18.63s/it, yolo_loss=1.63e+3, yolo_lr=0.00025]Epoch 1/200:  50%|█████     | 1/2 [00:19<00:18, 18.63s/it, yolo_loss=1.68e+3, yolo_lr=0.00025]Epoch 1/200: 100%|██████████| 2/2 [00:19<00:00,  8.37s/it, yolo_loss=1.68e+3, yolo_lr=0.00025]Epoch 1/200: 100%|██████████| 2/2 [00:19<00:00,  9.93s/it, yolo_loss=1.68e+3, yolo_lr=0.00025]
+Finish Train
+Start Validation
+Epoch 1/200:   0%|          | 0/2 [00:00<?, ?it/s<class 'dict'>]Epoch 1/200:   0%|          | 0/2 [00:01<?, ?it/s, val_loss=2.48e+3]Epoch 1/200:  50%|█████     | 1/2 [00:01<00:01,  1.14s/it, val_loss=2.48e+3]Epoch 1/200:  50%|█████     | 1/2 [00:04<00:01,  1.14s/it, val_loss=2.4e+3] Epoch 1/200: 100%|██████████| 2/2 [00:04<00:00,  2.51s/it, val_loss=2.4e+3]Epoch 1/200: 100%|██████████| 2/2 [00:04<00:00,  2.33s/it, val_loss=2.4e+3]
+Finish Validation
+Epoch:1/200
+Total Loss: 1677.033 || Val Loss: 2401.949 
+Save best model to best_epoch_weights.pth

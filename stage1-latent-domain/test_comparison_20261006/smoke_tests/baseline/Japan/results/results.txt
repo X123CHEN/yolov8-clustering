@@ -1,0 +1,22 @@
+# AP and precision/recall per class
+50.00% = D00 AP 
+ Precision: ['1.00', '0.50', '0.33', '0.25', '0.20', '0.17', '0.14', '0.12']
+ Recall :['0.50', '0.50', '0.50', '0.50', '0.50', '0.50', '0.50', '0.50']
+
+100.00% = D20 AP 
+ Precision: ['1.00', '0.50', '0.33', '0.25', '0.20', '0.17', '0.14', '0.12']
+ Recall :['1.00', '1.00', '1.00', '1.00', '1.00', '1.00', '1.00', '1.00']
+
+
+# mAP of all classes
+mAP = 75.00%
+
+# Number of ground-truth objects per class
+D00: 2
+D20: 1
+
+# Number of detected objects per class
+D00: 8 (tp:1, fp:7)
+D10: 1 (tp:0, fp:1)
+D20: 8 (tp:1, fp:7)
+D40: 13 (tp:0, fp:13)

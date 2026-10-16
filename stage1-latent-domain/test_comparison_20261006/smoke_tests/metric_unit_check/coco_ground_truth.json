@@ -1,0 +1,35 @@
+{
+  "info": {
+    "description": "RDD2022 fixed test split"
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "a.jpg",
+      "width": 32,
+      "height": 32
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "D00"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        2,
+        2,
+        10,
+        10
+      ],
+      "area": 100,
+      "iscrowd": 0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "expert": "India",
+    "gpu": 1,
+    "smoke_passed": true,
+    "validation_images": 17,
+    "peak_mem_GB": 9.785
+  },
+  {
+    "expert": "Japan",
+    "gpu": 2,
+    "smoke_passed": true,
+    "validation_images": 17,
+    "peak_mem_GB": 9.785
+  },
+  {
+    "expert": "United_States",
+    "gpu": 3,
+    "smoke_passed": true,
+    "validation_images": 17,
+    "peak_mem_GB": 9.785
+  },
+  {
+    "expert": "Cluster_0",
+    "gpu": 4,
+    "smoke_passed": true,
+    "validation_images": 17,
+    "peak_mem_GB": 9.785
+  },
+  {
+    "expert": "Cluster_1",
+    "gpu": 5,
+    "smoke_passed": true,
+    "validation_images": 17,
+    "peak_mem_GB": 9.785
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "experiment": "latent_repeat",
+  "epochs": 100,
+  "seed": 11,
+  "total_batch_size": 12,
+  "paired_domains_per_row": 2,
+  "train_rows": 6829,
+  "train_appearances": 13658,
+  "unique_train_images": 12742,
+  "train_order_sha256": "f3622c9183fbfb5786e0113ade30a14d4435a0945922f0337a5bd1d89d125240",
+  "validation_images": 13,
+  "steps_per_epoch": 1139,
+  "train_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/combined_train.txt",
+  "val_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/combined_val.txt",
+  "train_sha256": "81ed8544669738d2b10502fa0b90522c6c343be11bb121331d4f03b146947e38",
+  "val_sha256": "bb1aadc30e9349228f2a140dbcf678ae1c3c025971474afd63a1cbf3286a4ffd",
+  "validation_order_sha256": "de01bdbf70e3633dac955d018a610f36eb70f852503605e9695b38bda78d64ad",
+  "initial_weights": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/model_data/yolov8_s.pth",
+  "initial_sha256": "bdc4bb8b12c63e59a6de61ae41295cb27e4c84ea743b8d34cc6339f35a8ede72",
+  "student_initial_sha256": "a39015afb2b872b29f31b2c3a3dbb317b5ff5c3735556a63b182dc2fb7776e34",
+  "cuda_visible_devices": "3",
+  "domains": [
+    "Cluster_0",
+    "Cluster_1"
+  ],
+  "experts": [
+    {
+      "domain": 0,
+      "name": "Cluster_0",
+      "path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/Cluster_0/best_epoch_weights.pth",
+      "sha256": "dfc0f9bc7f01d89e3637a5811b583b2c286f49d0b8461392722f7ad88ab79938",
+      "best": {
+        "epoch": 39,
+        "val_loss": 5.05672731890588,
+        "criterion": "minimum val_loss",
+        "validation_images": 738,
+        "weights": "best_epoch_weights.pth"
+      }
+    },
+    {
+      "domain": 1,
+      "name": "Cluster_1",
+      "path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/Cluster_1/best_epoch_weights.pth",
+      "sha256": "b3e51e674813fd6e8a1b7694279a0f0f51925d3b4be3da68566b3f05b020e288",
+      "best": {
+        "epoch": 52,
+        "val_loss": 4.793834502021379,
+        "criterion": "minimum val_loss",
+        "validation_images": 854,
+        "weights": "best_epoch_weights.pth"
+      }
+    }
+  ],
+  "discriminators": 2,
+  "optimizer": "SGD",
+  "momentum": 0.937,
+  "weight_decay": 0.0005,
+  "nominal_lr": 0.01,
+  "fitted_lr": 0.001875,
+  "min_lr": 1.8750000000000002e-05,
+  "scheduler": "cos",
+  "critic_optimizer": "Adam",
+  "critic_lr": 1e-05,
+  "critic_betas": [
+    0.9,
+    0.999
+  ],
+  "input_shape": [
+    640,
+    640
+  ],
+  "phi": "s",
+  "fp16": false,
+  "freeze_train": false,
+  "mosaic": false,
+  "mixup": false,
+  "fft": false,
+  "mixstyle": false,
+  "routing": "hard_domain_id",
+  "detection_weight": 1.0,
+  "adversarial_weight": 0.7,
+  "triplet_weight": 0.3,
+  "adversarial_feature": "feat3_20x20",
+  "triplet_features": [
+    "feat3_20x20",
+    "feat2_40x40"
+  ],
+  "triplet_inter_margin": 0.5,
+  "triplet_intra_margin": 0.1,
+  "triplet_intra_weight": 0.1,
+  "triplet_reduction": "mean over valid pools; mean over scales; no duplicated K=2 global pool",
+  "triplet_mining": "class-based batch-hard in domain pools; exclude self/invalid anchors",
+  "val_loss_reduction": "image-weighted batch mean",
+  "best_criterion": "minimum val_loss",
+  "smoke_steps": 3,
+  "cluster1_expert_training": "stopped during epoch 166; best epoch 52 authorized"
+}

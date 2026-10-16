@@ -1,0 +1,78 @@
+{
+  "experiment": "baseline",
+  "domain": "India",
+  "images": 2,
+  "voc": {
+    "map50": 0.5416666666666666,
+    "per_class": {
+      "D00": {
+        "ap50": null,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 0,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 0
+      },
+      "D10": {
+        "ap50": null,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 0,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 0
+      },
+      "D20": {
+        "ap50": 0.75,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666,
+        "gt_objects": 2,
+        "true_positive": 1,
+        "false_positive": 0,
+        "false_negative": 1
+      },
+      "D40": {
+        "ap50": 0.3333333333333333,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 1,
+        "true_positive": 0,
+        "false_positive": 2,
+        "false_negative": 1
+      }
+    },
+    "precision_macro": 0.5,
+    "recall_macro": 0.25,
+    "f1_macro": 0.3333333333333333
+  },
+  "coco": {
+    "map50_95": 0.22145214521452142,
+    "map50": 0.5429042904290429,
+    "map75": 0.16666666666666666,
+    "per_class": {
+      "D00": {
+        "ap50_95": null,
+        "ap50": null
+      },
+      "D10": {
+        "ap50_95": null,
+        "ap50": null
+      },
+      "D20": {
+        "ap50_95": 0.17623762376237623,
+        "ap50": 0.7524752475247525
+      },
+      "D40": {
+        "ap50_95": 0.2666666666666666,
+        "ap50": 0.3333333333333334
+      }
+    },
+    "max_detections": 100
+  },
+  "elapsed_s": 0.0683293342590332
+}

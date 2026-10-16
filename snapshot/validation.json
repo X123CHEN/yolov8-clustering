@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-16",
+  "training_restarted": false,
+  "training_entry_import": "passed",
+  "standard_evaluation_entry_import": "passed",
+  "standard_confidence_check": "passed: score=0.8 at threshold=0.5",
+  "relocated_source_records": 12742,
+  "relocated_validation_records": 1592,
+  "cluster_counts": [
+    5913,
+    6829
+  ],
+  "test_images": 9433,
+  "data_and_expert_availability_check": "passed with original external image directory",
+  "evaluation_archives_checked": 601,
+  "archived_files_checked": 630209,
+  "restoration_sample": "stage2-k-way/kway_comparison_100ep_seed11_20261015/01_country_multi_unique/testing/Norway/detection-results.tar.gz",
+  "final_four_runs": {
+    "01_country_multi_unique": {
+      "voc_map50_percent": 40.678864440330536,
+      "coco_map50_percent": 40.28475107626533
+    },
+    "02_latent_multi_unique": {
+      "voc_map50_percent": 40.67259068127943,
+      "coco_map50_percent": 40.38497201484379
+    },
+    "03_country_kway_unique": {
+      "voc_map50_percent": 40.8269749640842,
+      "coco_map50_percent": 40.40570261282488
+    },
+    "04_latent_kway_unique": {
+      "voc_map50_percent": 40.361837759989385,
+      "coco_map50_percent": 40.069357385253085
+    }
+  },
+  "historical_logs_included": false,
+  "dataset_images_included": false
+}

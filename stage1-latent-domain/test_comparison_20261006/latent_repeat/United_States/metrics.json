@@ -1,0 +1,78 @@
+{
+  "experiment": "latent_repeat",
+  "domain": "United_States",
+  "images": 481,
+  "voc": {
+    "map50": 0.671288212567047,
+    "per_class": {
+      "D00": {
+        "ap50": 0.747373153782061,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 625,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 625
+      },
+      "D10": {
+        "ap50": 0.6824083372892754,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 334,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 334
+      },
+      "D20": {
+        "ap50": 0.6486011728614475,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 76,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 76
+      },
+      "D40": {
+        "ap50": 0.6067701863354038,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 23,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 23
+      }
+    },
+    "precision_macro": 0.0,
+    "recall_macro": 0.0,
+    "f1_macro": 0.0
+  },
+  "coco": {
+    "map50_95": 0.3913561982511005,
+    "map50": 0.667905696953199,
+    "map75": 0.40488499924351345,
+    "per_class": {
+      "D00": {
+        "ap50_95": 0.42978963585320457,
+        "ap50": 0.7455348779161074
+      },
+      "D10": {
+        "ap50_95": 0.32423610321763047,
+        "ap50": 0.6739661465999309
+      },
+      "D20": {
+        "ap50_95": 0.42278614015771737,
+        "ap50": 0.645806346040746
+      },
+      "D40": {
+        "ap50_95": 0.38861291377584967,
+        "ap50": 0.6063154172560115
+      }
+    },
+    "max_detections": 100
+  },
+  "elapsed_s": 72.86674642562866
+}

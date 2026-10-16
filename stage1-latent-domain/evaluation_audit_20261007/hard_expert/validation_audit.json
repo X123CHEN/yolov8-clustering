@@ -1,0 +1,53 @@
+{
+  "experiment": "hard_expert",
+  "best_epoch": 31,
+  "logged_map50_at_best": 0.5077451252796322,
+  "weights_sha256": "2c0511eb0903ae893b6cc6b3614d62fbb32189d6d9e7713464a03e8b6d66afb7",
+  "decoder_sha256": "a6999d3ad99266c34ac9eb83642a7b74ba0005f1bf834446938be4f071d748f3",
+  "legacy_decoder_sha256": "26dd5139f3fcd330c292cb9ec1de4853bbdf78663bb05577330530ffdaa7620c",
+  "validation_images": 1592,
+  "train_test_val_path_overlap": {
+    "Japan": {
+      "train": 0,
+      "val": 0
+    },
+    "India": {
+      "train": 0,
+      "val": 0
+    },
+    "United_States": {
+      "train": 0,
+      "val": 0
+    },
+    "Norway": {
+      "train": 0,
+      "val": 0
+    },
+    "new_Czech": {
+      "train": 0,
+      "val": 0
+    },
+    "new_China_Drone": {
+      "train": 0,
+      "val": 0
+    },
+    "new_China_MotorBike": {
+      "train": 0,
+      "val": 0
+    }
+  },
+  "modes": {
+    "legacy_uncertainty": {
+      "coco50": 0.5077451252796322,
+      "coco50_95": 0.2538931652529186,
+      "voc50": 0.5113718794105393,
+      "difference_from_training_log": 0.0
+    },
+    "standard_class": {
+      "coco50": 0.5861193761045314,
+      "coco50_95": 0.28546706663089644,
+      "voc50": 0.5914547972770869,
+      "difference_from_training_log": 0.07837425082489913
+    }
+  }
+}

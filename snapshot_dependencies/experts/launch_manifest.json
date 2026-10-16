@@ -1,0 +1,175 @@
+{
+  "project": "/data4/czh/yolov8-cluster/yolov8-pretrain",
+  "python": "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+  "epochs": 200,
+  "batch_size": 16,
+  "seed": 11,
+  "best_criterion": "minimum val_loss",
+  "experts": [
+    {
+      "expert": "India",
+      "gpu": 1,
+      "screen": "R1",
+      "train_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/India_train.txt",
+      "val_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/India_val.txt",
+      "num_train": 2578,
+      "num_val": 322,
+      "sha256": {
+        "train": "e3d4f09f7510bf0c53a2481ee1775c555e18298f43275c7f2f0c5de1e069692d",
+        "val": "5d95736fa29f85e461fc4a43bfb81d42e705ac56c487e2397715566cdb0c7c12"
+      },
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_single.py",
+        "--expert",
+        "India",
+        "--epochs",
+        "200",
+        "--batch_size",
+        "16",
+        "--manual_seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep"
+      ],
+      "log_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R1_India.log",
+      "script_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R1_India.sh",
+      "results_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/India"
+    },
+    {
+      "expert": "Japan",
+      "gpu": 2,
+      "screen": "R2",
+      "train_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/Japan_train.txt",
+      "val_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/Japan_val.txt",
+      "num_train": 6320,
+      "num_val": 790,
+      "sha256": {
+        "train": "eba983c680d4ea675d14a7d8d8d56a1051933cadeb97e0ecb1df4dcafc1be590",
+        "val": "696646ce5a065920c1fc7816918a0c3c6934c847e6cc71a9cd56bd5964bca74f"
+      },
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_single.py",
+        "--expert",
+        "Japan",
+        "--epochs",
+        "200",
+        "--batch_size",
+        "16",
+        "--manual_seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep"
+      ],
+      "log_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R2_Japan.log",
+      "script_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R2_Japan.sh",
+      "results_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/Japan"
+    },
+    {
+      "expert": "United_States",
+      "gpu": 3,
+      "screen": "R3",
+      "train_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/United_States_train.txt",
+      "val_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/United_States_val.txt",
+      "num_train": 3844,
+      "num_val": 480,
+      "sha256": {
+        "train": "5e6569f8fc31be3fd9e2de07343d5719ac04fe932b29d867b1a71c93a10397e9",
+        "val": "a76269738db41e2f635651b0be2c7ac39649197a17d7c88d3575e03febfac9b6"
+      },
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_single.py",
+        "--expert",
+        "United_States",
+        "--epochs",
+        "200",
+        "--batch_size",
+        "16",
+        "--manual_seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep"
+      ],
+      "log_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R3_United_States.log",
+      "script_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R3_United_States.sh",
+      "results_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/United_States"
+    },
+    {
+      "expert": "Cluster_0",
+      "gpu": 4,
+      "screen": "R4",
+      "train_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/Cluster_0_train.txt",
+      "val_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/Cluster_0_val.txt",
+      "num_train": 5913,
+      "num_val": 738,
+      "sha256": {
+        "train": "289f27208fcaf3d85ccb629652267ee1b6b828254f87eb9e8c8204021fb5941d",
+        "val": "e76df8d20e38fdc6cd408a9d37fb7491a39bf69b67e3d1c84e117074f60edd29"
+      },
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_single.py",
+        "--expert",
+        "Cluster_0",
+        "--epochs",
+        "200",
+        "--batch_size",
+        "16",
+        "--manual_seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep"
+      ],
+      "log_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R4_Cluster_0.log",
+      "script_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R4_Cluster_0.sh",
+      "results_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/Cluster_0"
+    },
+    {
+      "expert": "Cluster_1",
+      "gpu": 5,
+      "screen": "R5",
+      "train_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/Cluster_1_train.txt",
+      "val_txt": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/Cluster_1_val.txt",
+      "num_train": 6829,
+      "num_val": 854,
+      "sha256": {
+        "train": "c21a24f1dea6273e6df638e7974f289720fd93e203ab14932666af2fc1379e7a",
+        "val": "6a05f7a953a484ca72cfce9cd55f305352ab0d20aa330f9a322ef0bf0878faac"
+      },
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "train_style_single.py",
+        "--expert",
+        "Cluster_1",
+        "--epochs",
+        "200",
+        "--batch_size",
+        "16",
+        "--manual_seed",
+        "11",
+        "--num_workers",
+        "8",
+        "--results_path",
+        "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep"
+      ],
+      "log_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R5_Cluster_1.log",
+      "script_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/launch_logs/R5_Cluster_1.sh",
+      "results_path": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep/Cluster_1"
+    }
+  ]
+}

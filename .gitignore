@@ -147,3 +147,6 @@ dmypy.json
 reproductions/
 .venv-detection/
 .venv-clustering/
+
+# Historical training archive is kept outside this snapshot
+/logs/

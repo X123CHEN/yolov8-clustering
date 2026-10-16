@@ -1,0 +1,18 @@
+/data4/czh/yolov8-cluster/yolov8-hard-clustering/utils/utils_bbox.py:719: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources as pkg
+test_assignment_and_config_validation (test_latent_ablation.Contracts) ... ok
+test_ce_hard_equivalence_and_prior_stationary_point (test_latent_ablation.Contracts) ... ok
+test_discriminator_update_detaches_features_and_skips_missing_reference (test_latent_ablation.Contracts) ... ok
+test_kway_general_k_and_gradient_isolation (test_latent_ablation.Contracts) ... ok
+test_onehot_loss_and_gradient_match_historical (test_latent_ablation.Contracts) ... ok
+test_soft_routing_uses_both_branches (test_latent_ablation.Contracts) ... ok
+test_coco_failure_is_not_relabelled_as_voc (test_latent_validation.ValidationProtocolTests) ... source val COCO AP50: 0it [00:00, ?it/s]source val COCO AP50: 0it [00:00, ?it/s]
+ok
+test_four_presets_share_historical_training_protocol (test_latent_validation.ValidationProtocolTests) ... ok
+test_legacy_nms_matches_original_decoder (test_latent_validation.ValidationProtocolTests) ... ok
+test_standard_mode_is_unchanged (test_latent_validation.ValidationProtocolTests) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.617s
+
+OK

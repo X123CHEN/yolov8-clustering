@@ -1,0 +1,7 @@
+{
+  "complete_evaluations": 35,
+  "images_per_model": 9433,
+  "total_model_image_inferences": 47165,
+  "configs_match": true,
+  "prediction_files_complete": true
+}

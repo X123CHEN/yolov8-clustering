@@ -1,0 +1,7 @@
+
+- latent_repeat minus country_repeat：四目标域 VOC mAP@50 差值 +1.00 个百分点；COCO mAP@50:95 差值 +0.39 个百分点。
+- latent_unique minus country_unique：四目标域 VOC mAP@50 差值 +0.26 个百分点；COCO mAP@50:95 差值 +0.22 个百分点。
+
+去重组的图片与更新预算一致，适合比较域划分；不去重组同时包含采样比例和更新次数差异。全部实验仅一个随机种子，测试结果不能单独证明统计显著性。Cluster_1专家按用户确认使用中断训练前的第52轮best。
+
+逐类别结果见 class_metrics.csv；逐域结果见 domain_metrics.csv；等权域平均见 macro_metrics.csv；对比差值见 comparison_deltas.csv。原始预测、GT、COCO JSON和域指标保留在各实验/国家子目录。

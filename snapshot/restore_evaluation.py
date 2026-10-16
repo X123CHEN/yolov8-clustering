@@ -19,6 +19,7 @@ def main():
         if args.list:
             print(row['archive'], row['files'])
             continue
+        (destination/row['restored_directory']).mkdir(parents=True, exist_ok=True)
         with tarfile.open(archive) as packed:
             packed.extractall(destination)
     print(f'{len(rows)} evaluation archives; {sum(int(r["files"]) for r in rows)} files')

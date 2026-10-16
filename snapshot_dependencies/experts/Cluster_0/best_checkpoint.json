@@ -1,0 +1,7 @@
+{
+  "epoch": 39,
+  "val_loss": 5.05672731890588,
+  "criterion": "minimum val_loss",
+  "validation_images": 738,
+  "weights": "best_epoch_weights.pth"
+}

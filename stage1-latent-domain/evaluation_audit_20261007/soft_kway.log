@@ -1,0 +1,91 @@
+/data4/czh/yolov8-cluster/yolov8-hard-clustering/utils/utils_bbox.py:719: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources as pkg
+initialize network with normal type
+soft_kway same-val dual-confidence:   0%|          | 0/1592 [00:00<?, ?it/s]soft_kway same-val dual-confidence:  16%|█▌        | 247/1592 [00:15<01:21, 16.45it/s]soft_kway same-val dual-confidence:  16%|█▌        | 247/1592 [00:30<01:21, 16.45it/s]soft_kway same-val dual-confidence:  33%|███▎      | 519/1592 [00:30<01:01, 17.41it/s]soft_kway same-val dual-confidence:  50%|█████     | 798/1592 [00:45<00:44, 17.93it/s]soft_kway same-val dual-confidence:  50%|█████     | 798/1592 [01:00<00:44, 17.93it/s]soft_kway same-val dual-confidence:  68%|██████▊   | 1079/1592 [01:00<00:28, 18.24it/s]soft_kway same-val dual-confidence:  91%|█████████ | 1441/1592 [01:15<00:07, 20.36it/s]soft_kway same-val dual-confidence: 100%|██████████| 1592/1592 [01:20<00:00, 19.71it/s]
+loading annotations into memory...
+Done (t=0.15s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.01s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=0.79s).
+Accumulating evaluation results...
+DONE (t=0.32s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.251
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.493
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.230
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.175
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.209
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.288
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.247
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.345
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.345
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.231
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.291
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.395
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.02s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=1.14s).
+Accumulating evaluation results...
+DONE (t=0.25s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.286
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.579
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.251
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.217
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.243
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.320
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.268
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.424
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.425
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.357
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.379
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.467
+VALIDATION_AUDIT {"experiment": "soft_kway", "best_epoch": 27, "logged_map50_at_best": 0.5790973533212883, "weights_sha256": "f636d666bb4ded00881eb806d6b337c86db14a1d6867461593e29c83199d4ff3", "decoder_sha256": "a6999d3ad99266c34ac9eb83642a7b74ba0005f1bf834446938be4f071d748f3", "legacy_decoder_sha256": "26dd5139f3fcd330c292cb9ec1de4853bbdf78663bb05577330530ffdaa7620c", "validation_images": 1592, "train_test_val_path_overlap": {"Japan": {"train": 0, "val": 0}, "India": {"train": 0, "val": 0}, "United_States": {"train": 0, "val": 0}, "Norway": {"train": 0, "val": 0}, "new_Czech": {"train": 0, "val": 0}, "new_China_Drone": {"train": 0, "val": 0}, "new_China_MotorBike": {"train": 0, "val": 0}}, "modes": {"legacy_uncertainty": {"coco50": 0.4926539311399822, "coco50_95": 0.2505886855243246, "voc50": 0.49665419973813885, "difference_from_training_log": -0.08644342218130613}, "standard_class": {"coco50": 0.5791036682766505, "coco50_95": 0.28559079196520554, "voc50": 0.5857566309668566, "difference_from_training_log": 6.314955362185515e-06}}}
+54.07% = D00 AP 	||	score_threhold=0.5 : F1=0.40 ; Recall=27.20% ; Precision=78.36%
+48.74% = D10 AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=15.95% ; Precision=81.82%
+71.69% = D20 AP 	||	score_threhold=0.5 : F1=0.59 ; Recall=43.81% ; Precision=88.44%
+62.50% = D40 AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=30.94% ; Precision=90.79%
+mAP = 59.25%
+45.52% = D00 AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=12.10% ; Precision=82.61%
+19.47% = D10 AP 	||	score_threhold=0.5 : F1=0.25 ; Recall=14.29% ; Precision=100.00%
+65.10% = D20 AP 	||	score_threhold=0.5 : F1=0.50 ; Recall=35.11% ; Precision=89.19%
+45.99% = D40 AP 	||	score_threhold=0.5 : F1=0.27 ; Recall=16.35% ; Precision=86.44%
+mAP = 44.02%
+75.36% = D00 AP 	||	score_threhold=0.5 : F1=0.63 ; Recall=50.40% ; Precision=82.89%
+68.82% = D10 AP 	||	score_threhold=0.5 : F1=0.46 ; Recall=31.74% ; Precision=86.89%
+66.09% = D20 AP 	||	score_threhold=0.5 : F1=0.58 ; Recall=46.05% ; Precision=77.78%
+53.40% = D40 AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=21.74% ; Precision=100.00%
+mAP = 65.92%
+14.49% = D00 AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=7.19% ; Precision=68.98%
+23.25% = D10 AP 	||	score_threhold=0.5 : F1=0.18 ; Recall=10.00% ; Precision=77.23%
+7.09% = D20 AP 	||	score_threhold=0.5 : F1=0.12 ; Recall=7.05% ; Precision=34.74%
+5.95% = D40 AP 	||	score_threhold=0.5 : F1=0.03 ; Recall=1.30% ; Precision=66.67%
+mAP = 12.69%
+34.52% = D00 AP 	||	score_threhold=0.5 : F1=0.16 ; Recall=8.60% ; Precision=85.00%
+36.11% = D10 AP 	||	score_threhold=0.5 : F1=0.09 ; Recall=4.51% ; Precision=81.82%
+19.55% = D20 AP 	||	score_threhold=0.5 : F1=0.17 ; Recall=11.18% ; Precision=39.13%
+8.92% = D40 AP 	||	score_threhold=0.5 : F1=0.07 ; Recall=3.55% ; Precision=77.78%
+mAP = 24.78%
+30.96% = D00 AP 	||	score_threhold=0.5 : F1=0.10 ; Recall=5.19% ; Precision=66.67%
+55.18% = D10 AP 	||	score_threhold=0.5 : F1=0.36 ; Recall=23.28% ; Precision=81.44%
+7.87% = D20 AP 	||	score_threhold=0.5 : F1=0.13 ; Recall=10.92% ; Precision=16.16%
+36.87% = D40 AP 	||	score_threhold=0.5 : F1=0.45 ; Recall=34.88% ; Precision=65.22%
+mAP = 32.72%
+38.74% = D00 AP 	||	score_threhold=0.5 : F1=0.14 ; Recall=7.62% ; Precision=72.08%
+49.79% = D10 AP 	||	score_threhold=0.5 : F1=0.39 ; Recall=27.10% ; Precision=71.05%
+49.96% = D20 AP 	||	score_threhold=0.5 : F1=0.38 ; Recall=24.65% ; Precision=87.29%
+16.87% = D40 AP 	||	score_threhold=0.5 : F1=0.21 ; Recall=14.04% ; Precision=45.21%
+mAP = 38.84%
+AUDIT_COMPLETE soft_kway

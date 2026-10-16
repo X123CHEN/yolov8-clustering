@@ -1,0 +1,2 @@
+epoch,train_loss,val_loss,map_50,train_time_s,val_time_s,epoch_time_s,steps,images_per_step,train_images_per_s,loss_yolo,loss_triplet,loss_critic,loss_generator,peak_mem_GB
+1,1455.001892,1772.297471,0.0,19.851,4.667,24.705,2,16,1.612,1455.001892,0.000000,0.000000,0.000000,9.785

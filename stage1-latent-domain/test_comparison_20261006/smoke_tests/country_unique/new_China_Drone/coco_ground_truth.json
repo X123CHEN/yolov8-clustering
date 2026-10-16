@@ -1,0 +1,79 @@
+{
+  "info": {
+    "description": "RDD2022 fixed test split"
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "China_Drone_000000.jpg",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2,
+      "file_name": "China_Drone_000001.jpg",
+      "width": 512,
+      "height": 512
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "D00"
+    },
+    {
+      "id": 2,
+      "name": "D10"
+    },
+    {
+      "id": 3,
+      "name": "D20"
+    },
+    {
+      "id": 4,
+      "name": "D40"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 2,
+      "bbox": [
+        323.0,
+        213.0,
+        67.0,
+        32.0
+      ],
+      "area": 2144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 2,
+      "bbox": [
+        14.0,
+        70.0,
+        184.0,
+        29.0
+      ],
+      "area": 5336.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        95.0,
+        114.0,
+        25.0,
+        158.0
+      ],
+      "area": 3950.0,
+      "iscrowd": 0
+    }
+  ]
+}

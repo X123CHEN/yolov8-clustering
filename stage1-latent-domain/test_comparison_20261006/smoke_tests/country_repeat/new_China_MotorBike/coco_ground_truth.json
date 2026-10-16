@@ -1,0 +1,92 @@
+{
+  "info": {
+    "description": "RDD2022 fixed test split"
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "China_MotorBike_000000.jpg",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2,
+      "file_name": "China_MotorBike_000001.jpg",
+      "width": 512,
+      "height": 512
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "D00"
+    },
+    {
+      "id": 2,
+      "name": "D10"
+    },
+    {
+      "id": 3,
+      "name": "D20"
+    },
+    {
+      "id": 4,
+      "name": "D40"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 3,
+      "bbox": [
+        169.0,
+        1.0,
+        343.0,
+        179.0
+      ],
+      "area": 61397.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 3,
+      "bbox": [
+        419.0,
+        180.0,
+        93.0,
+        115.0
+      ],
+      "area": 10695.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        124.0,
+        1.0,
+        24.0,
+        44.0
+      ],
+      "area": 1056.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2,
+      "category_id": 4,
+      "bbox": [
+        203.0,
+        214.0,
+        35.0,
+        80.0
+      ],
+      "area": 2800.0,
+      "iscrowd": 0
+    }
+  ]
+}

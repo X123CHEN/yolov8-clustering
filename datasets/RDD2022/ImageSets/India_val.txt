@@ -1,0 +1,322 @@
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008061.jpg 13,439,620,639,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000949.jpg 232,344,358,696,0 109,347,460,692,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005856.jpg 167,525,235,550,3 45,567,305,712,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001626.jpg 2,558,583,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000781.jpg 386,545,630,634,3 442,390,509,472,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007279.jpg 10,487,720,638,2 438,444,557,598,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001139.jpg 27,482,548,719,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003548.jpg 268,436,533,609,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001923.jpg 210,582,275,626,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002089.jpg 404,581,720,715,2 459,598,496,640,3 429,543,466,585,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009167.jpg 155,509,474,606,2 321,415,380,592,0 154,492,294,635,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001381.jpg 204,521,275,610,3 1,572,72,633,3 126,626,244,720,3 271,587,318,658,3 477,462,720,669,3 131,508,203,569,3 85,574,157,635,3 1,647,72,708,3 326,553,398,614,3 408,513,480,574,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002230.jpg 525,502,654,581,2 596,585,720,677,2 462,587,597,678,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002305.jpg 434,520,485,553,3 404,475,455,508,3 527,531,578,564,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001773.jpg 65,476,720,658,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006071.jpg 367,471,423,660,0 509,527,720,679,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008541.jpg 1,480,603,680,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006465.jpg 14,433,189,488,3 449,442,582,532,3 306,422,381,467,3 293,495,368,540,3 85,501,225,582,3 194,397,269,442,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007699.jpg 191,610,416,718,2 344,402,402,421,3 348,439,380,462,3 300,365,332,388,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006936.jpg 87,522,646,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000525.jpg 3,534,578,668,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000369.jpg 13,492,562,710,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001250.jpg 371,364,419,392,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006077.jpg 227,463,631,619,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000873.jpg 161,586,377,708,3 209,529,324,585,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002301.jpg 413,585,720,720,2 294,541,335,662,0 201,601,241,696,0 150,544,192,632,0 247,596,284,653,0 349,525,386,607,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006320.jpg 491,525,670,669,3 265,464,387,608,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004273.jpg 531,677,596,719,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007985.jpg 168,455,530,646,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006362.jpg 1,531,484,702,2 52,530,129,560,3 116,499,193,529,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008661.jpg 510,532,616,594,3 341,508,405,532,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004483.jpg 278,601,434,716,3 386,509,421,562,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009097.jpg 245,517,319,563,3 224,436,426,481,3 16,454,167,505,3 122,593,262,682,3 265,474,504,602,2 85,575,212,720,0 541,485,664,604,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007163.jpg 159,485,639,673,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008317.jpg 3,600,181,689,3 360,485,561,549,3 181,471,235,504,3 285,478,339,511,3 577,486,648,555,3 240,529,351,623,0 17,603,238,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001143.jpg 140,539,506,699,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000283.jpg 1,452,580,648,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007888.jpg 9,515,561,692,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005048.jpg 215,530,708,709,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002459.jpg 234,514,296,542,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001524.jpg 6,589,436,720,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006822.jpg 364,445,710,651,2 319,432,359,635,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009592.jpg 450,492,560,570,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005486.jpg 507,463,709,649,2 307,641,400,686,3 442,654,515,684,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001149.jpg 230,534,573,709,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004828.jpg 27,542,521,720,2 356,499,411,519,3 383,561,466,602,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003247.jpg 279,477,350,683,0 100,547,720,708,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001066.jpg 588,592,674,687,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001596.jpg 70,509,720,701,2 409,508,437,678,0 489,544,575,593,3 77,522,260,605,3 520,466,703,549,3 261,460,347,509,3 388,481,490,516,3 455,625,586,675,3 621,585,676,617,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003013.jpg 11,583,279,712,3 341,466,391,485,3 331,495,402,516,3 109,426,194,465,3 42,482,127,521,3 144,477,299,555,3 524,557,569,601,3 278,485,425,592,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001623.jpg 383,497,469,647,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001147.jpg 220,583,312,707,0 314,520,504,714,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002368.jpg 268,498,602,708,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002714.jpg 415,448,476,483,3 221,470,503,618,2 195,447,330,623,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002371.jpg 263,418,377,483,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003919.jpg 1,505,103,662,2 43,439,348,661,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007581.jpg 339,537,595,667,2 574,593,641,636,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003925.jpg 470,449,638,574,3 196,379,340,457,3 383,371,439,402,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002187.jpg 482,589,700,708,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004321.jpg 351,365,440,430,3 448,395,480,414,3 451,425,527,459,3 379,504,519,547,3 1,388,134,430,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007886.jpg 492,472,600,610,0 92,450,402,624,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002936.jpg 228,480,495,569,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001655.jpg 424,521,662,694,2 236,647,349,717,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007371.jpg 428,327,511,370,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008872.jpg 190,530,239,576,3 176,525,720,678,3 20,487,251,712,2 261,471,387,518,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006817.jpg 40,489,552,676,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002696.jpg 139,472,221,501,3 329,470,384,501,3 338,487,404,640,0 414,529,444,644,0 526,552,605,672,0 462,506,562,668,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006647.jpg 336,520,379,554,3 350,422,384,444,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008437.jpg 194,490,292,617,3 161,463,698,654,2 354,449,377,487,0 307,444,330,485,0 404,460,427,498,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008018.jpg 377,374,445,501,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006697.jpg 518,576,623,656,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007935.jpg 389,522,568,680,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002516.jpg 259,392,358,439,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009000.jpg 233,351,434,548,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001957.jpg 122,523,522,617,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009177.jpg 350,527,448,577,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006646.jpg 511,571,667,662,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005218.jpg 129,519,354,710,2 339,399,423,514,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007965.jpg 316,423,474,609,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004669.jpg 1,429,285,640,2 409,412,451,436,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000361.jpg 136,494,613,602,2 321,478,368,507,3 238,486,321,521,3 332,422,422,454,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005526.jpg 607,315,709,490,3 213,292,720,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006656.jpg 238,516,442,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002405.jpg 33,367,479,522,2 445,431,479,460,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008829.jpg 352,465,527,597,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007811.jpg 202,547,624,705,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006395.jpg 301,462,340,557,0 341,411,367,459,0 451,528,477,576,0 371,477,511,602,2 9,450,343,626,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001481.jpg 174,582,200,626,0 227,525,712,718,2 266,456,569,524,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007318.jpg 377,424,699,656,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006280.jpg 427,527,720,704,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001242.jpg 433,532,506,572,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006269.jpg 207,422,247,462,3 139,369,698,698,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007767.jpg 244,556,538,715,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003062.jpg 249,505,393,698,0 182,521,564,699,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004423.jpg 174,548,528,711,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003999.jpg 1,500,438,718,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003558.jpg 84,523,277,694,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000197.jpg 428,568,555,677,0 516,568,675,679,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002860.jpg 198,678,249,710,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001890.jpg 462,364,720,693,2 329,242,465,328,2 322,181,380,215,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002366.jpg 8,449,386,711,2 112,468,372,714,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000500.jpg 134,506,524,666,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000352.jpg 59,408,362,647,2 367,401,652,533,2 44,593,92,619,3 341,365,389,391,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009038.jpg 216,434,329,615,0 22,474,305,697,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003256.jpg 150,500,231,702,0 205,388,269,492,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000436.jpg 556,526,683,651,0 1,497,684,664,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007740.jpg 1,565,719,707,2 33,580,193,705,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005297.jpg 364,462,397,564,0 218,627,312,676,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002337.jpg 277,459,689,694,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001278.jpg 441,526,509,629,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003939.jpg 489,495,720,674,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006598.jpg 188,477,351,682,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006012.jpg 429,550,480,673,0 262,541,362,606,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005469.jpg 95,569,161,614,3 1,675,66,720,3 168,583,234,628,3 17,522,83,567,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004209.jpg 1,448,83,499,3 1,397,379,712,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001531.jpg 46,537,307,716,2 327,515,355,627,0 272,489,311,532,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006202.jpg 17,458,614,637,2 191,464,219,485,3 7,641,167,720,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009017.jpg 280,487,440,548,3 1,472,151,559,3 258,415,359,456,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003083.jpg 433,512,541,650,2 281,567,388,650,2 403,505,428,632,0 150,514,270,560,3 37,574,293,720,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009163.jpg 437,537,488,583,3 317,515,369,583,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005071.jpg 393,516,556,638,2 559,550,720,659,2 295,524,371,635,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005219.jpg 281,449,453,509,3 202,515,259,604,3 268,555,310,612,3 137,494,388,655,2 319,387,465,448,3 11,507,369,707,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005820.jpg 1,487,180,596,3 238,480,286,519,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009818.jpg 413,480,467,611,0 231,490,319,624,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000825.jpg 326,421,562,514,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002031.jpg 13,505,276,711,2 291,508,621,676,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001122.jpg 392,437,561,611,2 563,523,689,597,2 392,501,446,545,3 606,526,660,570,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009221.jpg 398,443,720,708,2 580,578,718,706,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001475.jpg 387,384,449,480,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007072.jpg 408,529,481,659,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006831.jpg 11,457,558,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009649.jpg 307,544,447,686,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006476.jpg 61,498,358,596,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000591.jpg 70,470,631,616,2 188,570,339,647,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006756.jpg 29,494,393,709,2 13,405,467,571,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000416.jpg 182,235,622,682,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004690.jpg 83,538,548,700,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007611.jpg 5,587,76,658,3 564,616,696,705,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000090.jpg 385,411,483,589,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006325.jpg 416,417,444,600,0 286,433,412,496,3 505,501,618,619,2 267,506,417,628,2 54,575,237,691,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001367.jpg 589,551,656,581,3 182,580,371,702,3 429,497,574,554,3 627,600,706,662,3 260,505,421,565,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006713.jpg 266,554,314,616,3 360,557,399,582,3 432,510,467,647,0 524,539,584,653,0 385,515,419,571,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005166.jpg 405,547,525,673,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002466.jpg 232,578,327,720,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006253.jpg 460,526,596,714,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009004.jpg 238,592,528,712,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003412.jpg 16,517,562,657,2 69,456,199,510,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006593.jpg 360,619,410,642,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006839.jpg 14,444,511,684,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001704.jpg 278,549,342,575,3 308,572,356,599,3 430,583,478,610,3 190,608,299,675,3 1,419,378,680,3 368,589,431,636,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003789.jpg 305,481,407,655,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002570.jpg 93,607,227,715,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007644.jpg 5,475,120,538,3 12,434,125,470,3 174,392,253,427,3 294,344,456,396,3 1,595,180,718,3 359,500,395,558,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004726.jpg 279,469,372,516,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003878.jpg 214,442,323,499,3 345,393,410,422,3 301,353,453,387,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003203.jpg 366,458,399,651,0 18,500,694,685,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007048.jpg 49,559,454,698,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006462.jpg 369,569,414,587,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006564.jpg 222,605,373,689,3 249,520,400,604,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002013.jpg 1,415,592,619,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008019.jpg 240,496,468,650,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007062.jpg 28,570,234,698,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003631.jpg 321,569,581,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007033.jpg 261,617,316,720,0 321,558,374,712,0 233,551,537,712,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006614.jpg 362,515,596,619,2 441,539,520,578,3 211,490,290,529,3 251,427,330,466,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005550.jpg 475,475,552,529,0 396,537,477,605,3 492,526,701,626,3 1,512,166,592,3 171,440,297,512,3 70,614,188,686,3 184,514,392,607,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002757.jpg 245,507,428,659,3 374,482,437,503,3 642,651,665,675,3 409,476,521,560,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001041.jpg 230,467,300,625,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007276.jpg 367,579,691,701,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006197.jpg 587,665,672,719,0 488,592,547,720,0 474,541,593,590,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005563.jpg 544,511,706,706,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006518.jpg 543,567,667,631,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006488.jpg 79,467,338,685,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001798.jpg 221,633,284,709,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005948.jpg 380,541,657,706,2 101,477,379,642,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001695.jpg 56,526,629,719,2 271,596,306,641,3 461,649,489,680,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004161.jpg 396,488,574,589,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006677.jpg 161,683,213,707,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002098.jpg 202,641,357,720,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009108.jpg 436,456,709,650,2 346,424,426,612,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005419.jpg 262,350,536,561,2 1,434,162,617,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008772.jpg 295,500,630,633,2 166,495,280,664,0 268,586,296,624,3 478,459,514,525,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002716.jpg 533,252,677,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000427.jpg 37,521,569,670,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006125.jpg 39,540,272,708,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008750.jpg 11,551,188,702,2 281,447,352,471,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009268.jpg 522,451,712,702,3 249,390,406,451,3 231,282,330,310,3 10,438,250,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006912.jpg 3,456,109,528,3 140,451,246,523,3 7,534,263,720,3 268,527,584,651,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004257.jpg 18,509,544,690,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005569.jpg 278,553,691,717,2 247,647,286,681,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000524.jpg 79,399,269,700,0 286,418,476,719,0 68,406,688,707,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001004.jpg 475,525,530,563,0 264,497,311,531,0 73,460,481,569,2 116,412,171,450,0 443,471,498,509,0 451,400,506,438,0 321,369,376,407,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006336.jpg 318,338,532,366,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004340.jpg 314,562,399,632,3 2,526,264,697,3 235,422,469,520,3 536,484,584,508,3 435,466,483,490,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000268.jpg 314,477,369,511,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003284.jpg 352,497,496,535,3 345,465,416,494,3 174,434,321,498,3 101,462,172,491,3 510,517,596,563,3 12,456,83,485,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008724.jpg 494,508,636,662,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006730.jpg 20,470,556,677,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003852.jpg 3,526,204,614,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008940.jpg 41,491,301,652,2 393,479,720,661,2 302,456,357,615,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004876.jpg 473,633,561,720,3 436,555,514,626,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003045.jpg 338,478,691,686,2 530,524,648,694,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009415.jpg 432,500,510,538,3 428,551,477,577,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001491.jpg 65,533,171,612,3 322,493,486,554,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009426.jpg 195,476,337,599,0 2,587,107,652,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001173.jpg 242,545,398,696,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002544.jpg 362,494,482,526,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008172.jpg 275,525,672,674,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004065.jpg 99,569,701,687,3 434,539,505,572,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005871.jpg 82,507,267,616,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004270.jpg 200,436,321,647,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006318.jpg 80,616,295,718,3 373,482,555,542,3 294,598,517,629,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008190.jpg 142,551,677,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007148.jpg 355,597,633,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006901.jpg 466,505,613,674,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004689.jpg 5,559,679,719,2 542,549,664,705,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000109.jpg 403,595,541,643,3 27,549,378,710,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007849.jpg 316,527,514,688,2 528,536,666,610,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002398.jpg 442,476,656,649,2 387,486,461,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005755.jpg 10,620,484,720,2 411,578,481,607,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008755.jpg 302,630,345,714,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001566.jpg 346,439,421,575,0 333,440,624,575,2 462,455,584,474,1 588,460,634,493,3 1,493,259,718,3 307,469,363,506,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004830.jpg 119,380,632,717,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005152.jpg 500,516,701,646,2 268,549,320,597,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001053.jpg 108,435,312,533,3 280,496,553,710,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002804.jpg 129,491,311,681,0 476,505,535,533,3 541,515,720,658,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004911.jpg 73,499,651,676,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001949.jpg 372,495,416,636,0 188,506,339,713,0 357,438,469,500,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009175.jpg 474,516,592,703,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006287.jpg 312,514,409,697,0 175,631,252,717,0 148,526,490,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006536.jpg 9,551,170,696,3 256,467,367,508,3 266,410,333,448,3 287,395,638,567,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006773.jpg 451,538,530,683,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004309.jpg 383,504,482,649,2 530,573,719,677,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003406.jpg 47,469,402,694,2 252,441,306,462,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002849.jpg 156,510,713,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002154.jpg 423,507,716,700,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000512.jpg 362,422,612,611,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006702.jpg 282,418,520,499,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005968.jpg 446,590,494,616,3 472,637,523,671,3 368,569,604,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009541.jpg 232,444,720,690,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002148.jpg 91,590,192,656,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003191.jpg 74,513,163,590,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005994.jpg 201,490,720,655,2 1,550,202,720,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002437.jpg 518,501,712,658,2 522,516,643,649,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002411.jpg 89,442,394,502,3 120,368,701,708,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008576.jpg 173,289,329,332,3 316,441,415,512,3 167,504,289,720,3 408,514,561,624,3 131,364,489,537,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000955.jpg 11,488,304,718,2 309,501,423,617,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009144.jpg 11,492,425,716,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008029.jpg 144,451,281,493,3 300,426,450,475,3 423,467,462,647,0 492,550,540,648,0 17,532,280,686,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008223.jpg 417,473,516,564,2 381,433,442,467,2 280,575,420,657,3 414,514,502,569,3 361,489,408,558,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006705.jpg 318,571,361,682,0 90,474,349,718,0 423,533,466,644,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007915.jpg 199,473,238,495,3 347,464,386,486,3 1,526,367,720,3 324,461,577,595,2 546,461,681,601,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009260.jpg 568,542,698,656,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005661.jpg 439,583,519,617,3 383,523,463,557,3 291,476,394,517,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001388.jpg 568,465,711,553,3 266,345,528,432,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007909.jpg 423,560,495,587,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000614.jpg 434,601,478,640,3 400,678,436,713,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001702.jpg 8,496,598,659,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002985.jpg 300,468,397,562,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003340.jpg 9,521,546,673,2 336,528,371,653,0 15,623,78,690,0 129,654,168,713,0 195,629,234,688,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000373.jpg 4,496,297,672,3 297,476,451,696,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009294.jpg 39,221,701,685,2 389,248,548,418,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005762.jpg 5,601,240,636,1 200,396,278,448,3 392,512,458,642,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005081.jpg 345,380,390,405,3 188,436,260,474,3 1,519,159,607,3 470,417,681,545,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001648.jpg 167,332,707,712,2 1,587,194,717,3 1,490,146,576,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008039.jpg 51,506,594,697,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000299.jpg 101,476,224,690,0 63,406,700,699,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007101.jpg 372,519,427,552,3 1,398,427,569,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008144.jpg 301,622,338,694,0 358,603,395,675,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003841.jpg 344,553,433,578,1 276,500,386,681,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004407.jpg 126,536,480,680,2 392,455,491,683,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007172.jpg 246,585,278,625,3 162,518,347,662,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003522.jpg 268,510,360,715,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008504.jpg 1,564,126,650,0 3,511,274,712,2 356,519,701,654,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000563.jpg 254,472,706,695,2 172,584,414,671,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007628.jpg 336,473,669,621,2 1,497,328,718,2 123,484,343,660,0 305,414,454,474,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009687.jpg 357,545,396,717,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000459.jpg 289,581,430,669,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000923.jpg 20,458,436,677,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003976.jpg 452,368,706,699,2 94,475,268,705,0 248,374,352,439,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005732.jpg 371,531,629,715,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009001.jpg 288,580,493,686,2 1,601,212,719,2 50,531,146,590,2 1,594,47,661,3 269,490,310,520,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009675.jpg 655,608,720,677,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008416.jpg 596,492,705,596,2 462,422,659,598,3 392,422,458,455,3 327,385,393,418,3 220,555,286,588,3 345,545,535,588,3 337,447,400,565,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006212.jpg 3,495,89,566,3 113,481,230,554,3 1,393,251,462,3 270,416,387,489,3 213,441,712,609,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006533.jpg 341,523,402,578,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007852.jpg 534,576,714,688,3 1,614,62,680,3 132,566,251,625,3 331,487,431,532,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008999.jpg 476,474,494,603,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005220.jpg 483,221,599,457,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002666.jpg 38,466,669,646,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003443.jpg 141,507,720,699,2 343,550,460,680,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005959.jpg 432,538,504,714,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005711.jpg 260,424,356,629,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008925.jpg 280,429,327,513,0 480,392,597,500,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002063.jpg 152,585,404,716,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003462.jpg 535,461,715,572,0 508,396,589,463,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000808.jpg 250,553,461,631,3 327,487,447,547,3 485,515,537,553,3 328,447,446,467,3 62,634,316,714,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_000560.jpg 422,509,575,652,0 584,502,720,641,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004364.jpg 451,410,518,492,0 518,492,619,591,0 482,457,685,599,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006240.jpg 173,342,326,659,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009556.jpg 2,530,678,710,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_001649.jpg 334,467,456,555,3 236,372,374,511,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009625.jpg 277,417,357,714,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003929.jpg 520,538,638,675,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007323.jpg 496,559,575,637,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002729.jpg 124,429,637,677,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004759.jpg 344,562,437,591,3 21,474,560,705,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002667.jpg 1,575,292,675,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002455.jpg 282,496,485,682,2 517,500,720,686,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005433.jpg 137,574,648,698,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_007981.jpg 436,506,486,569,3 354,515,385,597,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_009593.jpg 290,541,327,567,3 454,550,577,711,0 188,485,671,698,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003125.jpg 567,546,715,718,2 153,544,308,708,0 311,489,363,538,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008329.jpg 1,478,643,671,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005078.jpg 374,491,473,539,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004070.jpg 452,592,566,678,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_003036.jpg 201,531,395,715,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_006260.jpg 186,535,549,694,2 338,504,397,689,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_005588.jpg 50,500,256,594,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_008909.jpg 311,578,563,716,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_004263.jpg 284,564,453,615,3 461,538,653,627,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/India/JPEGImages/India_002065.jpg 210,447,500,631,2

@@ -1,0 +1,107 @@
+[
+  {
+    "domain": "India",
+    "images": 323,
+    "class_boxes": {
+      "D20": 188,
+      "D40": 312,
+      "D00": 157,
+      "D10": 7
+    },
+    "difficult_objects": 0,
+    "missing_files": 0,
+    "invalid_boxes": 0,
+    "source_path_overlap": 0,
+    "test_list_sha256": "a494512d21388eeb17f10b3420e0feab98b89692a896f31e84c82b98910666d9"
+  },
+  {
+    "domain": "Japan",
+    "images": 790,
+    "class_boxes": {
+      "D00": 386,
+      "D20": 646,
+      "D10": 395,
+      "D40": 223
+    },
+    "difficult_objects": 0,
+    "missing_files": 0,
+    "invalid_boxes": 0,
+    "source_path_overlap": 0,
+    "test_list_sha256": "021a799a066bece29c7705dcb774ed0d32f604ee12e19a24bc9019bfb0754a29"
+  },
+  {
+    "domain": "Norway",
+    "images": 2914,
+    "class_boxes": {
+      "D00": 8570,
+      "D20": 468,
+      "D40": 461,
+      "D10": 1730
+    },
+    "difficult_objects": 0,
+    "missing_files": 0,
+    "invalid_boxes": 0,
+    "source_path_overlap": 0,
+    "test_list_sha256": "404160aec1cbedc7bc6ccb8aebd809f0e9a17d622d770ccc5a112ddab924bdfa"
+  },
+  {
+    "domain": "United_States",
+    "images": 481,
+    "class_boxes": {
+      "D00": 625,
+      "D10": 334,
+      "D20": 76,
+      "D40": 23
+    },
+    "difficult_objects": 0,
+    "missing_files": 0,
+    "invalid_boxes": 0,
+    "source_path_overlap": 0,
+    "test_list_sha256": "91bfd75267073a1dae74f89b5e52ae28e14bed77aa74935bf2fd032b250ada2b"
+  },
+  {
+    "domain": "new_China_Drone",
+    "images": 1919,
+    "class_boxes": {
+      "D10": 1263,
+      "D00": 1426,
+      "D20": 293,
+      "D40": 86
+    },
+    "difficult_objects": 0,
+    "missing_files": 0,
+    "invalid_boxes": 0,
+    "source_path_overlap": 0,
+    "test_list_sha256": "a00ebe2aa857bf4fcf06c3b25d51feff1a77668d9343cb2be043e7a8712a7ce6"
+  },
+  {
+    "domain": "new_China_MotorBike",
+    "images": 1934,
+    "class_boxes": {
+      "D20": 641,
+      "D00": 2678,
+      "D40": 235,
+      "D10": 1096
+    },
+    "difficult_objects": 0,
+    "missing_files": 0,
+    "invalid_boxes": 0,
+    "source_path_overlap": 0,
+    "test_list_sha256": "68c79efd4ca098b265e2ce9b2ccbf0d96bb7fd5447c884e3e5659fcab4f4a8e4"
+  },
+  {
+    "domain": "new_Czech",
+    "images": 1072,
+    "class_boxes": {
+      "D00": 988,
+      "D40": 197,
+      "D10": 399,
+      "D20": 161
+    },
+    "difficult_objects": 0,
+    "missing_files": 0,
+    "invalid_boxes": 0,
+    "source_path_overlap": 0,
+    "test_list_sha256": "d16252975b54084974f5b83398d45fa00cced44a61a60d2dbd7e5525ac92bb14"
+  }
+]

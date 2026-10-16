@@ -1,0 +1,79 @@
+{
+  "info": {
+    "description": "RDD2022 fixed test split"
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "Japan_000319.jpg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "id": 2,
+      "file_name": "Japan_001468.jpg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "D00"
+    },
+    {
+      "id": 2,
+      "name": "D10"
+    },
+    {
+      "id": 3,
+      "name": "D20"
+    },
+    {
+      "id": 4,
+      "name": "D40"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        346.0,
+        463.0,
+        82.0,
+        121.0
+      ],
+      "area": 9922.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        300.0,
+        405.0,
+        27.0,
+        33.0
+      ],
+      "area": 891.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2,
+      "category_id": 3,
+      "bbox": [
+        39.0,
+        353.0,
+        561.0,
+        247.0
+      ],
+      "area": 138567.0,
+      "iscrowd": 0
+    }
+  ]
+}

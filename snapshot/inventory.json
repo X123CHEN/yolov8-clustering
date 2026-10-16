@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-16",
+  "source": "/data4/czh/yolov8-cluster/yolov8-hard-clustering",
+  "repository_files": 51072,
+  "weight_files": 19,
+  "weight_bytes": 850489009,
+  "evaluation_archives": 601,
+  "archived_files": 630209,
+  "archive_bytes": 232136483,
+  "excluded_entries": 24812,
+  "excluded_bytes": 51426550743,
+  "historical_logs_included": false,
+  "dataset_images_included": false,
+  "inventory_self_entry_omitted": true
+}

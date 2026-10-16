@@ -1,0 +1,27 @@
+[
+  {
+    "expert": "India",
+    "compatible_with_expert_backbone": true,
+    "backbone_keys": 162
+  },
+  {
+    "expert": "Japan",
+    "compatible_with_expert_backbone": true,
+    "backbone_keys": 162
+  },
+  {
+    "expert": "United_States",
+    "compatible_with_expert_backbone": true,
+    "backbone_keys": 162
+  },
+  {
+    "expert": "Cluster_0",
+    "compatible_with_expert_backbone": true,
+    "backbone_keys": 162
+  },
+  {
+    "expert": "Cluster_1",
+    "compatible_with_expert_backbone": true,
+    "backbone_keys": 162
+  }
+]

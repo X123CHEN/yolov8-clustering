@@ -1,0 +1,480 @@
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004070.jpg 35,497,626,549,1 438,428,518,470,0 538,426,640,488,0 550,523,640,617,0 361,432,387,491,0 420,558,455,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000706.jpg 105,402,226,637,0 299,446,342,523,0 273,593,337,640,0 1,514,60,579,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001648.jpg 141,513,170,558,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001151.jpg 0,489,166,515,1 170,504,204,566,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003663.jpg 277,620,307,639,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000757.jpg 152,544,180,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001810.jpg 397,425,560,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000917.jpg 196,368,306,480,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002083.jpg 362,545,416,559,1 346,548,373,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004044.jpg 217,430,271,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001932.jpg 139,421,197,475,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002937.jpg 54,454,142,470,1 71,494,88,526,0 186,523,228,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002457.jpg 0,383,542,591,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000964.jpg 122,354,176,449,0 1,431,439,497,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004770.jpg 127,449,212,466,1 46,513,254,547,1 226,416,254,528,0 266,404,365,552,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000890.jpg 452,477,640,623,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001471.jpg 90,475,274,637,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004628.jpg 80,520,212,550,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000809.jpg 77,421,162,612,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000445.jpg 200,505,255,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001280.jpg 1,451,159,472,1 157,396,179,451,0 276,507,299,541,0 306,466,374,554,0 95,481,139,573,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000148.jpg 1,551,380,609,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003278.jpg 428,555,508,598,1 1,431,89,529,0 280,401,336,499,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003724.jpg 57,448,145,584,0 221,421,245,445,3 227,458,268,570,0 279,506,393,547,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001970.jpg 19,458,103,610,0 194,404,229,474,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002392.jpg 272,450,332,546,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000070.jpg 123,470,249,640,2 314,382,334,442,0 46,402,239,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001879.jpg 254,518,366,536,1 187,521,261,639,2 341,480,519,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003084.jpg 9,469,163,638,2 483,608,599,637,1 423,565,527,598,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000255.jpg 242,501,282,639,0 25,524,131,620,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003736.jpg 109,507,170,521,1 72,466,228,486,1 1,559,234,612,1 220,394,256,565,0 262,551,293,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000734.jpg 266,410,293,533,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003767.jpg 0,402,271,638,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004478.jpg 483,572,565,640,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004597.jpg 129,430,153,474,0 105,498,122,536,0 15,483,342,542,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002654.jpg 303,461,377,637,0 420,450,448,534,0 88,530,131,564,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001243.jpg 276,538,318,640,0 156,439,195,544,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000470.jpg 1,500,303,610,1 87,422,298,447,1 200,436,243,587,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002993.jpg 302,360,362,448,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001263.jpg 1,482,247,508,1 340,432,448,625,0 423,537,519,566,1 229,433,266,551,0 52,428,222,444,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001931.jpg 145,512,170,571,0 166,444,326,471,1 85,466,146,600,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000242.jpg 62,441,132,625,0 260,417,335,498,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003629.jpg 340,418,454,620,0 168,497,227,630,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004151.jpg 181,587,327,616,1 321,459,358,585,0 59,418,153,488,0 225,487,247,521,0 393,438,538,637,0 0,494,133,522,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001196.jpg 400,445,504,599,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002167.jpg 8,394,172,482,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001740.jpg 345,480,432,623,0 1,458,79,532,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004345.jpg 21,438,152,640,0 1,435,64,523,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000837.jpg 350,421,448,559,2 359,369,385,439,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001314.jpg 137,398,155,442,0 268,439,352,465,1 1,438,111,469,1 101,458,137,585,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004577.jpg 0,466,186,489,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002801.jpg 138,373,231,630,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001538.jpg 313,506,374,577,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002601.jpg 1,391,111,609,2 362,391,537,458,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000664.jpg 320,406,551,628,0 98,563,164,637,0 176,366,212,468,0 1,444,198,477,1 237,392,339,446,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003036.jpg 221,404,295,554,0 541,471,640,581,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001006.jpg 0,385,169,630,2 0,375,362,637,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004738.jpg 291,434,348,550,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003750.jpg 376,425,529,625,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001722.jpg 136,404,257,633,0 324,394,377,574,0 234,449,409,474,1 1,471,217,493,1 1,581,143,606,1 124,517,187,540,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003782.jpg 444,552,476,638,0 5,406,465,638,2 545,494,615,550,0 472,402,640,498,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004703.jpg 275,448,317,459,1 292,504,347,523,1 279,465,329,479,1 41,402,229,588,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000450.jpg 1,464,155,492,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003286.jpg 1,600,51,618,1 5,386,89,442,0 430,424,640,628,2 340,396,439,443,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000041.jpg 7,422,369,440,1 5,428,60,540,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002908.jpg 226,510,483,543,1 164,499,188,565,0 294,465,418,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001482.jpg 110,470,252,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004457.jpg 384,452,492,548,0 427,540,530,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000099.jpg 329,584,370,640,0 287,470,329,562,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002622.jpg 460,568,534,640,0 233,511,302,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002217.jpg 1,464,305,532,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001903.jpg 568,466,640,494,1 279,452,345,628,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003639.jpg 404,478,536,622,0 63,558,105,638,0 47,410,457,585,2 244,423,263,485,0 301,383,372,525,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000365.jpg 460,558,640,607,1 1,581,129,609,1 1,510,42,572,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004156.jpg 192,502,244,562,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004320.jpg 156,468,524,615,1 119,524,158,634,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003300.jpg 149,417,404,512,1 451,507,615,535,1 592,529,640,540,1 448,522,539,635,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000015.jpg 148,467,593,496,1 396,483,516,637,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003495.jpg 279,428,343,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001430.jpg 340,536,374,640,0 334,368,381,438,0 127,396,245,618,0 282,412,313,538,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002730.jpg 0,492,106,626,0 135,519,171,584,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003384.jpg 5,379,71,502,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003100.jpg 353,477,431,499,1 225,424,386,638,2 423,423,640,447,1 538,601,637,636,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001681.jpg 1,457,174,487,1 1,554,121,582,1 31,427,153,603,0 313,390,607,633,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000189.jpg 128,483,192,501,1 2,518,188,558,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003747.jpg 351,529,404,639,0 204,521,268,639,0 376,562,547,598,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004516.jpg 462,477,598,623,0 361,472,439,640,0 145,437,379,471,1 135,557,179,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004115.jpg 358,428,580,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004491.jpg 189,430,303,450,1 107,418,196,582,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002952.jpg 255,528,368,551,1 361,503,400,607,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003296.jpg 348,552,367,612,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002200.jpg 29,505,228,527,1 375,488,443,500,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001999.jpg 206,483,346,637,0 446,486,522,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002022.jpg 178,377,234,551,0 69,456,199,477,1 306,386,474,633,0 411,424,618,601,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000559.jpg 251,433,317,458,0 492,467,640,508,1 31,580,109,598,1 99,454,236,636,0 25,423,182,550,0 1,488,136,513,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002754.jpg 350,373,369,414,0 259,451,356,473,1 481,412,639,592,0 535,416,640,464,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001363.jpg 86,583,150,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003306.jpg 287,423,401,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001383.jpg 416,456,480,580,0 357,390,378,466,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001435.jpg 378,436,550,638,0 1,440,183,620,0 139,419,254,633,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001615.jpg 103,404,205,500,0 283,445,309,534,0 7,531,109,617,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001880.jpg 592,552,639,600,0 1,589,635,614,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004592.jpg 93,438,130,481,0 283,410,340,562,0 1,489,66,623,0 264,581,301,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004207.jpg 196,398,272,605,0 257,419,283,584,0 282,438,435,457,1 385,381,634,572,0 430,492,527,531,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002136.jpg 344,478,424,570,0 60,460,144,587,0 195,451,331,475,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004284.jpg 280,464,300,548,0 422,497,538,626,0 57,450,398,472,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003134.jpg 248,467,303,632,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004370.jpg 205,511,258,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000902.jpg 441,485,632,599,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002917.jpg 173,470,283,631,0 341,564,393,640,0 534,591,600,613,1 535,591,593,613,0 501,533,639,571,1 99,486,338,562,1 445,416,526,632,0 368,399,415,548,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004366.jpg 538,534,640,629,2 311,461,372,639,0 285,400,323,470,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001728.jpg 0,498,91,612,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002658.jpg 97,538,242,569,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003343.jpg 185,433,274,547,2 314,421,557,639,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003054.jpg 440,413,524,462,0 208,413,394,587,2 561,471,640,517,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000399.jpg 0,425,136,563,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000589.jpg 391,488,517,635,0 285,365,351,447,0 305,512,349,628,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002676.jpg 182,389,333,552,2 11,528,81,623,0 270,479,397,502,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002597.jpg 271,544,362,568,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000106.jpg 356,387,583,635,0 178,484,230,569,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000346.jpg 507,465,621,565,0 549,437,640,476,1 6,346,260,623,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001285.jpg 209,394,275,545,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003682.jpg 289,454,380,637,0 253,431,289,527,0 483,560,593,640,0 382,462,567,536,1 262,362,345,424,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000431.jpg 256,442,291,546,0 5,438,130,616,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003018.jpg 342,562,394,638,0 229,468,426,496,1 399,432,455,564,0 95,464,217,483,1 264,417,292,446,0 161,504,230,638,0 280,373,295,402,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001120.jpg 167,549,351,594,1 1,602,67,633,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004540.jpg 340,513,388,539,2 31,578,81,622,0 96,470,200,562,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001370.jpg 109,546,167,604,0 260,372,367,638,0 28,391,315,595,0 219,539,389,555,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004699.jpg 63,456,196,638,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002234.jpg 135,427,326,474,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003227.jpg 258,433,273,465,0 1,558,182,586,1 340,467,508,621,0 69,446,115,510,0 221,456,249,576,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001251.jpg 249,386,437,588,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002239.jpg 266,432,370,568,2 452,462,471,506,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004750.jpg 322,462,396,625,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000262.jpg 415,532,477,554,0 207,414,247,560,0 468,558,549,610,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001731.jpg 403,533,444,570,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003294.jpg 297,486,351,498,1 293,462,306,488,0 350,482,400,635,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004655.jpg 346,566,378,612,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002667.jpg 73,444,203,616,0 283,401,525,639,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003992.jpg 138,415,253,633,0 268,380,289,452,0 385,479,640,510,1 555,527,620,626,0 432,414,529,485,0 357,423,386,492,0 405,390,521,408,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004196.jpg 308,377,566,627,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001211.jpg 393,554,446,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002324.jpg 234,379,292,522,0 43,429,432,459,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000649.jpg 0,374,292,634,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002228.jpg 239,400,260,455,0 33,402,123,486,0 146,402,181,454,0 56,479,130,621,0 385,496,612,576,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000236.jpg 376,410,640,568,2 439,506,456,532,0 196,377,212,406,0 332,415,399,469,0 144,426,211,489,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002112.jpg 1,473,350,534,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004031.jpg 80,563,277,639,1 4,381,128,581,0 51,471,237,531,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000091.jpg 0,543,197,589,1 373,485,471,511,1 516,538,640,610,0 294,477,466,563,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003325.jpg 373,394,405,444,0 342,426,358,468,0 353,496,402,640,0 453,387,505,425,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001152.jpg 286,445,313,487,2 451,549,489,591,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003500.jpg 92,500,426,572,1 37,455,364,490,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004580.jpg 239,448,377,472,1 360,459,638,569,1 1,475,164,625,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004375.jpg 202,371,260,550,0 85,475,157,634,0 6,443,333,484,1 352,461,562,638,0 119,366,176,469,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003108.jpg 274,425,406,449,1 1,578,83,600,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000367.jpg 71,564,108,634,0 123,431,159,507,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000723.jpg 4,393,484,639,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000726.jpg 249,521,319,539,1 253,561,290,639,0 55,488,241,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002305.jpg 187,443,349,632,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002421.jpg 232,476,264,639,0 20,539,166,568,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003425.jpg 354,471,436,493,1 242,402,281,492,0 229,498,322,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000634.jpg 248,398,272,506,0 92,478,566,557,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002214.jpg 386,428,484,526,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004280.jpg 1,462,393,518,1 57,507,91,545,0 157,381,177,443,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003264.jpg 108,364,424,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001508.jpg 244,354,259,385,0 317,455,370,496,0 521,412,639,463,0 217,420,234,492,0 196,553,332,591,1 110,405,254,507,2 371,447,548,637,0 26,463,77,517,0 405,421,509,451,1 162,505,189,583,0 183,571,212,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004632.jpg 211,538,261,590,0 378,554,409,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003026.jpg 472,500,536,604,0 296,381,311,414,0 220,403,311,424,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000798.jpg 359,423,629,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003260.jpg 73,460,255,484,1 2,395,200,525,0 238,401,322,619,0 386,431,468,613,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001587.jpg 103,390,171,638,0 210,379,319,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002395.jpg 246,395,265,461,0 260,433,322,447,1 313,422,410,550,2 60,453,185,625,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001620.jpg 80,435,144,633,0 427,514,581,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002773.jpg 202,461,240,639,0 267,395,408,636,0 146,448,323,475,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001488.jpg 251,464,353,560,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000098.jpg 20,532,160,567,1 207,544,241,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004677.jpg 258,397,380,635,0 53,397,136,492,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003393.jpg 282,534,313,638,0 548,540,640,620,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001481.jpg 45,508,234,552,1 7,476,43,611,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000345.jpg 323,472,540,640,0 97,525,130,599,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001017.jpg 357,385,550,629,0 346,510,389,637,0 285,420,327,548,0 233,372,260,462,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004103.jpg 226,480,265,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004107.jpg 333,541,367,577,3 42,551,330,610,1 342,560,401,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002989.jpg 303,521,364,637,0 334,465,505,494,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003828.jpg 292,408,452,606,0 430,453,618,572,0 246,428,306,633,0 19,547,221,615,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003963.jpg 7,424,463,469,1 82,491,158,555,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001636.jpg 304,348,332,432,0 405,483,499,501,1 0,365,417,626,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000906.jpg 230,465,442,499,1 38,446,150,465,1 107,401,221,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001300.jpg 281,520,633,568,1 372,379,404,447,0 134,408,340,433,1 125,435,250,613,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001877.jpg 134,414,158,462,0 340,396,414,442,0 299,386,590,572,0 555,588,636,624,0 155,457,172,518,0 180,391,194,420,0 246,490,265,529,0 499,436,618,470,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001248.jpg 114,381,310,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004228.jpg 1,405,192,634,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002171.jpg 1,524,574,627,1 137,458,240,635,0 473,512,576,617,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001794.jpg 574,505,626,547,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001143.jpg 65,517,125,627,0 118,495,406,584,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003741.jpg 157,430,262,449,1 1,506,131,526,1 307,391,403,492,0 57,566,90,632,0 238,513,257,634,0 388,509,490,636,0 156,470,385,512,1 114,449,178,558,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002814.jpg 291,451,321,533,0 114,562,145,622,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003849.jpg 167,481,312,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003696.jpg 214,594,322,626,1 480,544,620,576,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003762.jpg 310,407,381,502,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002436.jpg 301,505,322,601,0 368,496,438,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002331.jpg 362,478,494,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001806.jpg 0,497,76,518,1 68,452,127,592,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002905.jpg 113,396,278,638,0 134,427,191,463,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001320.jpg 352,526,448,550,1 0,389,223,631,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000480.jpg 360,490,387,584,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004682.jpg 246,527,277,588,0 342,474,405,640,0 381,498,430,561,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001500.jpg 296,550,358,640,0 277,432,302,508,0 1,494,459,560,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001339.jpg 429,499,487,561,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002973.jpg 229,434,507,462,1 290,400,327,481,0 223,477,535,512,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002692.jpg 1,495,179,524,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001465.jpg 1,429,29,609,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000896.jpg 397,448,519,637,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000585.jpg 340,495,359,544,0 109,452,265,484,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004451.jpg 8,486,175,627,0 203,419,234,571,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001158.jpg 286,377,328,543,0 96,491,205,635,0 359,422,435,633,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001343.jpg 6,440,339,484,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002842.jpg 1,454,481,560,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003129.jpg 124,403,192,581,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002969.jpg 134,424,350,640,2 21,473,101,621,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002026.jpg 173,418,242,625,0 269,418,640,447,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001244.jpg 227,430,276,640,0 315,412,461,636,0 60,528,235,561,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004630.jpg 240,397,264,435,0 282,426,300,490,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004288.jpg 229,491,343,513,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002472.jpg 124,381,176,638,0 1,449,332,540,1 231,362,255,431,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004624.jpg 383,478,425,546,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003730.jpg 91,416,208,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000873.jpg 437,500,467,560,0 480,562,640,598,1 414,412,530,487,0 421,482,532,507,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001270.jpg 452,515,486,533,3 70,433,166,579,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004126.jpg 298,504,390,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000038.jpg 1,423,416,489,1 4,485,98,605,0 270,465,335,634,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003176.jpg 407,499,495,635,0 246,406,285,580,0 395,383,525,479,0 392,467,635,519,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003373.jpg 337,424,459,640,0 44,436,234,449,1 1,418,111,433,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001224.jpg 555,470,629,521,0 407,475,509,628,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001898.jpg 436,409,636,529,0 1,403,249,606,2 476,588,541,612,1 535,594,640,633,1 216,417,422,458,1 197,473,388,499,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002807.jpg 1,404,128,530,0 202,378,225,418,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003339.jpg 114,447,280,473,1 77,556,106,620,0 394,492,486,640,0 189,395,414,413,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001985.jpg 63,434,209,610,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002326.jpg 85,441,116,639,0 194,396,247,563,0 1,485,95,507,1 1,435,126,452,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002311.jpg 324,540,363,640,0 20,485,211,639,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004244.jpg 21,434,146,557,0 361,444,493,634,0 295,427,420,463,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000340.jpg 73,460,357,538,1 10,456,99,606,0 368,439,626,615,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002226.jpg 70,456,208,613,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000321.jpg 244,423,387,629,0 1,415,240,468,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001327.jpg 449,442,559,468,1 346,398,638,613,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003584.jpg 303,450,534,632,0 305,388,632,560,0 1,543,51,564,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001892.jpg 358,599,436,640,0 269,528,431,548,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000397.jpg 384,457,484,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002378.jpg 11,449,192,475,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004798.jpg 162,502,246,522,1 352,451,582,629,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004298.jpg 240,466,428,510,1 207,370,240,422,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003503.jpg 275,397,435,633,0 82,458,486,505,1 508,469,620,513,1 465,537,575,598,1 6,523,286,567,1 37,438,154,612,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001506.jpg 491,520,589,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002382.jpg 1,433,104,547,0 117,582,330,616,1 86,446,308,467,1 322,410,391,530,0 386,518,481,539,1 103,485,161,638,0 244,514,306,547,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002665.jpg 232,522,300,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001257.jpg 82,387,183,600,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003022.jpg 266,373,366,485,0 283,460,511,500,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001234.jpg 331,381,367,439,0 297,483,315,536,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003195.jpg 179,474,221,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002114.jpg 283,382,304,426,0 340,426,478,449,1 317,408,346,436,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003476.jpg 49,423,194,615,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004214.jpg 284,382,377,549,0 138,430,208,573,0 495,598,640,632,1 158,418,417,444,1 314,538,350,640,0 142,562,178,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004237.jpg 297,446,515,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003664.jpg 373,387,395,433,0 496,462,612,564,0 158,422,288,441,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000981.jpg 342,408,551,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000609.jpg 370,442,484,532,2 309,487,330,532,0 167,504,223,552,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001092.jpg 377,538,452,631,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004050.jpg 75,469,436,497,1 279,400,303,640,0 166,404,247,561,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002815.jpg 61,508,114,615,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002770.jpg 404,511,522,639,0 138,462,557,534,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001725.jpg 86,437,130,491,0 143,421,163,468,0 77,514,116,640,0 356,608,462,639,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002900.jpg 145,438,279,636,0 348,418,452,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003920.jpg 256,395,291,553,0 442,558,593,596,1 592,596,640,610,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003965.jpg 1,422,118,449,1 19,455,101,602,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003057.jpg 451,504,582,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001923.jpg 1,475,296,546,1 274,360,370,629,0 344,422,532,613,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001317.jpg 133,373,253,629,0 1,394,193,595,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000708.jpg 252,414,396,638,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004608.jpg 62,371,352,638,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002279.jpg 291,436,345,562,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001823.jpg 1,463,206,497,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000839.jpg 330,482,428,640,0 133,456,223,640,0 30,489,203,506,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000311.jpg 351,457,433,571,0 410,520,544,580,1 524,544,640,599,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004192.jpg 256,452,372,640,0 461,464,639,587,0 129,408,203,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003483.jpg 232,460,268,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004337.jpg 131,412,195,563,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002219.jpg 233,458,495,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000077.jpg 583,473,640,575,0 450,402,488,461,0 342,470,373,565,0 470,478,521,592,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000497.jpg 66,504,164,628,0 0,456,108,596,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000323.jpg 1,541,409,587,1 276,465,372,486,1 328,402,442,551,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001605.jpg 301,414,355,546,0 428,392,636,635,2 227,384,256,437,0 130,419,185,468,0 64,455,174,593,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004113.jpg 81,443,514,498,1 215,395,233,448,0 147,521,209,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002039.jpg 1,560,32,615,0 3,438,215,454,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004672.jpg 247,414,338,633,0 82,403,178,626,0 1,486,151,527,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001961.jpg 335,403,532,631,0 168,469,589,548,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002282.jpg 315,430,437,552,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001556.jpg 121,513,522,624,1 157,392,201,490,0 257,386,322,586,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002224.jpg 102,431,170,593,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002250.jpg 56,419,112,465,0 3,458,176,482,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002942.jpg 78,416,222,624,0 416,409,472,451,0 227,399,386,422,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002528.jpg 201,483,258,637,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004120.jpg 59,496,640,558,1 297,414,327,525,0 146,505,212,621,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000932.jpg 332,403,348,456,0 496,525,590,637,0 488,515,640,534,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003941.jpg 62,414,173,587,0 305,446,547,507,1 536,464,618,480,1 151,388,349,421,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004658.jpg 222,385,485,640,2 48,469,175,606,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001055.jpg 360,392,637,617,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002376.jpg 191,453,319,630,0 109,403,166,592,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001122.jpg 1,461,307,495,1 97,425,195,439,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002982.jpg 93,522,203,549,1 11,498,100,619,0 291,410,377,608,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004383.jpg 317,394,406,625,0 1,513,185,541,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002147.jpg 394,504,559,545,1 324,380,473,638,0 580,542,637,612,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003731.jpg 372,531,494,640,0 313,388,366,428,2 67,420,296,462,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003415.jpg 441,398,634,431,1 418,398,585,500,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001145.jpg 43,443,140,594,0 276,444,478,538,1 82,415,274,448,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003627.jpg 237,458,416,524,1 549,485,640,514,1 38,442,103,575,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002976.jpg 357,508,398,562,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001018.jpg 0,444,111,572,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001267.jpg 504,511,640,613,0 413,512,483,635,0 237,373,312,411,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002922.jpg 4,439,142,460,1 64,456,184,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000426.jpg 305,558,503,593,1 234,436,294,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001668.jpg 1,430,280,472,1 79,390,175,618,0 262,486,302,552,0 264,406,389,564,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004728.jpg 33,487,123,627,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003733.jpg 250,419,380,634,0 508,434,595,469,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004596.jpg 25,418,211,441,1 223,593,510,640,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000412.jpg 1,461,296,513,1 107,393,187,515,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000942.jpg 238,438,475,460,1 61,559,158,580,1 380,445,523,635,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002008.jpg 112,486,220,514,1 418,493,617,627,0 456,482,487,548,0 475,440,640,538,0 204,402,235,572,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001182.jpg 165,433,473,465,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003836.jpg 340,411,374,529,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004222.jpg 303,513,361,531,1 182,471,280,640,0 5,454,226,504,1 186,409,204,458,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000372.jpg 3,423,245,637,2 204,607,583,639,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001996.jpg 168,504,272,526,1 294,453,330,487,0 117,423,149,585,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004220.jpg 199,499,357,525,1 3,489,170,511,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003912.jpg 107,527,635,600,1 146,414,240,630,0 76,447,200,629,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003518.jpg 129,581,170,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001832.jpg 503,420,541,592,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000602.jpg 49,489,90,617,0 87,457,245,494,1 1,376,90,440,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002615.jpg 282,490,306,542,0 183,572,241,586,1 1,477,205,591,0 154,516,248,592,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000410.jpg 151,374,222,509,0 67,466,188,485,1 163,471,230,614,0 220,600,256,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003258.jpg 369,353,635,583,0 1,359,302,635,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002581.jpg 322,413,505,631,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000432.jpg 299,393,530,636,0 403,419,626,573,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003194.jpg 377,509,431,551,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003348.jpg 143,580,164,640,0 366,505,558,623,0 247,496,321,639,0 103,534,173,570,3 387,486,575,594,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001282.jpg 337,536,551,563,1 273,425,339,637,0 41,394,239,627,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000350.jpg 154,452,221,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002007.jpg 342,477,377,554,0 216,475,244,557,0 101,528,217,566,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000114.jpg 374,496,400,544,0 363,540,381,608,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000220.jpg 100,498,182,638,0 268,491,362,637,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002425.jpg 405,558,481,640,0 197,469,267,483,1 223,491,247,557,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002322.jpg 109,452,150,542,0 368,452,416,586,0 234,446,258,517,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002209.jpg 402,406,506,514,0 528,526,632,624,0 402,419,634,628,0 556,465,640,531,0 345,403,468,624,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003958.jpg 335,529,415,639,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002340.jpg 4,485,106,618,0 10,418,96,492,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002994.jpg 8,545,92,619,0 192,570,410,638,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002559.jpg 307,453,405,479,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003265.jpg 98,433,228,627,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002330.jpg 1,381,529,637,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004709.jpg 430,439,526,501,0 275,428,421,604,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004051.jpg 277,395,326,527,0 1,495,139,513,1 150,367,215,429,0 203,374,239,412,0 104,398,201,410,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003519.jpg 29,467,83,497,0 146,392,342,548,2 102,500,162,515,1 160,410,227,510,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000479.jpg 203,510,479,633,1 499,469,599,558,2 345,370,512,483,0 1,498,83,565,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004059.jpg 207,535,281,640,0 337,492,391,640,0 1,561,234,588,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004535.jpg 399,433,637,615,0 23,470,147,614,0 99,451,225,472,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003864.jpg 240,457,332,567,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003161.jpg 239,486,297,630,0 242,383,261,460,0 339,399,637,620,2 80,509,168,626,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001310.jpg 230,364,250,415,0 163,438,233,638,0 1,546,73,581,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003165.jpg 345,456,411,552,2 187,506,308,541,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000369.jpg 476,585,622,619,1 342,484,438,567,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000624.jpg 184,411,215,568,0 321,393,633,551,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003640.jpg 270,399,318,634,0 510,585,616,603,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000816.jpg 448,470,640,522,1 91,556,197,581,1 270,546,510,590,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003405.jpg 379,420,533,636,0 507,562,640,606,1 257,377,291,428,0 39,413,261,430,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004800.jpg 465,511,595,640,0 260,428,340,635,2 366,392,385,416,0 394,382,444,414,0 396,413,489,512,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002792.jpg 485,523,631,597,1 203,436,261,500,0 315,377,388,623,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002258.jpg 96,466,251,550,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002055.jpg 1,469,635,498,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002118.jpg 318,457,496,487,1 204,459,219,501,0 81,518,167,633,0 44,502,287,525,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000806.jpg 304,470,351,562,0 158,418,209,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004494.jpg 115,373,396,638,2 426,419,487,567,0 489,411,607,437,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003077.jpg 524,537,604,639,1 221,428,323,451,1 317,534,423,565,1 1,411,296,623,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001601.jpg 143,371,272,602,0 334,406,373,478,0 368,364,616,544,0 424,535,614,579,1 474,573,640,612,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000413.jpg 360,389,472,551,0 487,531,573,636,0 292,429,386,445,1 1,392,148,470,0 114,406,250,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004135.jpg 1,432,73,508,0 285,545,351,639,0 58,513,108,627,0 126,437,153,506,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003289.jpg 509,550,602,626,0 293,435,323,551,0 355,387,413,453,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003634.jpg 319,491,345,509,3 258,434,530,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002102.jpg 161,550,234,638,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001941.jpg 270,484,306,596,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000885.jpg 28,567,60,617,0 316,447,408,468,1 474,448,637,520,0 1,492,148,523,1 229,472,305,492,1 317,474,391,605,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000940.jpg 402,426,594,622,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004379.jpg 305,471,445,492,1 133,530,174,638,0 1,483,271,566,1 373,427,541,631,0 28,443,361,466,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003238.jpg 0,498,82,600,0 285,428,330,535,0 354,562,384,634,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000979.jpg 286,414,360,558,2 79,542,317,578,1 376,434,568,638,0 16,419,167,599,0 288,416,358,558,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004697.jpg 158,571,282,632,1 380,501,603,544,1 328,587,374,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004415.jpg 1,526,166,552,1 127,420,232,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004216.jpg 272,478,458,536,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003191.jpg 62,483,210,605,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000629.jpg 226,499,248,549,0 431,500,627,624,0 501,572,574,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001490.jpg 260,491,295,637,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003327.jpg 423,548,566,615,1 531,581,625,636,1 121,583,228,640,1 258,458,321,638,0 80,535,122,631,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001769.jpg 197,396,250,554,0 311,491,348,557,0 183,489,235,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002767.jpg 297,509,340,640,0 163,508,221,522,3
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002448.jpg 550,434,610,465,0 380,427,508,637,0 124,466,345,487,1 464,384,517,416,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004416.jpg 472,508,586,624,0 231,480,272,620,0 358,408,559,429,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001901.jpg 116,422,186,530,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000406.jpg 29,400,623,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002913.jpg 1,446,164,574,0 1,491,408,540,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000086.jpg 556,476,640,624,0 501,431,639,452,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000826.jpg 361,454,612,474,1 1,492,171,524,1 360,404,488,429,1 338,381,445,399,1 341,392,468,635,0 496,460,633,613,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003840.jpg 42,541,258,615,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002471.jpg 136,452,186,555,0 365,444,541,612,0 6,509,155,526,1 3,541,160,565,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002799.jpg 292,579,466,617,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004319.jpg 101,465,238,638,0 289,441,326,580,0 307,497,408,512,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001514.jpg 232,521,319,542,1 55,405,196,622,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001694.jpg 151,480,632,533,1 435,509,532,632,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003323.jpg 1,418,602,640,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001487.jpg 222,430,265,518,0 475,480,528,608,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003536.jpg 247,461,273,547,0 393,468,571,640,0 390,459,458,544,0 471,529,564,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003029.jpg 238,554,378,602,1 377,432,631,628,2 1,491,87,516,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002702.jpg 267,399,420,601,0 115,473,164,539,0 103,523,358,635,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001091.jpg 258,359,311,625,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003322.jpg 184,526,207,584,0 368,528,422,570,0 212,581,235,639,0 290,508,365,630,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001311.jpg 314,383,342,505,0 474,549,504,580,3 333,497,475,519,1 167,487,308,517,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000952.jpg 213,592,235,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002289.jpg 153,408,302,432,1 300,438,323,518,0 332,421,387,593,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004695.jpg 408,423,576,444,1 218,480,298,636,0 359,386,465,557,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002793.jpg 299,395,467,637,0 1,530,279,584,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004131.jpg 1,434,343,484,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001564.jpg 146,506,204,518,1 127,399,296,601,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003313.jpg 461,612,597,640,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000694.jpg 146,494,165,518,0 346,398,572,622,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002651.jpg 1,470,301,510,1 209,528,247,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000126.jpg 187,454,248,558,0 0,509,114,622,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004198.jpg 501,592,640,627,1 150,506,213,636,0 310,380,455,400,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000776.jpg 73,538,310,571,1 387,446,571,631,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001352.jpg 467,506,541,638,0 325,453,374,610,0 326,405,341,435,0 386,424,438,499,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001598.jpg 307,508,358,631,0 412,512,522,633,0 130,429,203,637,0 6,440,43,502,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003320.jpg 105,516,186,636,0 205,393,234,535,0 57,415,234,431,1 402,485,624,517,1 488,513,626,569,1 545,540,624,592,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003032.jpg 0,427,86,611,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002945.jpg 417,376,587,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003718.jpg 243,379,347,625,0 168,387,212,487,0 1,510,207,579,1 3,427,87,474,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003341.jpg 277,449,545,467,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001484.jpg 252,479,287,564,0 484,443,524,485,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004548.jpg 198,469,250,585,0 61,496,191,638,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000334.jpg 129,471,174,575,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000108.jpg 174,447,250,640,0 244,433,312,450,1 251,395,424,432,1 3,550,209,584,1 376,381,521,485,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003056.jpg 395,565,453,639,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001721.jpg 127,497,414,533,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003523.jpg 215,442,249,550,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002904.jpg 261,367,298,453,0 326,481,384,499,1 4,452,102,523,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004221.jpg 21,416,581,640,2 1,397,162,503,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003493.jpg 2,403,134,529,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003825.jpg 371,404,420,464,0 514,564,594,630,0 325,470,349,520,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003202.jpg 103,416,189,639,0 36,450,311,484,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002677.jpg 207,440,232,554,0 325,430,474,612,0 203,506,357,554,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000792.jpg 1,500,524,543,1 174,463,452,501,1 195,412,341,440,1 301,375,405,531,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000635.jpg 206,428,278,624,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003785.jpg 168,535,191,593,0 278,540,317,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001101.jpg 0,535,76,559,1 268,480,424,523,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000507.jpg 273,564,326,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000780.jpg 424,514,552,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002319.jpg 198,475,322,505,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001294.jpg 144,434,176,508,0 142,457,208,640,0 13,492,318,539,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001413.jpg 62,520,121,608,0 115,561,209,579,1 195,484,267,639,2
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004642.jpg 1,462,113,498,1 67,458,140,617,0 376,490,588,638,0 268,394,396,534,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000941.jpg 428,537,528,558,1 315,418,426,572,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001511.jpg 415,456,540,487,1 449,389,542,481,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001552.jpg 3,445,125,613,0 125,384,214,572,0 85,486,155,501,1 291,412,365,524,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001200.jpg 18,500,296,602,1 344,481,558,520,1 272,390,376,625,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003942.jpg 322,413,598,635,2 55,379,192,637,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004217.jpg 0,541,56,619,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000306.jpg 231,465,336,640,2 433,489,510,518,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000199.jpg 360,498,391,626,0 0,429,163,537,0 426,422,590,636,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000869.jpg 482,565,582,585,1 56,548,119,620,0 242,590,492,640,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_003949.jpg 82,425,194,619,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_000577.jpg 451,544,607,640,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_001548.jpg 168,382,323,456,0 544,542,640,622,0 147,446,176,534,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004118.jpg 197,417,366,467,1
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_002813.jpg 487,476,636,499,1 201,382,263,532,0 213,446,491,542,2 21,427,283,454,1 1,445,72,495,0
+/data4/czh/code/yolo11-pytorch-master/datasets/RDD2022/United_States/JPEGImages/United_States_004142.jpg 247,408,326,640,0 11,393,213,625,0 314,538,439,570,1

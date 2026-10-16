@@ -1,0 +1,1 @@
+{"epoch": 1, "images_seen": 36, "validation_images": 13, "domain_images": [18, 18], "discriminator_updates": [3, 3], "valid_triplet_anchors": 314, "peak_mem_GB": 10.093380451202393, "experts_frozen": true}
