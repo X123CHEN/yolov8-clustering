@@ -1,0 +1,63 @@
+/data4/czh/yolov8-cluster/yolov8-hard-clustering/utils/utils_bbox.py:719: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources as pkg
+initialize network with normal type
+Fusing layers... 
+/data4/czh/anaconda3/envs/yolo_dg/lib/python3.10/site-packages/torch/nn/modules/module.py:844: UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the .grad field to be populated for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more informations. (Triggered internally at aten/src/ATen/core/TensorBody.h:489.)
+  if param.grad is not None:
+STRICT_LOAD_OK /data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/checks/04_latent_kway_unique/best_epoch_weights.pth keys= 355
+Configurations:
+----------------------------------------------------------------------
+|                     keys |                                   values|
+----------------------------------------------------------------------
+|               model_path | /data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/checks/04_latent_kway_unique/best_epoch_weights.pth|
+|             classes_path |               model_data/rdd_classes.txt|
+|              input_shape |                               [640, 640]|
+|                      phi |                                        s|
+|               confidence |                                    0.001|
+|                  nms_iou |                                      0.5|
+|          letterbox_image |                                    False|
+|                     cuda |                                     True|
+----------------------------------------------------------------------
+{
+  "01_country_multi_unique": {
+    "steps": 3,
+    "head_count": 3,
+    "expert_count": 3,
+    "peak_memory_gb": 10.125353813171387,
+    "optimizer_states": true,
+    "fab_and_domain_gradients": true,
+    "checkpoint_complete": true
+  },
+  "02_latent_multi_unique": {
+    "steps": 3,
+    "head_count": 2,
+    "expert_count": 2,
+    "peak_memory_gb": 10.092893123626709,
+    "optimizer_states": true,
+    "fab_and_domain_gradients": true,
+    "checkpoint_complete": true
+  },
+  "03_country_kway_unique": {
+    "steps": 3,
+    "head_count": 1,
+    "expert_count": 0,
+    "peak_memory_gb": 10.042241096496582,
+    "optimizer_states": true,
+    "fab_and_domain_gradients": true,
+    "checkpoint_complete": true
+  },
+  "04_latent_kway_unique": {
+    "steps": 3,
+    "head_count": 1,
+    "expert_count": 0,
+    "peak_memory_gb": 10.042210578918457,
+    "optimizer_states": true,
+    "fab_and_domain_gradients": true,
+    "checkpoint_complete": true
+  },
+  "detector_only_inference": {
+    "passed": true,
+    "predictions": 2031,
+    "source_validation_only": true
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "experiment": "03_country_kway_unique",
+  "domain": "Japan",
+  "images": 790,
+  "voc": {
+    "map50": 0.5924983908286147,
+    "per_class": {
+      "D00": {
+        "ap50": 0.5469609695938158,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 386,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 386
+      },
+      "D10": {
+        "ap50": 0.4963750731307481,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 395,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 395
+      },
+      "D20": {
+        "ap50": 0.7275913590926975,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 646,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 646
+      },
+      "D40": {
+        "ap50": 0.5990661614971974,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 223,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 223
+      }
+    },
+    "precision_macro": 0.0,
+    "recall_macro": 0.0,
+    "f1_macro": 0.0
+  },
+  "coco": {
+    "map50_95": 0.2671467660196614,
+    "map50": 0.5844442358748411,
+    "map75": 0.20100804332104488,
+    "per_class": {
+      "D00": {
+        "ap50_95": 0.22792810211406223,
+        "ap50": 0.5406180078792799
+      },
+      "D10": {
+        "ap50_95": 0.19187936880208803,
+        "ap50": 0.49104939154543953
+      },
+      "D20": {
+        "ap50_95": 0.37374565051659075,
+        "ap50": 0.7244434964666139
+      },
+      "D40": {
+        "ap50_95": 0.27503394264590464,
+        "ap50": 0.5816660476080309
+      }
+    },
+    "max_detections": 100
+  },
+  "elapsed_s": 122.94880533218384
+}

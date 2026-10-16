@@ -1,0 +1,47 @@
+{
+  "info": {
+    "description": "RDD2022 fixed test split"
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "India_006519.jpg",
+      "width": 720,
+      "height": 720
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "D00"
+    },
+    {
+      "id": 2,
+      "name": "D10"
+    },
+    {
+      "id": 3,
+      "name": "D20"
+    },
+    {
+      "id": 4,
+      "name": "D40"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 3,
+      "bbox": [
+        186.0,
+        560.0,
+        126.0,
+        106.0
+      ],
+      "area": 13356.0,
+      "iscrowd": 0
+    }
+  ]
+}

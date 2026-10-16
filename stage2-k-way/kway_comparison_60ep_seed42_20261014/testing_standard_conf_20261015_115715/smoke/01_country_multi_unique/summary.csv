@@ -1,0 +1,8 @@
+experiment,domain,images,voc_map50,coco_map50,coco_map50_95,precision_macro,recall_macro,f1_macro
+01_country_multi_unique,Japan,1,0.5,0.5049504950495048,0.45445544554455436,1.0,0.5,0.6666666666666666
+01_country_multi_unique,India,1,0.0,0.0,0.0,0.0,0.0,0.0
+01_country_multi_unique,United_States,1,1.0,1.0,0.8673267326732673,1.0,0.3333333333333333,0.5
+01_country_multi_unique,Norway,1,0.0,0.0,0.0,0.0,0.0,0.0
+01_country_multi_unique,new_Czech,1,1.0,0.9999999999999999,0.1333333333333333,1.0,1.0,1.0
+01_country_multi_unique,new_China_Drone,1,1.0,0.9999999999999999,0.09999999999999999,0.0,0.0,0.0
+01_country_multi_unique,new_China_MotorBike,1,0.625,0.6262376237623762,0.28787128712871285,0.0,0.0,0.0

@@ -1,0 +1,78 @@
+{
+  "experiment": "01_country_multi_unique",
+  "domain": "new_Czech",
+  "images": 1072,
+  "voc": {
+    "map50": 0.2404709060915587,
+    "per_class": {
+      "D00": {
+        "ap50": 0.3327042265151706,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 988,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 988
+      },
+      "D10": {
+        "ap50": 0.3542166030124979,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 399,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 399
+      },
+      "D20": {
+        "ap50": 0.17074846748458036,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 161,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 161
+      },
+      "D40": {
+        "ap50": 0.10421432735398586,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 197,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 197
+      }
+    },
+    "precision_macro": 0.0,
+    "recall_macro": 0.0,
+    "f1_macro": 0.0
+  },
+  "coco": {
+    "map50_95": 0.07656797713488547,
+    "map50": 0.23464054825068456,
+    "map75": 0.032511569398166316,
+    "per_class": {
+      "D00": {
+        "ap50_95": 0.11812004648306637,
+        "ap50": 0.32928537209038744
+      },
+      "D10": {
+        "ap50_95": 0.10204052503814039,
+        "ap50": 0.3325041252122495
+      },
+      "D20": {
+        "ap50_95": 0.05550458759774915,
+        "ap50": 0.17071277199732068
+      },
+      "D40": {
+        "ap50_95": 0.030606749420586,
+        "ap50": 0.10605992370278056
+      }
+    },
+    "max_detections": 100
+  },
+  "elapsed_s": 43.496851682662964
+}

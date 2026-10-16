@@ -1,0 +1,234 @@
+{
+  "created_at": "2026-10-15T15:08:20.886820+08:00",
+  "project": "/data4/czh/yolov8-cluster/yolov8-hard-clustering",
+  "python": "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+  "seed": 11,
+  "epochs": 100,
+  "primary_metric": "seven_domain_mean_voc_map50",
+  "confidence_mode": "max_class_sigmoid",
+  "runs": [
+    {
+      "experiment": "01_country_multi_unique",
+      "title": "国家域多专家多判别器",
+      "epochs": 100,
+      "seed": 11,
+      "batch_size": 12,
+      "num_workers": 8,
+      "gpu": 0,
+      "data_protocol": "unique",
+      "alpha_domain": 0.7,
+      "architecture": "expert_multi",
+      "domain_count": 3,
+      "feature": "backbone_feat3",
+      "fab_reference": "utils.comparison_training.domain_triplet",
+      "grl": false,
+      "lr_horizon_epochs": 100,
+      "model_initialization": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/model_data/yolov8_s.pth",
+      "screen": "kway11_1_country_multi_150504",
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/source_snapshot/run_experiment.py",
+        "new_experiments.kway_domain.worker",
+        "--suite",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504",
+        "--experiment",
+        "01_country_multi_unique",
+        "--gpu",
+        "0"
+      ],
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/launch_logs/01_country_multi_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/launch_logs/01_country_multi_unique.log"
+    },
+    {
+      "experiment": "02_latent_multi_unique",
+      "title": "潜在域多专家多判别器",
+      "epochs": 100,
+      "seed": 11,
+      "batch_size": 12,
+      "num_workers": 8,
+      "gpu": 1,
+      "data_protocol": "unique",
+      "alpha_domain": 0.7,
+      "architecture": "expert_multi",
+      "domain_count": 2,
+      "feature": "backbone_feat3",
+      "fab_reference": "utils.comparison_training.domain_triplet",
+      "grl": false,
+      "lr_horizon_epochs": 100,
+      "model_initialization": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/model_data/yolov8_s.pth",
+      "screen": "kway11_2_latent_multi_150504",
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/source_snapshot/run_experiment.py",
+        "new_experiments.kway_domain.worker",
+        "--suite",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504",
+        "--experiment",
+        "02_latent_multi_unique",
+        "--gpu",
+        "1"
+      ],
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/launch_logs/02_latent_multi_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/launch_logs/02_latent_multi_unique.log"
+    },
+    {
+      "experiment": "03_country_kway_unique",
+      "title": "国家域单K类判别器",
+      "epochs": 100,
+      "seed": 11,
+      "batch_size": 12,
+      "num_workers": 8,
+      "gpu": 2,
+      "data_protocol": "unique",
+      "alpha_domain": 0.01306498680128547,
+      "architecture": "single_kway",
+      "domain_count": 3,
+      "feature": "backbone_feat3",
+      "fab_reference": "utils.comparison_training.domain_triplet",
+      "grl": true,
+      "lr_horizon_epochs": 100,
+      "model_initialization": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/model_data/yolov8_s.pth",
+      "screen": "kway11_3_country_single_150504",
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/source_snapshot/run_experiment.py",
+        "new_experiments.kway_domain.worker",
+        "--suite",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504",
+        "--experiment",
+        "03_country_kway_unique",
+        "--gpu",
+        "2"
+      ],
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/launch_logs/03_country_kway_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/launch_logs/03_country_kway_unique.log"
+    },
+    {
+      "experiment": "04_latent_kway_unique",
+      "title": "潜在域单K类判别器",
+      "epochs": 100,
+      "seed": 11,
+      "batch_size": 12,
+      "num_workers": 8,
+      "gpu": 3,
+      "data_protocol": "unique",
+      "alpha_domain": 0.014579329162945357,
+      "architecture": "single_kway",
+      "domain_count": 2,
+      "feature": "backbone_feat3",
+      "fab_reference": "utils.comparison_training.domain_triplet",
+      "grl": true,
+      "lr_horizon_epochs": 100,
+      "model_initialization": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/model_data/yolov8_s.pth",
+      "screen": "kway11_4_latent_single_150504",
+      "command": [
+        "/data4/czh/anaconda3/envs/yolo_dg/bin/python",
+        "-u",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/source_snapshot/run_experiment.py",
+        "new_experiments.kway_domain.worker",
+        "--suite",
+        "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504",
+        "--experiment",
+        "04_latent_kway_unique",
+        "--gpu",
+        "3"
+      ],
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/launch_logs/04_latent_kway_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/launch_logs/04_latent_kway_unique.log"
+    }
+  ],
+  "gpu_mapping": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "git_commit": "886f913dcba3acb4d78940cf64df338a17ca9949",
+  "git_status": "?? AGENTS.md\n?? \"MAMDG_K-way\\345\\210\\244\\345\\210\\253\\345\\231\\250.md\"\n?? README_style.md\n?? get_map_new.py\n?? kway_comparison_100ep_seed11_20261015_150504/\n?? kway_comparison_60ep_seed42_20261014_195549/\n?? latent_dg_config.py\n?? latent_domain_analysis/\n?? new_experiments/\n?? tests/test_latent_ablation.py\n?? tests/test_latent_refinement.py\n?? tests/test_latent_structure.py\n?? tests/test_latent_training_comparison.py\n?? tests/test_latent_validation.py\n?? tools/audit_latent_evaluation.py\n?? tools/audit_latent_training.py\n?? tools/calibrate_latent_structure.py\n?? tools/run_deterministic_parity.py\n?? tools/run_kway_stage_worker.py\n?? tools/run_latent_refinement.py\n?? tools/run_latent_screen_worker.py\n?? tools/run_latent_suite.py\n?? tools/summarize_evaluation_audit.py\n?? tools/verify_expert_update.py\n?? tools/verify_latent_ablation.py\n?? tools/verify_latent_refinement.py\n?? train_latent_ablation.py\n?? utils/comparison_evaluation.py\n?? utils/comparison_training.py\n?? utils/latent_ablation_training.py\n?? utils/latent_adversarial.py\n?? utils/latent_membership.py\n?? utils/latent_structure.py\n?? utils/latent_v2.py\n?? utils/latent_validation.py\n?? utils/online_latent_centers.py\n?? utils/summarize_comparison_tests.py\n?? utils/summarize_latent_ablation.py\n?? utils/summarize_latent_training.py\n?? \"\\346\\275\\234\\345\\234\\250\\345\\237\\237K\\351\\200\\211\\346\\213\\251\\344\\270\\216\\347\\241\\254\\350\\201\\232\\347\\261\\273\\346\\211\\247\\350\\241\\214\\346\\226\\271\\346\\241\\210.md\"\n",
+  "git_diff": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/git_diff.patch",
+  "source_snapshot": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/source_snapshot",
+  "environment": {
+    "python": "3.10.20",
+    "torch": "2.1.1+cu121",
+    "torchvision": "0.16.1+cu121",
+    "cuda": "12.1",
+    "gpu_info": "index, name, memory.total [MiB]\n0, NVIDIA GeForce RTX 2080 Ti, 11264 MiB\n1, NVIDIA GeForce RTX 2080 Ti, 11264 MiB\n2, NVIDIA GeForce RTX 2080 Ti, 11264 MiB\n3, NVIDIA GeForce RTX 2080 Ti, 11264 MiB\n4, NVIDIA GeForce RTX 2080 Ti, 11264 MiB\n5, NVIDIA GeForce RTX 2080 Ti, 11264 MiB\n6, NVIDIA GeForce RTX 2080 Ti, 11264 MiB\n7, NVIDIA GeForce RTX 2080 Ti, 11264 MiB\n"
+  },
+  "initial_weights": {
+    "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/model_data/yolov8_s.pth",
+    "sha256": "bdc4bb8b12c63e59a6de61ae41295cb27e4c84ea743b8d34cc6339f35a8ede72"
+  },
+  "data_lists": {
+    "country": {
+      "train": {
+        "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/251030_train.txt",
+        "sha256": "be82351a7f63162a99e31b065ffeff7ac657d4fe90f25fef6c9b33bbaadcba95"
+      },
+      "validation": {
+        "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/ImageSets/251030_val.txt",
+        "sha256": "0a323c530ace2427286bb8d0c363d5fe3ef43d52b3ecc840daa467febd7e85f6"
+      }
+    },
+    "latent": {
+      "train": {
+        "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/combined_train.txt",
+        "sha256": "81ed8544669738d2b10502fa0b90522c6c343be11bb121331d4f03b146947e38"
+      },
+      "validation": {
+        "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/domain_splits/combined_val.txt",
+        "sha256": "bb1aadc30e9349228f2a140dbcf678ae1c3c025971474afd63a1cbf3286a4ffd"
+      }
+    }
+  },
+  "cluster_labels": {
+    "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/results/final_cluster_labels.csv",
+    "sha256": "ffe2b6f5c4695a4a685a9ab7b067a878851b9d40f19c52f5b71ad4de03b38d4a"
+  },
+  "expert_root": "/data4/czh/yolov8-cluster/yolov8-pretrain/results/expert_pretrain_20261004_200ep",
+  "test_images": 9433,
+  "test_counts": {
+    "Japan": 790,
+    "India": 323,
+    "United_States": 481,
+    "Norway": 2914,
+    "new_Czech": 1072,
+    "new_China_Drone": 1919,
+    "new_China_MotorBike": 1934
+  },
+  "test_lists": {
+    "Japan": {
+      "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/Japan/ImageSets/Main/test_all.txt",
+      "sha256": "021a799a066bece29c7705dcb774ed0d32f604ee12e19a24bc9019bfb0754a29"
+    },
+    "India": {
+      "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/India/ImageSets/Main/test_all.txt",
+      "sha256": "a494512d21388eeb17f10b3420e0feab98b89692a896f31e84c82b98910666d9"
+    },
+    "United_States": {
+      "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/United_States/ImageSets/Main/test_all.txt",
+      "sha256": "91bfd75267073a1dae74f89b5e52ae28e14bed77aa74935bf2fd032b250ada2b"
+    },
+    "Norway": {
+      "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/Norway/ImageSets/Main/test_all.txt",
+      "sha256": "404160aec1cbedc7bc6ccb8aebd809f0e9a17d622d770ccc5a112ddab924bdfa"
+    },
+    "new_Czech": {
+      "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/new_Czech/ImageSets/Main/test_all.txt",
+      "sha256": "d16252975b54084974f5b83398d45fa00cced44a61a60d2dbd7e5525ac92bb14"
+    },
+    "new_China_Drone": {
+      "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/new_China_Drone/ImageSets/Main/test_all.txt",
+      "sha256": "a00ebe2aa857bf4fcf06c3b25d51feff1a77668d9343cb2be043e7a8712a7ce6"
+    },
+    "new_China_MotorBike": {
+      "path": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/datasets/RDD2022/new_China_MotorBike/ImageSets/Main/test_all.txt",
+      "sha256": "68c79efd4ca098b265e2ce9b2ccbf0d96bb7fd5447c884e3e5659fcab4f4a8e4"
+    }
+  },
+  "checkpoint_selection": "minimum source validation detection loss",
+  "calibration": "fixed source-only feature-gradient matching; see verification.json",
+  "timing": "wall-clock training includes setup/validation/AP/save; testing includes load/inference/metrics/save"
+}

@@ -1,0 +1,78 @@
+{
+  "experiment": "04_latent_kway_unique",
+  "domain": "new_China_Drone",
+  "images": 1919,
+  "voc": {
+    "map50": 0.3217122815713616,
+    "per_class": {
+      "D00": {
+        "ap50": 0.30719985624162915,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 1426,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 1426
+      },
+      "D10": {
+        "ap50": 0.5381186251478388,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 1263,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 1263
+      },
+      "D20": {
+        "ap50": 0.07048662279902018,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 293,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 293
+      },
+      "D40": {
+        "ap50": 0.3710440220969583,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 86,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 86
+      }
+    },
+    "precision_macro": 0.0,
+    "recall_macro": 0.0,
+    "f1_macro": 0.0
+  },
+  "coco": {
+    "map50_95": 0.14008083584277445,
+    "map50": 0.3193822867580914,
+    "map75": 0.09621925547517265,
+    "per_class": {
+      "D00": {
+        "ap50_95": 0.1141124852032264,
+        "ap50": 0.3008562962649637
+      },
+      "D10": {
+        "ap50_95": 0.2107337239820647,
+        "ap50": 0.533387838986041
+      },
+      "D20": {
+        "ap50_95": 0.02850221076430726,
+        "ap50": 0.07557631295097521
+      },
+      "D40": {
+        "ap50_95": 0.20697492342149937,
+        "ap50": 0.36770869883038526
+      }
+    },
+    "max_detections": 100
+  },
+  "elapsed_s": 135.92744970321655
+}

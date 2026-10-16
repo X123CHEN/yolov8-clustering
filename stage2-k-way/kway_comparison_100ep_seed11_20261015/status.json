@@ -1,0 +1,37 @@
+{
+  "complete": true,
+  "jobs": {
+    "01_country_multi_unique": {
+      "phase": "complete",
+      "gpu": 0,
+      "screen": "3059970.kway11_1_country_multi_150504",
+      "pid": 3059972,
+      "updated_at": "2026-10-16T09:39:53.002942+08:00",
+      "started_at": "2026-10-16T09:23:01.561823+08:00"
+    },
+    "02_latent_multi_unique": {
+      "phase": "complete",
+      "gpu": 1,
+      "screen": "3059973.kway11_2_latent_multi_150504",
+      "pid": 3059975,
+      "updated_at": "2026-10-16T07:19:33.617801+08:00",
+      "started_at": "2026-10-16T06:16:00.324750+08:00"
+    },
+    "03_country_kway_unique": {
+      "phase": "complete",
+      "gpu": 2,
+      "screen": "3059976.kway11_3_country_single_150504",
+      "pid": 3059978,
+      "updated_at": "2026-10-16T05:32:57.319346+08:00",
+      "started_at": "2026-10-16T04:50:19.370385+08:00"
+    },
+    "04_latent_kway_unique": {
+      "phase": "complete",
+      "gpu": 3,
+      "screen": "3059980.kway11_4_latent_single_150504",
+      "pid": 3059981,
+      "updated_at": "2026-10-16T05:21:42.799549+08:00",
+      "started_at": "2026-10-16T04:23:27.415524+08:00"
+    }
+  }
+}

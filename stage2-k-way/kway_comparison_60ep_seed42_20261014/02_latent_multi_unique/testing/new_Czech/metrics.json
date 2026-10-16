@@ -1,0 +1,78 @@
+{
+  "experiment": "02_latent_multi_unique",
+  "domain": "new_Czech",
+  "images": 1072,
+  "voc": {
+    "map50": 0.23017768686010406,
+    "per_class": {
+      "D00": {
+        "ap50": 0.3397013176361384,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 988,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 988
+      },
+      "D10": {
+        "ap50": 0.35370471861638797,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 399,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 399
+      },
+      "D20": {
+        "ap50": 0.14749634145479976,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 161,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 161
+      },
+      "D40": {
+        "ap50": 0.07980836973309012,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 197,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 197
+      }
+    },
+    "precision_macro": 0.0,
+    "recall_macro": 0.0,
+    "f1_macro": 0.0
+  },
+  "coco": {
+    "map50_95": 0.07210585355613255,
+    "map50": 0.2250829853290792,
+    "map75": 0.030829838768779802,
+    "per_class": {
+      "D00": {
+        "ap50_95": 0.1168910654690136,
+        "ap50": 0.33398266940822857
+      },
+      "D10": {
+        "ap50_95": 0.10163522469758647,
+        "ap50": 0.3433012398849435
+      },
+      "D20": {
+        "ap50_95": 0.045881500395337366,
+        "ap50": 0.1452690154437532
+      },
+      "D40": {
+        "ap50_95": 0.024015623662592814,
+        "ap50": 0.07777901657939158
+      }
+    },
+    "max_detections": 100
+  },
+  "elapsed_s": 28.764310121536255
+}

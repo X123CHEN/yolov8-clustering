@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "jobs": [
+    {
+      "experiment": "01_country_multi_unique",
+      "gpu": "0",
+      "seed": 42,
+      "epochs": 60,
+      "discriminators": 3,
+      "experts": 3,
+      "started_training": true
+    },
+    {
+      "experiment": "02_latent_multi_unique",
+      "gpu": "1",
+      "seed": 42,
+      "epochs": 60,
+      "discriminators": 2,
+      "experts": 2,
+      "started_training": true
+    },
+    {
+      "experiment": "03_country_kway_unique",
+      "gpu": "2",
+      "seed": 42,
+      "epochs": 60,
+      "discriminators": 1,
+      "experts": 0,
+      "started_training": true
+    },
+    {
+      "experiment": "04_latent_kway_unique",
+      "gpu": "3",
+      "seed": 42,
+      "epochs": 60,
+      "discriminators": 1,
+      "experts": 0,
+      "started_training": true
+    }
+  ]
+}

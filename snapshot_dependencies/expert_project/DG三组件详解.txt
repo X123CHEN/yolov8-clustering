@@ -1,0 +1,387 @@
+================================================================
+域泛化检测：三个可配置组件详解 + 实验安排 + 运行方法
+（SupCon / FFT / MixStyle，外加“对抗”开关）
+================================================================
+
+本文件给新手讲清楚：
+  (1) 这套代码在做什么、三个组件各是什么、为什么这么设计；
+  (2) 所有开关在 dg_config.py 里怎么配（一张速查表）；
+  (3) 论文要跑的实验怎么排（R0–R8 消融阶梯）；
+  (4) 具体怎么运行（命令行、前置准备、评估）。
+
+★ 一句话先记住：
+  默认配置 = 原始训练（对抗 + 三元组）。你只改 dg_config.py 一个文件，
+  就能切换“开/关 哪些组件”，其余代码不用动。
+
+
+================================================================
+0. 统一框架：DG 的敌人是“域偏移”，它能拆成两半
+================================================================
+
+域泛化（Domain Generalization, DG）的设定：在若干“源域”上训练，要在
+训练时完全没见过的“目标域”上也好用。和域自适应（DA）的区别是——你拿
+不到任何目标域数据（连无标注的都没有）。所以不能“贴合某个目标”，只能
+让模型本身对“换域”免疫。
+
+核心难点叫“域偏移”（domain shift），它由两种性质完全不同的东西组成：
+
+  · 风格（style）——表层、域相关、是干扰
+      光照、天气、季节、传感器、色调、纹理、清晰度……
+      换个域就变，但和“这是不是一辆车”无关。模型应该无视它们。
+
+  · 内容（content）——深层、跨域不变、是判别信息
+      物体的形状、结构、部件关系、语义。
+      “车有四个轮子、一个车身”在白天/黑夜/雾天/红外里都成立。
+      这才是模型应该死死抓住的东西。
+
+一句话：DG 的目标 = 让模型“对风格免疫、对内容敏感”。
+
+三个组件 + 对抗，正好分别攻击这两个轴：
+
+  风格轴   →  FFT、MixStyle        （制造假风格，逼模型无视风格）
+  内容轴   →  SupCon               （让同类物体特征跨域聚到一起）
+  内容轴   →  对抗（旧方法、重型）  （用判别器逼特征域不变）
+
+论文主线：风格轴用“免费的增强”（FFT/MixStyle）解决，内容轴用“稳定的
+SupCon”解决，于是那条又贵又不稳的对抗老路可以整条拔掉、而精度不掉。
+这就是“用便宜换贵”的卖点。
+
+三个组件能“自由开关、任意组合”，是因为它们住在 pipeline 的三个不同位置，
+互不打架：
+
+  FFT       → 数据端（dataloader 里）    开关不碰 loss
+  MixStyle  → 模型端（backbone 输出特征） 开关不碰 loss
+  SupCon    → 损失端（内容对齐槽）        和三元组互斥，三选一
+
+
+================================================================
+组件一：SupCon —— 升级“内容对齐”支路（替换三元组）
+================================================================
+
+【定位】
+它替换的是你现在的“三元组损失（triplet）”那条支路，不是替换对抗。
+目标和三元组完全一样：让同一类物体的特征跨域聚到一起、不同类的推开。
+只是换了一个更稳、更高效的损失。
+
+【物体特征是怎么来的（本代码的实现）】
+做对比学习需要“每个物体实例”的特征向量，而 backbone 出来的是整张图的
+特征图。本代码复用了项目里已有的提取函数（feat_xywh2feat_tensor_upgrade1）：
+  · 按每个真值框的位置，从 20×20 和 40×40 特征图上抠出对应区域，
+  · 做平均池化，得到该物体的一个定长特征向量。
+于是一张图里 N 个物体 → N 个特征向量，这些就是喂进 SupCon 的原料。
+（注：这是“粗糙版”的区域池化，不是 torchvision 的 ROIAlign。想更精细
+  可以后续把它换成 ROIAlign，属于可选升级，当前代码没用它。）
+
+【SupCon 是什么，为什么比三元组好】
+三元组：每次取 1 个锚点 + 1 个正样本(同类) + 1 个负样本(异类)，拉近正、
+推远负。问题：一次只看 3 个点、信息利用率低；严重依赖“难样本挖掘”，
+挑不好就训不动或训崩；不稳、收敛慢。
+
+SupCon（Supervised Contrastive Loss）是三元组的自然推广：对每个锚点，
+一次性用上“这一批里所有同类（全部正）”和“所有异类（全部负）”，同时
+拉近所有同类、推远所有异类。监督更密、梯度更稳、不用挖三元组，用到了
+类别标签（“有监督”对比，区别于自监督的 SimCLR）。
+
+【为什么天然服务于“跨域不变”】
+你拉到一起的同类样本来自不同源域：把“白天的车”和“雾天的车”拉进同一簇，
+和“行人”推开。于是每个类别的特征簇同时满足：类内紧凑（好分类）+ 跨域
+混合（域不变）。全程不需要对抗、不需要任何“专家”当锚点。
+
+【位置与配置】
+  · 位置：损失端的“内容对齐槽”，作用在共享 backbone 的特征上。
+  · 和三元组占同一个槽，互斥三选一：none / triplet / supcon（见 align_type）。
+  · 权重：SupCon 复用 args.W_trip（默认 0.3）当它的损失权重，无需另设。
+  · 唯一的 SupCon 专属参数是 supcon_temp（温度，默认 0.07）：越小对比越
+    “尖锐”、越强调把最难分的样本拉开；0.07 是 SupCon 原论文常用值。
+
+
+================================================================
+组件二：FFT 振幅交换 —— 在数据端“零成本造风格”
+================================================================
+
+【理论根基：傅里叶域里，振幅=风格，相位=内容】
+对一张图做傅里叶变换（FFT），频谱分两部分：
+  · 振幅谱（amplitude）：主要承载“风格”——纹理、色调、光照、对比度
+    这类表层统计（也就是“域”的信息）。
+  · 相位谱（phase）：主要承载“结构/语义”——物体轮廓、边缘、空间布局
+    （也就是“内容”）。
+这是图像处理里一个经典、被反复验证的性质：把两张图的振幅和相位互换再
+变回去，重建出来“长得像谁”由相位决定。
+
+【操作流程（本代码 amplitude_swap / fft_style_randomize）】
+  1. 对图像 A 做 FFT，拆出 A 的振幅和相位；
+  2. 取另一张图 B（来自不同源域）的振幅；
+  3. 保留 A 的相位，把 B 的低频振幅换进来（按 lam 比例插值）；
+  4. 逆变换回像素空间，并裁剪到 [0,255]。
+得到的新图：内容还是 A 的（物体、位置全不变 → 标注框照用），风格变成 B 的。
+本代码对一个 batch 里的三个域图像做“循环交换”（域0←域1, 域1←域2,
+域2←域0），保证每张都换成“别国风格”。
+
+逼着检测器：不能靠颜色/纹理/光照认物体（被随机换掉了），只能靠相位里的
+结构认——而结构正是跨域不变的内容。
+
+【为什么是对抗的替代候选（核心故事线）】
+旧方法靠训一堆生成器/判别器来“合成域变化”，又重又不稳。FFT 用一个解析
+变换就把“域变化”造出来了，不用学、不用训、几乎零成本。
+
+【位置与代价】
+  · 位置：纯数据增强，住在 dataloader 的 __getitem__ 里，跑在 CPU worker
+    上，不占 GPU；只在训练时生效，验证/推理不做。
+  · 不加任何 loss 项 → 开/关完全不影响损失函数。
+  · 注意（Windows）：FFT 配置请用“改 dg_config.py 文件”的方式设置；
+    多进程 DataLoader 的 worker 会重新读这个文件，运行时改 CFG 不会传到
+    worker。
+
+【参数】fft_p（施加概率,默认0.5）、fft_beta（低频窗大小占比,默认0.08，越
+大风格替换越强）、fft_lam（振幅混合比,默认1.0；1.0=完全用别人的）。
+
+
+================================================================
+组件三：MixStyle —— 在特征里“造风格”，和 FFT 同性质、换位置
+================================================================
+
+【理论根基：特征统计量就是风格】
+CNN 特征图的“逐通道统计量”——每个通道的均值 μ 和标准差 σ——编码了风格
+（来自风格迁移 AdaIN 一脉）：想换风格，本质就是替换 (μ, σ)。
+
+【操作流程】
+  1. 取特征图，算逐通道 (μ_X, σ_X)；
+  2. 取同 batch 另一张图的 (μ_Y, σ_Y)；
+  3. 按随机比例 λ（从 Beta 分布抽）混合：
+        μ_mix = λ·μ_X + (1-λ)·μ_Y ，σ_mix 同理；
+  4. 把 X 的特征先归一化（减 μ_X、除 σ_X），再注入 (μ_mix, σ_mix)。
+结果：内容（结构）没动，风格变成两者混出的中间风格 → 在特征层面造出
+介于两个域之间的新风格。无可学习参数。
+
+【本代码里 MixStyle 加在哪】
+作用在 backbone 输出的 feat1（最浅层那一路特征，80×80）。之所以只加在
+feat1、而不碰 feat2/feat3：feat2/feat3 要给 SupCon 和对抗用，不动它们可以
+避免“风格扰动”和“内容对齐”互相串味，消融更干净。
+（想加强可以照样作用到 feat2，属于可选项。）
+
+【random vs crossdomain 模式】
+  · random：在 batch 里随机找另一个样本来混；
+  · crossdomain：故意拿不同域之间的样本来混（域感知），更贴 DG 目标。
+本代码的 batch 顺序是 [域0,域1,域2, 域0,域1,域2, ...]，crossdomain 会
+据此强制跨域配对。默认 random（最稳），想要域感知就设 crossdomain。
+
+【MixStyle 和 FFT 的关系：同目标、不同位置、二选一】
+目标一样（扰动风格、保住内容）。区别只在“在哪动手”：FFT 在像素/输入端、
+MixStyle 在特征/backbone 内。两者是替代关系，二选一即可；同时上通常不叠加
+增益，是冗余。
+
+【位置与代价】插在模型里，无可学习参数（不改 checkpoint、推理自动失效，
+不影响部署），不加 loss 项。
+【参数】mixstyle_p（默认0.5）、mixstyle_alpha（Beta 形状参数,默认0.1）、
+mixstyle_mode（'random' 或 'crossdomain'）。
+
+
+================================================================
+背景：被替换的“对抗”老路，到底重在哪
+================================================================
+
+现在方法里的“对抗支路”，用对抗逼特征域不变：有“专家”产出域相关锚点、
+判别器分辨特征来自哪个域、特征提取器反过来骗判别器 → 最终特征看不出域。
+
+它有效，但代价大、脆弱：
+  · min-max 对抗优化本身不稳，容易训崩；
+  · 需要 3 个判别器；
+  · 需要 3 个冻结的“专家”，专家又得先跑一遍“单域预训练”才能就位；
+  · critic 损失还乘了 ×1000 这种夸张权重（说明系统很难平衡、很脆）。
+
+论文的赌注：把这一整套（3 判别器 + 3 专家 + 单域预训练 + 不稳定 min-max
++ ×1000）全拔掉（use_adv=False），改用 FFT/MixStyle（风格轴）+ SupCon
+（内容轴），再用消融证明：砍掉对抗后精度持平甚至更好。
+能省掉的模块越多、故事越硬——这就是“用便宜换贵”最有力的数据。
+
+★ 当 use_adv=False 时：判别器、生成器损失、critic 更新全部跳过，而且
+  无需准备那 3 个专家权重文件（代码会自动跳过加载）。
+
+
+================================================================
+配置开关速查（只改这一个文件：dg_config.py）
+================================================================
+
+四个轴，对应四组开关：
+
+  # 1) 对抗分支总开关
+  use_adv          True / False        默认 True（保留对抗=原行为）
+
+  # 2) 内容对齐槽（三选一，互斥）
+  align_type       'triplet' / 'supcon' / 'none'   默认 'triplet'
+  supcon_temp      0.07                （仅 supcon 用）
+
+  # 3) 风格增强：FFT（数据端）
+  fft_enabled      True / False        默认 False
+  fft_p            0.5                 施加概率
+  fft_beta         0.08                低频窗大小（越大越猛）
+  fft_lam          1.0                 振幅混合比
+
+  # 4) 风格增强：MixStyle（模型端，作用于 feat1）
+  mixstyle_enabled True / False        默认 False
+  mixstyle_p       0.5
+  mixstyle_alpha   0.1
+  mixstyle_mode    'random' / 'crossdomain'
+
+要切换实验：可以直接改本文件的默认值，也可以用命令行环境变量覆盖（不改
+文件）。两种方式见下方“怎么运行”。环境变量名：DG_USE_ADV / DG_ALIGN /
+DG_SUPCON_TEMP / DG_FFT(_P/_BETA/_LAM) / DG_MIXSTYLE(_P/_ALPHA/_MODE)。
+
+
+================================================================
+实验安排：消融阶梯 R0–R8（每行只回答一个问题）
+================================================================
+
+下表四列就是 dg_config.py 里的四个开关。建议每个 run 用 --results_path
+指定一个独立的输出目录，避免互相覆盖。
+
+  编号  说明              use_adv  align_type  fft_enabled  mixstyle_enabled  这一行回答什么
+  ----  ----------------  -------  ----------  -----------  ----------------  ----------------------------
+  R0    纯检测器          False    none        False        False             下界（泛化基线）
+  R1    现有方法(默认)    True     triplet     False        False             复现你现在的方法（对比靶子）
+  R2    只 FFT            False    none        True         False             FFT 单独有没有用
+  R3    只 MixStyle       False    none        False        True              和 R2 比，风格法二选一选谁
+  R4    只 SupCon         False    supcon      False        False             内容对齐单独有没有用
+  R5    只对抗            True     none        False        False             对抗单独贡献多少
+  R6 ★  主方法            False    supcon      True         False             FFT+SupCon、砍掉对抗（主结果）
+  R7    主方法+对抗       True     supcon      True         False             关键：对抗加回去还涨吗？
+                                                                              ≈R6 → 证明对抗冗余、砍得理直气壮
+  R8    MixStyle版主方法  False    supcon      False        True              若 R3>R2，用 MixStyle 替 FFT 再验
+
+推荐跑的顺序：
+  1) R1、R0（两个锚点：现有方法 + 下界）
+  2) R2、R3、R4、R5（四个组件各自单独的贡献）
+  3) R6（主方法）→ R7（“砍对抗不掉点”的胜负手）
+  4) 选 R6 的胜者，再单独搬到 YOLO11 base 上重跑一遍（v11 是另一条防御线）
+
+最少要跑的（赶时间）：R1、R6、R7 三个就能撑起“用便宜换贵”的主结论。
+
+每个实验要在两个 benchmark + 留一域上各跑一遍（RDD 四国 / 驾驶三数据集），
+表格就靠这些填满。
+
+
+================================================================
+怎么运行（命令行）
+================================================================
+
+前提：在项目根目录运行（即包含 train_5datasets.py 的那个文件夹）。
+
+------------------------------
+第 0 步：环境
+------------------------------
+  pip install -r requirements.txt
+  （需要 GPU + PyTorch；torch 版本见 requirements.txt / README）
+
+------------------------------
+第 1 步：准备数据和权重（首次必须做）
+------------------------------
+在 train_5datasets.py 里按你的实际路径改这几处：
+  · classes_path            类别 txt（你的检测类别）
+  · model_path              预训练主干，默认 './model_data/yolov8_l.pth'（要先放好）
+  · train_annotation_path   训练标注 txt
+  · val_annotation_path     验证标注 txt
+  · phi                     模型规模，默认 'l'
+
+标注 txt 的格式（多源域，每行 3 个域用 & 隔开）：
+  /路径/日本图.jpg x1,y1,x2,y2,类别 ... & /路径/印度图.jpg ... & /路径/美国图.jpg ...
+
+只有 use_adv=True（R1/R5/R7）时，还需要 3 个“单域专家”权重，路径在
+train_5datasets.py 约 434–436 行（先用普通单域训练得到）。
+use_adv=False（R0/R2/R3/R4/R6/R8）则完全不需要专家，代码自动跳过。
+
+------------------------------
+第 2 步 + 第 3 步：选实验并开始训练（两种方式，任选其一）
+------------------------------
+每个实验用 --results_path 指定独立输出目录，避免互相覆盖。
+
+【方式A：命令行环境变量（推荐，跑多组合最方便，不用改文件）】
+
+Linux / 服务器（bash）—— 变量只对该条命令生效，最干净，直接复制：
+
+  # R0 纯检测器
+  DG_USE_ADV=false DG_ALIGN=none CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R0
+  # R1 现有方法（默认，什么都不设）
+  CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R1
+  # R2 只FFT
+  DG_USE_ADV=false DG_ALIGN=none DG_FFT=true CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R2
+  # R3 只MixStyle
+  DG_USE_ADV=false DG_ALIGN=none DG_MIXSTYLE=true CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R3
+  # R4 只SupCon
+  DG_USE_ADV=false DG_ALIGN=supcon CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R4
+  # R5 只对抗
+  DG_ALIGN=none CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R5
+  # R6 主方法 ★
+  DG_USE_ADV=false DG_ALIGN=supcon DG_FFT=true CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R6
+  # R7 主+对抗
+  DG_ALIGN=supcon DG_FFT=true CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R7
+  # R8 MixStyle版主方法
+  DG_USE_ADV=false DG_ALIGN=supcon DG_MIXSTYLE=true CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R8
+
+Windows PowerShell —— 变量会留在会话里，所以每换一个组合前要先清掉，否则会串：
+
+  # 例：跑 R6
+  $env:DG_USE_ADV='false'; $env:DG_ALIGN='supcon'; $env:DG_FFT='true'
+  python train_5datasets.py --results_path ./logs/R6
+  # 换下一个组合前清掉：
+  Remove-Item Env:DG_USE_ADV,Env:DG_ALIGN,Env:DG_FFT,Env:DG_MIXSTYLE -ErrorAction SilentlyContinue
+
+环境变量名对照：
+  DG_USE_ADV(true/false)   DG_ALIGN(triplet/supcon/none)   DG_SUPCON_TEMP
+  DG_FFT(true/false)  DG_FFT_P  DG_FFT_BETA  DG_FFT_LAM
+  DG_MIXSTYLE(true/false)  DG_MIXSTYLE_P  DG_MIXSTYLE_ALPHA  DG_MIXSTYLE_MODE(random/crossdomain)
+
+【方式B：直接改 dg_config.py 的默认值，再普通运行】
+  打开 dg_config.py，把四个开关改成该实验的值（例如 R6: use_adv=False、
+  align_type='supcon'、fft_enabled=True），保存后：
+  CUDA_VISIBLE_DEVICES=0 python train_5datasets.py --results_path ./logs/R6
+
+说明：
+  · 不设任何环境变量、也不改默认 = R1（原始行为）。
+  · --results_path 给每个实验分独立输出目录；权重/曲线存在该目录下
+    （best_epoch_weights.pth / last_epoch_weights.pth）。
+  · FFT 配置用环境变量或改文件都行，两者都会被 DataLoader 子进程正确读到。
+
+------------------------------
+第 4 步（建议）：先做冒烟测试，确认不崩
+------------------------------
+正式开训前，先小跑验证管线没问题：
+  · 临时把 train_5datasets.py 里的 UnFreeze_Epoch 改小（如 1），
+    或者跑起来看前几个 iteration 的 loss 正常打印后 Ctrl+C；
+  · 重点验证 R6（supcon + fft，新路径）和 R1（默认，原路径）都能跑。
+
+------------------------------
+第 5 步：评估 mAP / 预测出图
+------------------------------
+评估（留一域测试集上算 mAP）：
+  1) 在 yolo.py 的 _defaults 里把 model_path 改成你某个 run 的
+     best_epoch_weights.pth，classes_path 改成你的类别 txt；
+  2) 运行：  python get_map.py
+     结果保存在 map_out/。
+
+预测单张图：
+  1) 同样在 yolo.py 改 model_path / classes_path；
+  2) 运行：  python predict.py
+     按提示输入图片路径（如 img/street.jpg）。
+
+
+================================================================
+常见坑 / 注意事项
+================================================================
+  · 改了 dg_config.py 一定要保存再运行；FFT 配置务必写进文件（别只在
+    运行时改），否则 Windows 多进程 worker 读不到。
+  · use_adv=False 时不需要专家权重；use_adv=True 时必须先准备好 3 个专家。
+  · 每个实验换一个 --results_path，否则会覆盖上一个的权重/曲线。
+  · MixStyle/SupCon 不引入可学习参数，旧 checkpoint 仍可加载、推理不受影响。
+  · 风格法（FFT/MixStyle）只对“风格型”域差异有效；如果你的数据域差异更偏
+    “内容型”（不同国家病害类型/分布不同），SupCon 才是主力，FFT 增益可能有限。
+  · 项目入口是 train_5datasets.py + utils_fit.py；train_H_and_B.py 是过时
+    的旧脚本（和当前 YoloBody/fit 签名不兼容），不要用它。
+
+
+================================================================
+一句话收尾
+================================================================
+FFT / MixStyle 管风格轴（二选一），SupCon 管内容轴（替换三元组），对抗是
+内容轴上那条又贵又不稳的老路。主方法 = FFT + SupCon、砍掉对抗（R6）；
+损失最终只剩两项：检测损失 + SupCon，FFT/MixStyle 在数据/特征端免费加成。
+干净、稳定、好讲。

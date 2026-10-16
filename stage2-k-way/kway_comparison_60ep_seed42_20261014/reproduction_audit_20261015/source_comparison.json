@@ -1,0 +1,30 @@
+[
+  {
+    "file": "nets/backbone.py",
+    "byte_identical": true
+  },
+  {
+    "file": "nets/maddg.py",
+    "byte_identical": false
+  },
+  {
+    "file": "nets/yolo.py",
+    "byte_identical": true
+  },
+  {
+    "file": "nets/yolo_training.py",
+    "byte_identical": true
+  },
+  {
+    "file": "utils/callbacks.py",
+    "byte_identical": true
+  },
+  {
+    "file": "utils/comparison_training.py",
+    "byte_identical": true
+  },
+  {
+    "file": "utils/dataloader.py",
+    "byte_identical": true
+  }
+]

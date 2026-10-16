@@ -1,0 +1,16 @@
+{
+  "first_stage": "results/comparison_20261005_100ep",
+  "seed": 11,
+  "epochs": 100,
+  "lr_horizon_epochs": 100,
+  "unchanged_sources": {
+    "utils/comparison_training.py": true,
+    "utils/dataloader.py": true,
+    "utils/callbacks.py": true,
+    "nets/yolo.py": true,
+    "nets/backbone.py": true,
+    "nets/yolo_training.py": true
+  },
+  "standard_decoder_matches_first_stage": true,
+  "primary_metric": "seven_domain_mean_voc_map50"
+}

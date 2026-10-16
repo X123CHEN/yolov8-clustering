@@ -1,0 +1,78 @@
+{
+  "experiment": "01_country_multi_unique",
+  "domain": "Norway",
+  "images": 2914,
+  "voc": {
+    "map50": 0.12185892025477754,
+    "per_class": {
+      "D00": {
+        "ap50": 0.13277794912074842,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 8570,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 8570
+      },
+      "D10": {
+        "ap50": 0.23119248689430363,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 1730,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 1730
+      },
+      "D20": {
+        "ap50": 0.07268719476720062,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 468,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 468
+      },
+      "D40": {
+        "ap50": 0.05077805023685744,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "gt_objects": 461,
+        "true_positive": 0,
+        "false_positive": 0,
+        "false_negative": 461
+      }
+    },
+    "precision_macro": 0.0,
+    "recall_macro": 0.0,
+    "f1_macro": 0.0
+  },
+  "coco": {
+    "map50_95": 0.04376513021461081,
+    "map50": 0.12323127188055062,
+    "map75": 0.022949811542980765,
+    "per_class": {
+      "D00": {
+        "ap50_95": 0.05144454279960112,
+        "ap50": 0.1342571008137641
+      },
+      "D10": {
+        "ap50_95": 0.07785196980956126,
+        "ap50": 0.22988145337802363
+      },
+      "D20": {
+        "ap50_95": 0.030503872305850024,
+        "ap50": 0.07829795797865506
+      },
+      "D40": {
+        "ap50_95": 0.015260135943430836,
+        "ap50": 0.050488575351759636
+      }
+    },
+    "max_detections": 100
+  },
+  "elapsed_s": 760.6089704036713
+}

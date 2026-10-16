@@ -1,0 +1,197 @@
+
+START 2026-10-15T04:19:51.388647+08:00 ['/data4/czh/anaconda3/envs/yolo_dg/bin/python', '-u', '-m', 'new_experiments.kway_domain.evaluation', '--weights', '/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/04_latent_kway_unique/best_epoch_weights.pth', '--output', '/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/04_latent_kway_unique/testing', '--experiment', '04_latent_kway_unique', '--seed', '42']
+/data4/czh/yolov8-cluster/yolov8-hard-clustering/utils/utils_bbox.py:719: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources as pkg
+initialize network with normal type
+Fusing layers... 
+/data4/czh/anaconda3/envs/yolo_dg/lib/python3.10/site-packages/torch/nn/modules/module.py:844: UserWarning: The .grad attribute of a Tensor that is not a leaf Tensor is being accessed. Its .grad attribute won't be populated during autograd.backward(). If you indeed want the .grad field to be populated for a non-leaf Tensor, use .retain_grad() on the non-leaf Tensor. If you access the non-leaf Tensor by mistake, make sure you access the leaf Tensor instead. See github.com/pytorch/pytorch/pull/30531 for more informations. (Triggered internally at aten/src/ATen/core/TensorBody.h:489.)
+  if param.grad is not None:
+STRICT_LOAD_OK /data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/04_latent_kway_unique/best_epoch_weights.pth keys= 355
+Configurations:
+----------------------------------------------------------------------
+|                     keys |                                   values|
+----------------------------------------------------------------------
+|               model_path | /data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/04_latent_kway_unique/best_epoch_weights.pth|
+|             classes_path | /data4/czh/yolov8-cluster/yolov8-hard-clustering/model_data/rdd_classes.txt|
+|              input_shape |                               [640, 640]|
+|                      phi |                                        s|
+|               confidence |                                    0.001|
+|                  nms_iou |                                      0.5|
+|          letterbox_image |                                    False|
+|                     cuda |                                     True|
+----------------------------------------------------------------------
+Japan:   0%|          | 0/790 [00:00<?, ?it/s]Japan:   2%|▏         | 12/790 [00:10<11:02,  1.17it/s]Japan:   7%|▋         | 54/790 [00:20<04:13,  2.90it/s]Japan:  14%|█▍        | 114/790 [00:30<02:37,  4.28it/s]Japan:  22%|██▏       | 174/790 [00:41<02:07,  4.83it/s]Japan:  30%|██▉       | 234/790 [00:51<01:46,  5.22it/s]Japan:  37%|███▋      | 294/790 [01:02<01:34,  5.25it/s]Japan:  37%|███▋      | 294/790 [01:19<01:34,  5.25it/s]Japan:  44%|████▍     | 348/790 [01:20<01:43,  4.28it/s]Japan:  53%|█████▎    | 415/790 [01:30<01:16,  4.91it/s]Japan:  61%|██████    | 482/790 [01:40<00:57,  5.38it/s]Japan:  69%|██████▉   | 548/790 [01:52<00:44,  5.43it/s]Japan:  77%|███████▋  | 610/790 [02:02<00:31,  5.64it/s]Japan:  86%|████████▌ | 677/790 [02:12<00:19,  5.91it/s]Japan:  94%|█████████▍| 743/790 [02:24<00:08,  5.72it/s]Japan: 100%|██████████| 790/790 [02:28<00:00,  5.31it/s]
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.02s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=1.91s).
+Accumulating evaluation results...
+DONE (t=0.58s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.269
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.589
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.208
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.179
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.212
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.333
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.267
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.452
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.459
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.321
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.417
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.513
+DOMAIN_COMPLETE {"experiment": "04_latent_kway_unique", "domain": "Japan", "images": 790, "voc_map50": 0.5952812121169246, "coco_map50": 0.5890108270732849, "coco_map50_95": 0.26900922699190205, "precision_macro": 0.0, "recall_macro": 0.0, "f1_macro": 0.0}
+India:   0%|          | 0/323 [00:00<?, ?it/s]India:  19%|█▉        | 61/323 [00:10<00:43,  6.08it/s]India:  38%|███▊      | 122/323 [00:26<00:46,  4.36it/s]India:  49%|████▉     | 159/323 [00:37<00:41,  3.97it/s]India:  49%|████▉     | 159/323 [00:47<00:41,  3.97it/s]India:  62%|██████▏   | 201/323 [00:48<00:30,  3.99it/s]India:  75%|███████▍  | 242/323 [01:07<00:26,  3.08it/s]India:  89%|████████▉ | 288/323 [01:17<00:10,  3.47it/s]India: 100%|██████████| 323/323 [01:26<00:00,  3.75it/s]
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.03s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=1.08s).
+Accumulating evaluation results...
+DONE (t=0.23s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.184
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.431
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.118
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.124
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.092
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.234
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.236
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.369
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.385
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.217
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.305
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.410
+DOMAIN_COMPLETE {"experiment": "04_latent_kway_unique", "domain": "India", "images": 323, "voc_map50": 0.4323316386774223, "coco_map50": 0.4305567629801269, "coco_map50_95": 0.1842921956009348, "precision_macro": 0.0, "recall_macro": 0.0, "f1_macro": 0.0}
+United_States:   0%|          | 0/481 [00:00<?, ?it/s]United_States:  13%|█▎        | 62/481 [00:10<01:07,  6.17it/s]United_States:  26%|██▌       | 124/481 [00:20<00:58,  6.15it/s]United_States:  40%|███▉      | 190/481 [00:30<00:46,  6.32it/s]United_States:  53%|█████▎    | 256/481 [00:42<00:37,  5.95it/s]United_States:  66%|██████▌   | 318/481 [00:52<00:27,  6.01it/s]United_States:  81%|████████  | 388/481 [01:02<00:14,  6.26it/s]United_States:  97%|█████████▋| 465/481 [01:12<00:02,  6.70it/s]United_States: 100%|██████████| 481/481 [01:14<00:00,  6.44it/s]
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.02s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=0.68s).
+Accumulating evaluation results...
+DONE (t=0.21s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.372
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.664
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.355
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.267
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.354
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.396
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.347
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.569
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.571
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.588
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.513
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.601
+DOMAIN_COMPLETE {"experiment": "04_latent_kway_unique", "domain": "United_States", "images": 481, "voc_map50": 0.6674124945058661, "coco_map50": 0.6644973166469116, "coco_map50_95": 0.3715242065209443, "precision_macro": 0.0, "recall_macro": 0.0, "f1_macro": 0.0}
+Norway:   0%|          | 0/2914 [00:00<?, ?it/s]Norway:   1%|          | 26/2914 [00:10<18:47,  2.56it/s]Norway:   1%|          | 26/2914 [00:23<18:47,  2.56it/s]Norway:   2%|▏         | 51/2914 [00:24<23:27,  2.03it/s]Norway:   2%|▏         | 69/2914 [00:38<28:45,  1.65it/s]Norway:   3%|▎         | 93/2914 [00:48<24:50,  1.89it/s]Norway:   4%|▍         | 121/2914 [00:59<21:35,  2.16it/s]Norway:   5%|▌         | 148/2914 [01:11<21:14,  2.17it/s]Norway:   6%|▌         | 178/2914 [01:21<19:00,  2.40it/s]Norway:   7%|▋         | 209/2914 [01:31<17:21,  2.60it/s]Norway:   7%|▋         | 209/2914 [01:43<17:21,  2.60it/s]Norway:   8%|▊         | 237/2914 [01:43<17:49,  2.50it/s]Norway:   9%|▉         | 267/2914 [01:53<16:45,  2.63it/s]Norway:  10%|█         | 297/2914 [02:04<16:07,  2.70it/s]Norway:  11%|█▏        | 330/2914 [02:14<15:01,  2.87it/s]Norway:  12%|█▏        | 363/2914 [02:26<14:51,  2.86it/s]Norway:  14%|█▎        | 398/2914 [02:36<13:48,  3.04it/s]Norway:  15%|█▍        | 433/2914 [02:47<13:41,  3.02it/s]Norway:  16%|█▌        | 465/2914 [02:57<13:18,  3.07it/s]Norway:  17%|█▋        | 497/2914 [03:08<13:08,  3.07it/s]Norway:  18%|█▊        | 530/2914 [03:18<12:43,  3.12it/s]Norway:  19%|█▉        | 566/2914 [03:28<11:59,  3.26it/s]Norway:  21%|██        | 602/2914 [03:39<11:38,  3.31it/s]Norway:  21%|██        | 602/2914 [03:53<11:38,  3.31it/s]Norway:  22%|██▏       | 631/2914 [03:54<13:44,  2.77it/s]Norway:  22%|██▏       | 651/2914 [04:12<18:05,  2.08it/s]Norway:  22%|██▏       | 651/2914 [04:23<18:05,  2.08it/s]Norway:  23%|██▎       | 661/2914 [04:24<21:16,  1.76it/s]Norway:  23%|██▎       | 684/2914 [04:34<19:38,  1.89it/s]Norway:  24%|██▍       | 707/2914 [04:45<19:04,  1.93it/s]Norway:  25%|██▌       | 731/2914 [04:57<18:37,  1.95it/s]Norway:  25%|██▌       | 731/2914 [05:13<18:37,  1.95it/s]Norway:  26%|██▌       | 745/2914 [05:14<23:32,  1.54it/s]Norway:  26%|██▋       | 769/2914 [05:24<20:38,  1.73it/s]Norway:  28%|██▊       | 803/2914 [05:34<16:21,  2.15it/s]Norway:  29%|██▊       | 837/2914 [05:48<15:09,  2.28it/s]Norway:  30%|██▉       | 863/2914 [05:59<14:51,  2.30it/s]Norway:  30%|██▉       | 863/2914 [06:14<14:51,  2.30it/s]Norway:  30%|███       | 885/2914 [06:14<16:44,  2.02it/s]Norway:  32%|███▏      | 920/2914 [06:24<13:55,  2.39it/s]Norway:  33%|███▎      | 959/2914 [06:34<11:42,  2.78it/s]Norway:  34%|███▍      | 998/2914 [06:48<11:34,  2.76it/s]Norway:  35%|███▌      | 1033/2914 [06:58<10:41,  2.93it/s]Norway:  37%|███▋      | 1070/2914 [07:09<09:50,  3.12it/s]Norway:  38%|███▊      | 1107/2914 [07:22<10:05,  2.98it/s]Norway:  38%|███▊      | 1107/2914 [07:34<10:05,  2.98it/s]Norway:  39%|███▉      | 1130/2914 [07:34<11:00,  2.70it/s]Norway:  40%|███▉      | 1154/2914 [07:44<11:24,  2.57it/s]Norway:  41%|████      | 1182/2914 [07:54<10:58,  2.63it/s]Norway:  42%|████▏     | 1210/2914 [08:05<10:52,  2.61it/s]Norway:  42%|████▏     | 1236/2914 [08:15<10:45,  2.60it/s]Norway:  43%|████▎     | 1262/2914 [08:26<10:43,  2.57it/s]Norway:  44%|████▍     | 1287/2914 [08:36<10:44,  2.53it/s]Norway:  45%|████▌     | 1314/2914 [08:46<10:21,  2.58it/s]Norway:  46%|████▌     | 1341/2914 [09:00<11:12,  2.34it/s]Norway:  47%|████▋     | 1373/2914 [09:10<09:59,  2.57it/s]Norway:  48%|████▊     | 1407/2914 [09:20<09:01,  2.78it/s]Norway:  48%|████▊     | 1407/2914 [09:34<09:01,  2.78it/s]Norway:  49%|████▉     | 1436/2914 [09:34<09:34,  2.57it/s]Norway:  50%|█████     | 1458/2914 [09:44<09:54,  2.45it/s]Norway:  51%|█████▏    | 1496/2914 [09:54<08:22,  2.82it/s]Norway:  53%|█████▎    | 1534/2914 [10:10<08:43,  2.64it/s]Norway:  54%|█████▎    | 1561/2914 [10:20<08:29,  2.65it/s]Norway:  55%|█████▍    | 1593/2914 [10:30<07:52,  2.80it/s]Norway:  56%|█████▌    | 1625/2914 [10:41<07:31,  2.85it/s]Norway:  56%|█████▌    | 1625/2914 [10:54<07:31,  2.85it/s]Norway:  57%|█████▋    | 1650/2914 [10:54<08:12,  2.56it/s]Norway:  58%|█████▊    | 1680/2914 [11:04<07:41,  2.67it/s]Norway:  59%|█████▊    | 1710/2914 [11:15<07:27,  2.69it/s]Norway:  60%|█████▉    | 1742/2914 [11:25<06:54,  2.83it/s]Norway:  61%|██████    | 1774/2914 [11:35<06:31,  2.91it/s]Norway:  62%|██████▏   | 1806/2914 [11:46<06:18,  2.93it/s]Norway:  63%|██████▎   | 1838/2914 [11:56<05:58,  3.00it/s]Norway:  64%|██████▍   | 1870/2914 [12:10<06:18,  2.76it/s]Norway:  65%|██████▌   | 1898/2914 [12:21<06:22,  2.65it/s]Norway:  65%|██████▌   | 1898/2914 [12:34<06:22,  2.65it/s]Norway:  65%|██████▌   | 1908/2914 [12:34<08:13,  2.04it/s]Norway:  66%|██████▌   | 1916/2914 [12:45<09:51,  1.69it/s]Norway:  67%|██████▋   | 1944/2914 [12:55<08:07,  1.99it/s]Norway:  68%|██████▊   | 1973/2914 [13:06<07:08,  2.19it/s]Norway:  68%|██████▊   | 1973/2914 [13:24<07:08,  2.19it/s]Norway:  68%|██████▊   | 1994/2914 [13:25<08:51,  1.73it/s]Norway:  68%|██████▊   | 1994/2914 [13:44<08:51,  1.73it/s]Norway:  69%|██████▉   | 2005/2914 [13:44<11:44,  1.29it/s]Norway:  69%|██████▉   | 2011/2914 [13:54<13:24,  1.12it/s]Norway:  70%|██████▉   | 2026/2914 [14:05<12:14,  1.21it/s]Norway:  70%|███████   | 2042/2914 [14:15<11:16,  1.29it/s]Norway:  71%|███████   | 2062/2914 [14:25<09:38,  1.47it/s]Norway:  71%|███████▏  | 2082/2914 [14:38<09:14,  1.50it/s]Norway:  72%|███████▏  | 2103/2914 [14:48<08:13,  1.64it/s]Norway:  73%|███████▎  | 2124/2914 [15:01<07:57,  1.65it/s]Norway:  74%|███████▎  | 2142/2914 [15:11<07:36,  1.69it/s]Norway:  74%|███████▍  | 2166/2914 [15:21<06:37,  1.88it/s]Norway:  75%|███████▌  | 2190/2914 [15:32<06:01,  2.00it/s]Norway:  76%|███████▋  | 2229/2914 [15:42<04:29,  2.54it/s]Norway:  76%|███████▋  | 2229/2914 [15:54<04:29,  2.54it/s]Norway:  78%|███████▊  | 2263/2914 [15:54<04:08,  2.62it/s]Norway:  79%|███████▊  | 2291/2914 [16:08<04:17,  2.42it/s]Norway:  80%|███████▉  | 2328/2914 [16:18<03:32,  2.76it/s]Norway:  81%|████████  | 2365/2914 [16:32<03:24,  2.69it/s]Norway:  81%|████████  | 2365/2914 [16:44<03:24,  2.69it/s]Norway:  82%|████████▏ | 2390/2914 [16:44<03:27,  2.53it/s]Norway:  83%|████████▎ | 2424/2914 [16:54<02:57,  2.76it/s]Norway:  84%|████████▍ | 2458/2914 [17:06<02:46,  2.73it/s]Norway:  86%|████████▌ | 2492/2914 [17:17<02:25,  2.90it/s]Norway:  87%|████████▋ | 2526/2914 [17:29<02:17,  2.83it/s]Norway:  88%|████████▊ | 2553/2914 [17:40<02:11,  2.74it/s]Norway:  89%|████████▊ | 2582/2914 [17:50<02:00,  2.75it/s]Norway:  90%|████████▉ | 2610/2914 [18:02<01:54,  2.65it/s]Norway:  91%|█████████ | 2643/2914 [18:12<01:36,  2.80it/s]Norway:  91%|█████████ | 2643/2914 [18:24<01:36,  2.80it/s]Norway:  92%|█████████▏| 2669/2914 [18:24<01:32,  2.64it/s]Norway:  93%|█████████▎| 2701/2914 [18:34<01:16,  2.78it/s]Norway:  94%|█████████▍| 2733/2914 [18:47<01:07,  2.70it/s]Norway:  95%|█████████▍| 2764/2914 [18:57<00:53,  2.80it/s]Norway:  96%|█████████▌| 2795/2914 [19:07<00:42,  2.83it/s]Norway:  97%|█████████▋| 2832/2914 [19:18<00:26,  3.05it/s]Norway:  98%|█████████▊| 2869/2914 [19:28<00:14,  3.16it/s]Norway: 100%|█████████▉| 2904/2914 [19:41<00:03,  3.06it/s]Norway: 100%|██████████| 2914/2914 [19:45<00:00,  2.46it/s]
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.05s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=5.49s).
+Accumulating evaluation results...
+DONE (t=1.18s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.043
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.122
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.024
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.005
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.065
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.069
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.113
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.114
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.006
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.182
+DOMAIN_COMPLETE {"experiment": "04_latent_kway_unique", "domain": "Norway", "images": 2914, "voc_map50": 0.11961667558738542, "coco_map50": 0.12234414694074994, "coco_map50_95": 0.04340476163320709, "precision_macro": 0.0, "recall_macro": 0.0, "f1_macro": 0.0}
+new_Czech:   0%|          | 0/1072 [00:00<?, ?it/s]new_Czech:  16%|█▌        | 168/1072 [00:10<00:53, 16.76it/s]new_Czech:  16%|█▌        | 168/1072 [00:28<00:53, 16.76it/s]new_Czech:  26%|██▌       | 274/1072 [00:29<01:33,  8.52it/s]new_Czech:  39%|███▉      | 420/1072 [00:39<01:01, 10.65it/s]new_Czech:  55%|█████▌    | 590/1072 [00:49<00:37, 12.76it/s]new_Czech:  71%|███████   | 760/1072 [01:00<00:22, 13.79it/s]new_Czech:  87%|████████▋ | 933/1072 [01:10<00:09, 14.87it/s]new_Czech: 100%|██████████| 1072/1072 [01:20<00:00, 13.27it/s]
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.02s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=1.42s).
+Accumulating evaluation results...
+DONE (t=0.47s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.074
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.233
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.027
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.045
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.067
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.115
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.140
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.268
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.271
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.192
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.255
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.259
+DOMAIN_COMPLETE {"experiment": "04_latent_kway_unique", "domain": "new_Czech", "images": 1072, "voc_map50": 0.2362243700311057, "coco_map50": 0.2326679114267652, "coco_map50_95": 0.0736712865191801, "precision_macro": 0.0, "recall_macro": 0.0, "f1_macro": 0.0}
+new_China_Drone:   0%|          | 0/1919 [00:00<?, ?it/s]new_China_Drone:   5%|▍         | 94/1919 [00:10<03:14,  9.40it/s]new_China_Drone:  13%|█▎        | 251/1919 [00:20<02:07, 13.06it/s]new_China_Drone:  22%|██▏       | 422/1919 [00:30<01:40, 14.88it/s]new_China_Drone:  31%|███       | 593/1919 [00:40<01:24, 15.67it/s]new_China_Drone:  40%|███▉      | 762/1919 [00:54<01:21, 14.12it/s]new_China_Drone:  47%|████▋     | 902/1919 [01:04<01:12, 13.98it/s]new_China_Drone:  47%|████▋     | 902/1919 [01:15<01:12, 13.98it/s]new_China_Drone:  52%|█████▏    | 1006/1919 [01:15<01:13, 12.41it/s]new_China_Drone:  61%|██████    | 1168/1919 [01:25<00:55, 13.53it/s]new_China_Drone:  69%|██████▉   | 1330/1919 [01:37<00:43, 13.44it/s]new_China_Drone:  76%|███████▌  | 1463/1919 [01:50<00:36, 12.46it/s]new_China_Drone:  89%|████████▊ | 1702/1919 [02:00<00:13, 15.60it/s]new_China_Drone: 100%|██████████| 1919/1919 [02:10<00:00, 14.66it/s]
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.04s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=2.62s).
+Accumulating evaluation results...
+DONE (t=0.86s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.140
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.319
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.096
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.043
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.149
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.122
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.222
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.342
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.345
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.225
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.316
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.349
+DOMAIN_COMPLETE {"experiment": "04_latent_kway_unique", "domain": "new_China_Drone", "images": 1919, "voc_map50": 0.3217122815713616, "coco_map50": 0.3193822867580914, "coco_map50_95": 0.14008083584277445, "precision_macro": 0.0, "recall_macro": 0.0, "f1_macro": 0.0}
+new_China_MotorBike:   0%|          | 0/1934 [00:00<?, ?it/s]new_China_MotorBike:   7%|▋         | 133/1934 [00:10<02:16, 13.24it/s]new_China_MotorBike:  18%|█▊        | 352/1934 [00:20<01:26, 18.31it/s]new_China_MotorBike:  18%|█▊        | 352/1934 [00:39<01:26, 18.31it/s]new_China_MotorBike:  25%|██▌       | 488/1934 [00:39<02:08, 11.22it/s]new_China_MotorBike:  37%|███▋      | 723/1934 [00:49<01:20, 15.04it/s]new_China_MotorBike:  50%|████▉     | 958/1934 [01:01<00:59, 16.53it/s]new_China_MotorBike:  60%|█████▉    | 1151/1934 [01:12<00:45, 17.11it/s]new_China_MotorBike:  70%|███████   | 1357/1934 [01:22<00:31, 18.12it/s]new_China_MotorBike:  81%|████████  | 1563/1934 [01:34<00:21, 17.55it/s]new_China_MotorBike:  91%|█████████ | 1764/1934 [01:44<00:09, 18.26it/s]new_China_MotorBike: 100%|██████████| 1934/1934 [01:54<00:00, 16.87it/s]
+creating index...
+index created!
+Loading and preparing results...
+DONE (t=0.04s)
+creating index...
+index created!
+Running per image evaluation...
+Evaluate annotation type *bbox*
+DONE (t=2.86s).
+Accumulating evaluation results...
+DONE (t=0.78s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.148
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.355
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.103
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.044
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.068
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.185
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.188
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.316
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.320
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.154
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.284
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.367
+DOMAIN_COMPLETE {"experiment": "04_latent_kway_unique", "domain": "new_China_MotorBike", "images": 1934, "voc_map50": 0.3678141530499174, "coco_map50": 0.3553056843691465, "coco_map50_95": 0.14769034198836958, "precision_macro": 0.0, "recall_macro": 0.0, "f1_macro": 0.0}

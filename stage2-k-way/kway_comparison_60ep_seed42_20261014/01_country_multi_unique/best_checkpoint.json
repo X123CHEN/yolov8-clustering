@@ -1,0 +1,6 @@
+{
+  "epoch": 27,
+  "val_loss": 4.60391497432287,
+  "criterion": "minimum val_loss",
+  "validation_images": 1592
+}

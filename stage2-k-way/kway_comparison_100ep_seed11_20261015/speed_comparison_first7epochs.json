@@ -1,0 +1,70 @@
+{
+  "current": {
+    "01_country_multi_unique": {
+      "epochs": 7,
+      "step_s": 0.48594258846311694,
+      "train_epoch_s": 516.0710289478302,
+      "val_epoch_s": 31.71245561327253,
+      "save_and_ap_epoch_s": 157.5813264165606,
+      "wall_epoch_s": 705.3648109776633
+    },
+    "02_latent_multi_unique": {
+      "epochs": 7,
+      "step_s": 0.4117315851747268,
+      "train_epoch_s": 437.25894345555986,
+      "val_epoch_s": 24.92223514829363,
+      "save_and_ap_epoch_s": 204.6981132711683,
+      "wall_epoch_s": 666.8792918750217
+    },
+    "03_country_kway_unique": {
+      "epochs": 7,
+      "step_s": 0.4062074583834591,
+      "train_epoch_s": 431.39232080323353,
+      "val_epoch_s": 28.154450280325754,
+      "save_and_ap_epoch_s": 159.14919877052307,
+      "wall_epoch_s": 618.6959698540824
+    },
+    "04_latent_kway_unique": {
+      "epochs": 7,
+      "step_s": 0.36922461613872404,
+      "train_epoch_s": 392.11654233932495,
+      "val_epoch_s": 37.19273900985718,
+      "save_and_ap_epoch_s": 255.62736746243067,
+      "wall_epoch_s": 684.9366488116128
+    }
+  },
+  "previous": {
+    "01_country_multi_unique": {
+      "epochs": 7,
+      "step_s": 0.7705423507698127,
+      "train_epoch_s": 818.3159765175411,
+      "val_epoch_s": 34.18987618173872,
+      "save_and_ap_epoch_s": 211.3848444053105,
+      "wall_epoch_s": 1063.8906971045903
+    },
+    "02_latent_multi_unique": {
+      "epochs": 7,
+      "step_s": 0.531132916978267,
+      "train_epoch_s": 564.0631578309195,
+      "val_epoch_s": 44.3385077885219,
+      "save_and_ap_epoch_s": 191.75119069644384,
+      "wall_epoch_s": 800.1528563158853
+    },
+    "03_country_kway_unique": {
+      "epochs": 7,
+      "step_s": 0.3649743577309568,
+      "train_epoch_s": 387.60276791027616,
+      "val_epoch_s": 24.442514317376272,
+      "save_and_ap_epoch_s": 86.02866591726031,
+      "wall_epoch_s": 498.0739481449127
+    },
+    "04_latent_kway_unique": {
+      "epochs": 7,
+      "step_s": 0.34699131716378506,
+      "train_epoch_s": 368.50477882793973,
+      "val_epoch_s": 36.92436368124826,
+      "save_and_ap_epoch_s": 86.03700368744987,
+      "wall_epoch_s": 491.46614619663785
+    }
+  }
+}

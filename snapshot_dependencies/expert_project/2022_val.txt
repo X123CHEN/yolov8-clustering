@@ -1,0 +1,290 @@
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008511.jpg 412,638,596,719,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005700.jpg 585,555,720,667,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006462.jpg 369,569,414,587,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001636.jpg 393,451,438,636,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003150.jpg 417,467,448,650,0 323,433,454,471,3 211,449,308,485,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000981.jpg 444,520,523,641,3 347,508,430,657,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001854.jpg 163,528,225,554,3 416,539,478,565,3 354,471,466,513,3 131,532,455,678,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001736.jpg 118,455,426,529,3 56,621,157,720,0 1,451,480,599,2 1,603,338,720,2 387,412,416,445,3 267,408,296,441,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003034.jpg 15,498,710,654,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009725.jpg 47,457,552,618,2 264,435,296,458,3 378,412,406,433,3 344,384,372,409,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002880.jpg 4,569,228,708,0 190,452,451,596,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001250.jpg 371,364,419,392,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002968.jpg 67,526,314,658,3 463,502,564,575,0 329,453,462,587,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002250.jpg 412,559,503,617,3 397,627,450,656,3 543,592,647,718,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009446.jpg 182,579,300,713,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004469.jpg 400,458,428,655,0 10,517,386,715,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007247.jpg 250,487,325,591,2 366,501,452,565,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007637.jpg 105,621,228,696,3 115,504,404,549,1 1,506,95,559,3 170,440,400,499,3 322,514,399,545,3 408,453,441,481,3 1,634,101,711,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006789.jpg 274,539,683,715,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005491.jpg 438,496,551,691,0 328,476,354,636,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003292.jpg 314,571,358,602,3 249,541,690,706,2 487,576,566,706,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008198.jpg 44,472,314,707,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008039.jpg 51,506,594,697,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005493.jpg 536,509,715,584,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003778.jpg 213,516,248,621,0 489,492,720,593,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001165.jpg 369,417,616,600,2 420,450,463,604,0 373,437,416,591,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003742.jpg 455,692,508,719,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009556.jpg 2,530,678,710,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009317.jpg 239,552,481,720,2 484,581,665,720,2 100,563,212,640,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006330.jpg 246,450,596,551,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001085.jpg 371,294,582,715,0 52,387,603,688,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008400.jpg 256,516,478,638,2 498,492,632,642,0 350,595,400,638,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004801.jpg 430,601,720,717,3 93,578,416,720,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001141.jpg 234,627,287,687,3 318,597,422,720,3 218,499,255,523,3 52,573,687,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009421.jpg 195,459,720,688,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002973.jpg 366,530,720,633,2 477,565,545,600,3 564,614,610,633,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001295.jpg 276,576,314,601,3 311,576,375,715,0 369,472,413,561,0 330,514,368,539,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004602.jpg 115,527,199,663,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004297.jpg 288,468,350,644,0 69,491,720,650,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008997.jpg 142,507,697,718,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007152.jpg 144,508,283,649,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004003.jpg 323,521,399,551,3 518,542,622,608,3 219,578,352,674,3 402,473,537,515,3 330,609,389,689,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002629.jpg 458,592,552,717,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003215.jpg 431,478,492,630,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000743.jpg 152,679,216,720,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003353.jpg 300,449,400,498,3 4,513,720,695,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001388.jpg 568,465,711,553,3 266,345,528,432,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004512.jpg 87,618,409,720,3 320,518,418,616,3 458,534,533,614,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002063.jpg 152,585,404,716,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004193.jpg 349,490,493,650,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004132.jpg 314,452,397,497,3 235,496,493,633,2 311,537,418,624,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000702.jpg 327,504,519,682,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001574.jpg 196,562,669,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008933.jpg 434,533,711,719,3 1,526,332,720,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002729.jpg 124,429,637,677,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009011.jpg 114,552,189,595,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004798.jpg 446,476,720,660,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009436.jpg 572,522,667,572,3 80,557,224,631,3 582,576,720,681,3 408,585,506,628,3 240,510,311,557,3 391,454,489,497,3 1,560,30,602,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001902.jpg 478,561,518,583,3 248,623,299,682,3 2,622,67,682,3 145,554,210,614,3 321,471,426,603,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001534.jpg 314,413,611,628,3 1,359,307,636,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003776.jpg 305,400,445,542,3 1,410,302,715,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003939.jpg 489,495,720,674,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003882.jpg 489,404,642,535,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006808.jpg 334,412,404,448,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007801.jpg 3,518,153,580,3 49,446,188,502,3 220,408,276,439,3 399,404,455,435,3 282,492,314,517,3 13,456,341,711,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005519.jpg 501,538,597,596,0 599,593,695,651,0 433,537,504,601,3 488,604,559,668,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009469.jpg 406,434,445,607,0 4,509,218,644,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005954.jpg 317,457,563,635,2 590,491,713,588,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007704.jpg 1,526,600,672,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002965.jpg 158,508,714,711,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002352.jpg 457,586,546,716,0 210,525,661,711,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001786.jpg 414,534,569,670,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007134.jpg 387,520,527,673,2 480,492,522,611,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000895.jpg 398,540,494,664,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002784.jpg 432,564,547,640,3 167,475,244,516,3 268,523,295,547,3 337,579,364,603,3 279,554,355,571,3 2,505,156,597,0 40,493,409,670,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003651.jpg 466,558,586,627,2 571,628,691,697,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001077.jpg 478,634,556,686,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002105.jpg 270,560,449,696,2 518,506,720,711,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008643.jpg 491,449,633,618,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000409.jpg 284,538,666,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002364.jpg 7,464,341,708,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003546.jpg 136,456,720,599,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006126.jpg 389,477,509,648,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007123.jpg 369,408,422,441,3 2,561,63,597,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002010.jpg 74,522,627,714,2 188,530,341,675,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004434.jpg 266,559,360,616,3 452,484,494,525,3 370,476,580,599,2 206,465,233,485,3 337,490,364,510,3 444,422,507,474,3 336,416,401,445,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009873.jpg 356,517,440,683,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001266.jpg 358,528,491,586,3 381,465,437,506,3 459,509,595,534,1 494,444,548,498,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006813.jpg 289,499,383,655,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004348.jpg 272,270,720,707,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008128.jpg 545,473,629,527,0 632,528,716,582,0 173,582,275,670,0 277,493,379,581,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008977.jpg 230,596,365,714,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005535.jpg 73,503,720,671,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004441.jpg 219,503,359,669,3 8,445,325,718,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006676.jpg 282,496,379,590,0 623,537,720,631,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001493.jpg 301,603,415,631,3 310,649,411,679,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004727.jpg 127,552,470,718,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007602.jpg 346,440,400,622,0 436,416,477,480,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007231.jpg 272,567,664,695,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007285.jpg 34,545,215,707,0 348,398,463,481,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000932.jpg 561,511,720,698,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009834.jpg 387,447,430,598,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008007.jpg 390,526,548,601,2 381,615,458,687,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000667.jpg 251,499,529,680,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004908.jpg 447,449,515,486,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002881.jpg 1,420,177,485,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004238.jpg 387,511,413,614,0 571,608,713,716,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003761.jpg 426,499,599,557,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000557.jpg 266,514,394,549,3 344,470,531,510,3 429,526,481,576,3 2,518,266,708,3 384,485,648,675,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008141.jpg 442,619,470,720,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004838.jpg 309,546,474,697,2 1,556,234,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008998.jpg 583,539,712,685,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000788.jpg 4,529,258,715,2 330,547,606,717,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001278.jpg 441,526,509,629,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009723.jpg 407,562,445,587,3 390,458,500,581,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004060.jpg 1,520,576,706,2 345,516,415,567,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005086.jpg 380,497,429,698,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009397.jpg 237,543,465,596,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009245.jpg 217,453,438,574,3 11,512,195,711,2 460,382,486,518,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003597.jpg 230,467,509,563,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002705.jpg 373,559,414,672,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009151.jpg 385,507,437,527,3 176,511,273,654,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003944.jpg 496,613,579,718,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001228.jpg 361,566,551,716,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002341.jpg 476,263,546,284,3 327,415,376,445,3 234,382,517,706,2 460,231,497,249,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006933.jpg 238,600,301,663,3 289,538,319,563,3 313,609,365,654,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000086.jpg 471,222,637,705,0 53,275,372,685,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006549.jpg 513,553,646,602,3 307,518,398,567,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006368.jpg 203,498,504,565,2 1,506,208,704,3 304,475,347,506,3 333,507,378,556,3 399,409,444,478,3 273,390,316,421,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006974.jpg 477,471,519,506,3 515,525,557,560,3 601,544,643,579,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003567.jpg 311,506,413,560,3 141,576,325,632,3 1,618,78,707,3 190,474,270,529,3 430,533,477,560,3 440,499,487,526,3 461,445,528,573,2 437,572,528,625,2 609,565,634,620,0 577,565,602,620,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006447.jpg 471,398,605,476,3 78,381,528,665,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001254.jpg 481,509,596,709,0 484,461,561,504,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004077.jpg 580,649,692,717,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003370.jpg 191,535,633,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005415.jpg 281,504,630,708,2 72,546,277,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004080.jpg 328,479,584,607,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001279.jpg 132,601,352,686,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001982.jpg 106,499,526,675,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003239.jpg 162,620,309,670,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009675.jpg 655,608,720,677,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002832.jpg 556,407,718,560,3 379,362,544,407,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009448.jpg 16,484,217,547,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002175.jpg 8,418,284,662,0 205,401,405,654,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009807.jpg 439,509,710,670,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000493.jpg 138,500,714,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005557.jpg 30,511,529,706,2 52,545,213,641,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004268.jpg 14,431,588,670,2 370,440,431,619,0 324,489,370,620,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005399.jpg 173,518,720,715,2 541,610,623,660,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001094.jpg 262,530,656,709,2 423,634,719,673,1
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009581.jpg 183,554,465,720,2 291,561,361,601,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001103.jpg 456,570,496,669,0 512,608,679,720,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006945.jpg 266,451,720,622,3 122,518,235,594,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009250.jpg 420,492,464,536,3 451,567,493,607,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006943.jpg 429,466,692,692,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002087.jpg 38,522,100,551,3 132,480,194,509,3 201,556,276,634,3 21,486,266,628,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007581.jpg 339,537,595,667,2 574,593,641,636,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001262.jpg 183,317,270,386,3 8,310,388,408,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004779.jpg 117,487,174,515,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001588.jpg 34,618,223,714,3 265,447,327,487,3 67,520,168,576,3 3,587,66,630,3 369,429,482,463,3 178,389,438,551,0 293,383,394,439,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003817.jpg 215,531,476,633,3 223,469,518,529,3 356,441,490,468,3 1,555,223,652,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005348.jpg 178,506,230,538,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008813.jpg 487,507,587,592,0 564,592,636,678,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002419.jpg 414,459,464,710,0 507,615,720,716,3 474,288,564,365,3 630,489,720,566,3 449,418,492,449,3 453,384,496,415,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000581.jpg 460,515,496,533,3 430,490,454,513,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002685.jpg 427,559,500,694,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009215.jpg 410,564,449,643,0 494,559,566,645,0 443,456,487,516,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005916.jpg 18,529,659,702,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005284.jpg 288,521,417,563,3 580,568,720,660,3 16,652,68,693,0 79,528,201,629,0 84,650,130,705,0 221,554,545,681,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003086.jpg 250,506,329,588,0 239,469,585,538,1
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001244.jpg 319,479,641,695,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002247.jpg 336,552,376,569,3 232,450,527,638,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005016.jpg 616,578,691,614,3 616,618,720,720,3 167,545,217,571,3 276,559,352,592,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005983.jpg 176,545,477,667,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006633.jpg 202,480,710,708,2 251,527,382,651,3 54,582,231,717,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008528.jpg 127,480,246,630,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008711.jpg 129,495,368,655,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009765.jpg 138,580,250,633,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004898.jpg 467,561,583,709,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009445.jpg 405,582,507,676,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007323.jpg 496,559,575,637,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002567.jpg 1,485,466,665,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004480.jpg 20,504,604,682,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000680.jpg 556,569,606,670,0 296,562,525,665,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002371.jpg 263,418,377,483,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002191.jpg 266,550,296,598,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003320.jpg 174,488,676,687,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006338.jpg 605,511,720,604,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002187.jpg 482,589,700,708,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001716.jpg 152,567,320,717,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008523.jpg 39,492,274,597,3 200,563,584,715,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008654.jpg 237,515,542,714,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001251.jpg 293,632,407,671,3 327,681,441,720,3 161,692,269,718,3 171,602,290,633,3 443,640,574,686,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008479.jpg 210,408,376,457,3 1,461,209,646,0 444,429,550,499,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006094.jpg 314,488,431,632,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007478.jpg 296,532,573,711,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001088.jpg 303,462,395,519,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001659.jpg 105,508,720,700,2 536,522,717,698,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008802.jpg 416,480,496,544,2 187,525,314,645,3 443,443,513,546,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007327.jpg 192,544,288,610,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009268.jpg 522,451,712,702,3 249,390,406,451,3 231,282,330,310,3 10,438,250,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001366.jpg 467,537,674,702,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000760.jpg 381,595,431,720,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009240.jpg 358,548,569,662,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004758.jpg 469,438,509,518,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006832.jpg 61,537,352,691,2 421,495,560,640,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002772.jpg 403,581,459,613,3 279,504,364,612,3 54,609,125,706,0 352,385,423,482,0 318,389,374,421,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003831.jpg 74,527,671,695,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007718.jpg 179,505,720,702,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005933.jpg 425,473,462,669,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002839.jpg 9,564,639,686,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002497.jpg 310,594,412,718,3 100,375,694,697,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007508.jpg 129,555,562,715,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008548.jpg 4,511,361,714,3 327,481,411,520,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002576.jpg 29,506,294,709,0 222,516,398,689,2 437,511,568,687,2 442,512,511,638,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002889.jpg 525,487,582,525,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003247.jpg 279,477,350,683,0 100,547,720,708,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005361.jpg 108,281,510,709,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004040.jpg 74,508,628,676,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003443.jpg 141,507,720,699,2 343,550,460,680,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007101.jpg 372,519,427,552,3 1,398,427,569,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005661.jpg 439,583,519,617,3 383,523,463,557,3 291,476,394,517,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009832.jpg 347,525,407,583,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002946.jpg 75,540,678,700,2 116,470,484,545,2 437,561,470,599,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005376.jpg 396,564,431,675,0 269,524,432,659,2 524,585,666,699,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009536.jpg 87,485,586,625,2 258,432,357,468,3 381,415,426,434,3 380,441,411,460,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006362.jpg 1,531,484,702,2 52,530,129,560,3 116,499,193,529,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004992.jpg 30,544,273,720,2 384,545,426,619,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006241.jpg 589,591,713,664,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001453.jpg 264,618,307,663,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005439.jpg 109,446,293,530,3 522,443,664,518,3 389,313,466,359,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002875.jpg 1,307,269,594,3 371,408,569,534,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004612.jpg 40,355,669,694,2 270,292,400,347,3 538,302,668,357,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004430.jpg 219,618,502,720,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002658.jpg 385,502,527,535,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001230.jpg 371,590,434,638,3 284,672,347,720,3 377,656,506,720,3 255,632,327,670,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006062.jpg 37,526,615,709,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008458.jpg 349,440,434,506,3 289,318,374,384,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009262.jpg 161,472,454,669,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005810.jpg 285,542,324,564,3 199,496,652,704,2 442,546,554,706,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004091.jpg 298,452,458,509,3 196,491,297,531,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002098.jpg 202,641,357,720,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007782.jpg 2,499,236,666,3 352,404,429,600,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_001115.jpg 299,457,371,662,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004586.jpg 134,577,209,621,3 23,630,140,720,3 254,385,443,442,3 1,510,633,631,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005389.jpg 313,222,430,266,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006692.jpg 3,449,613,709,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003368.jpg 23,479,391,589,3 554,552,654,679,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007281.jpg 119,508,291,709,0 536,544,636,618,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006004.jpg 339,384,464,439,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004690.jpg 83,538,548,700,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007456.jpg 311,516,694,661,2 347,441,566,517,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005636.jpg 294,445,664,576,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004196.jpg 3,547,283,719,3 290,526,529,669,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003156.jpg 503,533,529,576,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008746.jpg 425,463,634,605,2 316,511,339,532,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007246.jpg 41,365,291,446,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009133.jpg 369,509,496,715,0 308,527,492,720,2 443,528,569,629,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002180.jpg 159,560,446,670,1 31,617,157,720,1
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002558.jpg 362,503,720,674,2 1,526,367,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000627.jpg 331,458,438,500,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008159.jpg 9,519,584,694,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009212.jpg 203,408,545,564,2 169,400,350,531,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003739.jpg 2,447,662,639,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005302.jpg 343,550,654,705,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006290.jpg 151,571,340,629,3 213,495,324,529,3 187,454,291,481,3 112,433,181,465,3 51,493,96,515,3 401,505,449,594,3 458,448,530,506,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006773.jpg 451,538,530,683,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009742.jpg 313,532,466,691,2 479,588,518,615,3 78,607,117,634,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003709.jpg 363,536,668,695,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004632.jpg 481,591,501,616,3 461,562,481,587,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008715.jpg 466,508,697,695,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006329.jpg 422,505,673,617,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007299.jpg 271,458,642,599,2 227,444,324,490,3 437,432,480,472,3 537,448,580,488,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007293.jpg 92,540,177,572,3 1,538,513,714,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_004717.jpg 390,585,477,640,3 492,426,656,499,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007985.jpg 168,455,530,646,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000542.jpg 290,594,330,692,0 337,482,363,559,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008090.jpg 405,452,669,549,2 456,550,720,647,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000612.jpg 406,626,458,659,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007791.jpg 298,447,481,497,3 238,519,365,568,3 416,398,490,439,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000352.jpg 59,408,362,647,2 367,401,652,533,2 44,593,92,619,3 341,365,389,391,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007796.jpg 134,629,242,716,0
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_006973.jpg 4,514,159,576,3 320,448,477,492,3 486,499,518,528,3 548,570,580,599,3 593,620,720,705,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_009004.jpg 238,592,528,712,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_007368.jpg 209,497,647,654,2 229,518,307,565,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_002114.jpg 523,351,604,404,0 666,448,720,501,3 259,437,708,701,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_000544.jpg 162,448,536,716,2 160,407,241,445,3 264,394,361,435,3 390,385,433,429,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_003542.jpg 464,617,540,664,3 555,676,607,706,3 293,654,386,702,3
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_008680.jpg 225,556,718,720,2
+/disk/home/wurx/yolov8-pytorch-master/VOCdevkit/RDD2022/JPEGImages/India_005876.jpg 205,549,294,641,0

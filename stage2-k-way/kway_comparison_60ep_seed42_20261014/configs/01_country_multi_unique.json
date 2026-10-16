@@ -1,0 +1,18 @@
+{
+  "experiment": "01_country_multi_unique",
+  "title": "国家域多专家多判别器",
+  "epochs": 60,
+  "seed": 42,
+  "batch_size": 12,
+  "num_workers": 8,
+  "gpu": 0,
+  "data_protocol": "unique",
+  "alpha_domain": 0.7,
+  "architecture": "expert_multi",
+  "domain_count": 3,
+  "feature": "backbone_feat3",
+  "fab_reference": "utils.comparison_training.domain_triplet",
+  "grl": false,
+  "lr_horizon_epochs": 60,
+  "model_initialization": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/model_data/yolov8_s.pth"
+}

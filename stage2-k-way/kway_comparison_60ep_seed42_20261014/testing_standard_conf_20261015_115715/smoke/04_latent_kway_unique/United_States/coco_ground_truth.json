@@ -1,0 +1,73 @@
+{
+  "info": {
+    "description": "RDD2022 fixed test split"
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "United_States_000945.jpg",
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "D00"
+    },
+    {
+      "id": 2,
+      "name": "D10"
+    },
+    {
+      "id": 3,
+      "name": "D20"
+    },
+    {
+      "id": 4,
+      "name": "D40"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        416.0,
+        556.0,
+        92.0,
+        84.0
+      ],
+      "area": 7728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        356.0,
+        563.0,
+        28.0,
+        66.0
+      ],
+      "area": 1848.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        207.0,
+        492.0,
+        61.0,
+        148.0
+      ],
+      "area": 9028.0,
+      "iscrowd": 0
+    }
+  ]
+}

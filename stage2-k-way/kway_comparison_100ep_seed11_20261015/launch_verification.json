@@ -1,0 +1,28 @@
+{
+  "01_country_multi_unique": {
+    "common_config_differences": {
+      "cuda_visible_devices": [
+        "4",
+        "0"
+      ],
+      "experiment": [
+        "country_unique",
+        "01_country_multi_unique"
+      ]
+    },
+    "first_stage_training_recipe_matches": true
+  },
+  "02_latent_multi_unique": {
+    "common_config_differences": {
+      "cuda_visible_devices": [
+        "5",
+        "1"
+      ],
+      "experiment": [
+        "latent_unique",
+        "02_latent_multi_unique"
+      ]
+    },
+    "first_stage_training_recipe_matches": true
+  }
+}

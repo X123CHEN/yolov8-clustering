@@ -1,0 +1,52 @@
+{
+  "country": {
+    "model": {
+      "tensors": 355,
+      "different_tensors": 0,
+      "max_abs_difference": 0
+    },
+    "ema": {
+      "tensors": 355,
+      "different_tensors": 0,
+      "max_abs_difference": 0
+    },
+    "discriminators": {
+      "tensors": 78,
+      "different_tensors": 0,
+      "max_abs_difference": 0
+    },
+    "loss_differences": {
+      "train_loss": 0.0,
+      "val_loss": 0.0,
+      "loss_yolo": 0.0,
+      "loss_triplet": 0.0,
+      "loss_critic": 0.0,
+      "loss_generator": 0.0
+    }
+  },
+  "latent": {
+    "model": {
+      "tensors": 355,
+      "different_tensors": 0,
+      "max_abs_difference": 0
+    },
+    "ema": {
+      "tensors": 355,
+      "different_tensors": 0,
+      "max_abs_difference": 0
+    },
+    "discriminators": {
+      "tensors": 52,
+      "different_tensors": 0,
+      "max_abs_difference": 0
+    },
+    "loss_differences": {
+      "train_loss": 0.0,
+      "val_loss": 0.0,
+      "loss_yolo": 0.0,
+      "loss_triplet": 0.0,
+      "loss_critic": 0.0,
+      "loss_generator": 0.0
+    }
+  }
+}

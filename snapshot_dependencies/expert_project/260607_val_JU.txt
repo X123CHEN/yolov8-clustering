@@ -1,0 +1,1117 @@
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010287.jpg 188,551,232,583,3 238,555,272,578,3 169,432,224,455,3 297,401,328,416,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000332.jpg 354,417,400,439,3 208,557,266,592,3 317,463,447,600,2 415,432,438,445,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000602.jpg 216,333,575,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008190.jpg 449,500,600,600,2 157,503,304,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011699.jpg 306,328,555,556,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007527.jpg 183,386,453,559,2 2,503,89,535,0 483,470,571,488,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006164.jpg 347,432,544,591,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001264.jpg 32,362,239,600,2 242,464,589,579,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010552.jpg 1,390,387,600,2 131,377,189,411,3 202,363,233,377,3 197,380,221,394,3 113,420,141,438,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000379.jpg 297,358,592,544,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008388.jpg 483,378,576,544,0 232,335,256,414,0 434,438,456,496,0 465,482,482,540,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011375.jpg 132,254,300,519,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003911.jpg 315,405,373,441,3 200,444,600,600,2 157,333,436,444,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003586.jpg 338,377,525,401,1 308,334,352,347,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003946.jpg 56,366,152,600,2 174,432,431,460,1 412,543,564,574,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000733.jpg 40,377,460,454,1 418,366,547,414,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008480.jpg 52,408,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000898.jpg 376,401,600,586,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000964.jpg 284,399,600,556,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000219.jpg 1,363,206,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012425.jpg 348,111,596,508,2 4,231,244,476,2 228,232,402,271,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006132.jpg 90,461,182,483,1 385,500,452,516,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011425.jpg 14,395,525,499,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005737.jpg 137,559,166,576,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007051.jpg 7,344,280,391,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009352.jpg 14,530,438,600,2 436,530,600,562,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011350.jpg 214,402,597,600,2 3,487,125,508,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011549.jpg 252,379,357,588,2 32,566,254,596,1 56,399,289,425,1 221,428,292,448,1 356,392,518,421,1 447,451,599,475,1 367,459,477,480,1 351,494,502,510,1 257,317,338,397,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004857.jpg 269,419,591,584,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001363.jpg 516,554,599,600,2 159,569,299,596,1 474,456,583,485,1 227,409,456,468,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004216.jpg 422,470,600,549,2 151,434,380,595,2 81,510,203,532,1 133,435,210,452,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003742.jpg 72,285,289,495,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010288.jpg 244,477,349,534,3 131,323,581,600,2 18,508,123,526,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001038.jpg 291,469,359,586,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007012.jpg 308,510,592,550,1 381,405,496,428,1 200,447,279,461,1 303,355,327,382,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007222.jpg 326,199,543,488,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007836.jpg 359,505,541,528,1 192,497,308,517,1 216,557,344,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001104.jpg 109,389,301,416,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009779.jpg 312,448,351,516,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008642.jpg 225,432,314,513,0 415,442,597,527,1 250,380,389,440,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012381.jpg 345,543,386,576,3 389,565,569,600,1 516,472,581,491,1 478,400,511,466,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012219.jpg 91,436,215,531,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004230.jpg 176,374,438,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009542.jpg 273,331,308,392,0 157,282,236,390,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010974.jpg 310,365,592,583,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001710.jpg 206,511,248,540,3 182,440,264,485,3 66,412,271,600,2 366,410,493,585,0 174,311,365,407,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008835.jpg 242,426,533,594,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000444.jpg 52,510,78,570,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005906.jpg 478,448,544,491,3 435,477,491,522,3 415,404,478,435,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010545.jpg 10,554,200,599,1 216,513,263,595,0 361,342,463,378,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009017.jpg 9,458,114,483,1 146,431,174,478,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008667.jpg 189,488,600,598,2 213,391,241,503,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000164.jpg 354,433,394,487,2 410,454,427,476,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002765.jpg 26,424,187,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002535.jpg 46,298,207,485,2 188,352,329,387,1 436,469,588,499,1 335,390,451,465,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002129.jpg 240,501,332,522,1 454,523,547,599,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_013090.jpg 231,290,579,598,2 13,401,160,595,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008327.jpg 264,435,355,581,2 470,533,567,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011973.jpg 480,513,587,543,3 280,508,351,565,3 291,577,315,600,3 267,457,297,482,3 219,460,246,472,3 237,416,598,600,2 163,382,190,429,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010222.jpg 303,497,332,522,3 444,422,522,455,3 583,551,600,568,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011419.jpg 227,379,600,600,2 539,475,590,509,3 468,448,543,481,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008424.jpg 116,223,600,396,0 343,412,384,513,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009423.jpg 305,236,539,264,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012006.jpg 180,440,370,595,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007549.jpg 254,544,298,598,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007457.jpg 163,401,568,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009620.jpg 254,369,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006385.jpg 1,413,291,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006370.jpg 392,347,496,455,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007027.jpg 9,356,243,590,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006756.jpg 255,285,278,329,0 264,433,301,522,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007433.jpg 83,403,292,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002832.jpg 384,359,526,421,2 451,555,596,582,1 378,452,441,470,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010010.jpg 220,334,322,461,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002273.jpg 514,483,600,577,2 110,315,166,421,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000515.jpg 243,570,331,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012980.jpg 255,399,509,424,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004931.jpg 475,468,600,495,1 402,475,485,509,1 190,423,363,464,1 1,445,196,470,1 120,462,200,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003864.jpg 203,451,460,479,1 335,525,384,600,0 226,486,242,554,0 92,469,171,600,0 184,418,238,466,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008682.jpg 89,553,130,600,0 174,373,454,435,1 18,497,108,522,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001017.jpg 348,326,580,561,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008766.jpg 280,466,331,503,3 11,450,283,507,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002544.jpg 73,419,513,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008107.jpg 255,417,500,569,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006481.jpg 48,103,260,422,2 250,233,569,268,1 501,286,600,312,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004863.jpg 202,349,584,592,2 12,515,205,552,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001159.jpg 83,424,209,484,2 141,535,536,600,2 282,498,467,536,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000368.jpg 207,385,600,579,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006552.jpg 65,442,129,483,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009665.jpg 130,427,434,477,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012314.jpg 65,476,572,511,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000282.jpg 46,386,154,576,2 167,485,323,497,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005600.jpg 163,364,304,600,2 320,400,599,600,2 31,447,195,500,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008078.jpg 193,470,263,483,1 204,434,376,459,1 349,399,468,424,1 390,438,462,450,1 454,401,563,411,1 507,463,573,467,1 545,436,598,495,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006649.jpg 2,367,600,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008978.jpg 194,396,270,530,0 276,447,304,498,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010472.jpg 238,510,317,550,3 304,527,437,570,3 503,498,578,597,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011219.jpg 397,462,510,509,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012379.jpg 288,450,598,600,2 385,391,600,445,2 1,378,179,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001782.jpg 13,331,425,510,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009474.jpg 412,119,539,251,2 37,4,171,196,2 427,280,540,308,1 415,382,540,420,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000912.jpg 175,427,276,525,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_013089.jpg 356,407,528,437,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003263.jpg 228,326,260,381,0 359,339,403,382,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004811.jpg 535,364,594,600,0 330,362,476,600,2 1,476,185,568,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011653.jpg 237,571,285,600,3 310,412,331,429,3 239,389,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006155.jpg 371,319,599,428,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011400.jpg 162,350,206,401,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008814.jpg 338,387,417,535,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003803.jpg 298,442,372,475,3 225,341,567,470,2 398,439,472,470,3 501,460,600,594,2 425,541,453,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009132.jpg 311,284,405,303,1 125,372,448,419,1 490,441,552,455,1 488,419,535,435,1 511,351,599,377,1 438,270,555,289,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008707.jpg 230,472,404,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010438.jpg 315,402,458,426,1 452,482,519,504,1 558,554,600,571,1 147,402,305,421,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006269.jpg 385,429,580,568,2 34,514,363,591,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006364.jpg 1,418,266,590,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005136.jpg 166,421,245,579,2 264,417,488,450,1 334,371,445,389,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012692.jpg 129,315,547,584,2 154,533,592,575,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007939.jpg 148,519,190,567,0 225,467,274,530,0 460,526,549,586,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007299.jpg 108,403,149,473,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012820.jpg 541,401,600,458,0 138,480,249,531,2 408,380,553,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000442.jpg 423,52,592,323,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009666.jpg 355,521,459,599,2 177,416,254,466,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008663.jpg 318,469,448,600,2 138,504,291,528,1 228,525,339,539,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009996.jpg 337,132,598,478,2 150,370,193,454,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009195.jpg 229,370,289,391,3 82,391,365,598,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011555.jpg 10,370,597,599,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010494.jpg 196,386,256,532,0 137,521,198,598,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009850.jpg 50,469,278,594,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005651.jpg 415,354,462,404,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009347.jpg 231,453,264,565,0 39,362,90,409,0 315,492,373,565,0 221,351,236,385,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005454.jpg 318,418,571,597,2 169,457,214,490,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011726.jpg 297,249,344,372,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009094.jpg 82,463,123,482,3 462,481,600,592,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004361.jpg 464,405,518,433,3 273,345,600,598,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009257.jpg 269,374,365,397,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004014.jpg 485,490,582,595,0 415,515,528,545,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002295.jpg 182,553,238,600,3 146,566,184,598,3 1,376,264,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009748.jpg 17,532,72,595,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001878.jpg 505,526,544,550,3 68,458,263,600,2 245,366,367,461,2 384,483,491,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004290.jpg 475,409,586,431,1 540,486,600,500,1 410,349,493,365,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008878.jpg 1,368,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001941.jpg 327,327,600,600,2 3,397,107,412,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001825.jpg 1,456,600,600,2 221,337,424,444,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008131.jpg 305,343,436,436,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007618.jpg 138,126,223,427,0 232,163,343,188,1 130,94,258,438,0 381,116,472,130,1 488,217,600,249,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002004.jpg 13,87,259,360,2 345,247,564,276,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003177.jpg 428,276,454,338,0 482,369,589,569,0 509,402,592,563,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010486.jpg 173,390,357,598,2 42,519,181,539,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012575.jpg 1,531,167,600,2 119,367,200,456,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007954.jpg 293,283,584,524,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011926.jpg 1,349,497,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009521.jpg 302,464,333,477,3 307,518,338,551,3 351,515,397,537,3 167,433,593,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008019.jpg 349,431,405,600,0 361,362,403,488,0 138,524,278,554,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003306.jpg 401,498,472,579,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004267.jpg 265,512,304,589,0 423,529,570,591,0 93,520,162,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002806.jpg 475,392,574,446,2 320,352,436,538,2 79,437,166,497,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005408.jpg 160,357,362,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005034.jpg 366,443,402,465,3 2,397,80,529,0 181,385,231,432,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009278.jpg 139,377,286,456,2 139,442,294,468,1 190,378,281,401,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006174.jpg 219,509,307,544,3 155,483,192,506,3 86,418,327,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010481.jpg 50,366,231,581,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008625.jpg 9,554,169,580,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002073.jpg 152,335,214,358,0 115,386,195,413,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004129.jpg 319,356,477,474,2 395,418,461,449,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011351.jpg 118,570,361,594,1 156,376,185,455,0 200,317,225,385,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005304.jpg 498,551,577,599,3 442,455,522,534,3 578,462,600,479,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010449.jpg 368,472,455,594,0 7,400,101,492,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000681.jpg 536,530,590,596,0 427,408,456,443,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002234.jpg 338,78,600,455,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002888.jpg 244,432,600,595,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010964.jpg 449,438,600,531,2 40,376,375,599,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000099.jpg 256,368,330,383,1 65,398,150,409,1 267,402,288,454,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002878.jpg 153,360,360,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005728.jpg 122,329,600,576,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007393.jpg 99,380,551,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003164.jpg 295,60,327,106,0 85,141,437,179,1 427,330,545,361,1 399,441,567,530,1 33,133,237,240,2 3,198,125,404,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007786.jpg 121,410,297,573,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012924.jpg 346,519,490,588,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003363.jpg 108,361,559,588,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006314.jpg 415,435,493,453,1 331,362,360,421,0 478,424,541,462,0 359,336,399,369,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007271.jpg 385,127,594,315,2 179,59,252,105,2 318,73,421,203,0 263,194,349,215,1 318,73,421,203,2 173,168,240,230,2 241,296,385,330,1 163,330,231,468,0 49,171,151,274,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009222.jpg 308,392,511,412,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007076.jpg 219,358,251,386,0 189,545,361,578,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009856.jpg 158,529,350,559,1 87,559,163,578,1 101,538,179,549,1 305,448,392,592,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001867.jpg 25,506,106,549,3 1,429,481,600,2 354,459,393,478,3 268,439,299,451,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000355.jpg 310,449,600,600,2 180,563,211,591,3 1,443,302,548,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012512.jpg 275,943,363,1059,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004758.jpg 116,367,196,395,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003416.jpg 203,577,300,600,1 431,538,521,554,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006965.jpg 159,197,212,415,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006931.jpg 156,315,289,406,2 7,445,82,465,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001078.jpg 342,192,593,540,2 170,194,230,245,2 33,400,170,435,1 390,130,552,210,2 238,113,332,160,2 325,170,357,181,1 448,217,518,236,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007663.jpg 407,324,565,358,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001269.jpg 42,397,600,600,2 398,448,569,477,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007093.jpg 211,279,484,595,2 480,274,600,307,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000200.jpg 235,360,359,556,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_013058.jpg 345,108,600,478,2 10,127,197,419,2 203,192,368,218,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007432.jpg 388,449,475,485,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009575.jpg 88,189,340,418,2 323,188,600,221,1 340,157,448,176,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004436.jpg 328,388,491,590,2 65,492,110,579,0 120,366,231,399,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005451.jpg 468,477,531,512,3 487,445,524,472,3 93,377,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001640.jpg 193,120,565,425,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012630.jpg 421,424,555,573,0 75,403,186,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000664.jpg 86,354,416,598,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008763.jpg 329,466,375,537,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007194.jpg 277,398,391,600,2 19,491,90,504,1 96,369,182,387,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006798.jpg 4,441,90,458,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011169.jpg 429,400,485,430,3 398,378,446,399,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009885.jpg 58,351,599,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007544.jpg 150,273,333,600,2 367,421,600,453,1 257,326,437,350,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000841.jpg 359,439,519,465,1 10,575,143,594,1 72,403,177,424,1 138,351,218,474,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007584.jpg 1,366,104,600,2 101,329,449,523,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007528.jpg 510,93,598,163,0 387,110,444,248,0 11,219,452,284,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010534.jpg 249,374,403,597,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008051.jpg 461,478,597,594,2 181,562,360,595,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000887.jpg 191,297,317,383,2 1,465,289,600,2 340,314,427,328,1 59,369,125,421,0 161,294,190,328,0 134,334,145,347,0 172,323,243,336,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002897.jpg 1,367,370,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001744.jpg 321,440,382,499,3 496,479,549,507,3 404,453,523,502,3 173,373,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003999.jpg 46,403,501,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002390.jpg 78,389,501,599,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005223.jpg 405,281,600,486,2 273,389,510,541,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008782.jpg 70,441,209,497,2 147,357,205,400,2 217,329,535,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002256.jpg 217,479,298,600,2 61,473,132,487,1 119,427,157,444,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009013.jpg 551,383,600,443,0 210,355,321,392,1 347,370,544,400,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008057.jpg 29,96,278,454,2 320,225,371,470,0 318,146,387,172,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006700.jpg 17,565,53,600,3 138,440,246,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012941.jpg 23,398,568,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008662.jpg 287,364,598,534,2 268,348,427,424,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010769.jpg 416,431,526,600,2 521,488,600,575,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008282.jpg 5,483,405,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012657.jpg 384,442,409,499,0 417,508,446,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003350.jpg 98,495,389,565,2 116,415,150,437,3 372,454,530,478,1 338,405,490,430,1 332,381,448,395,1 184,413,321,428,1 226,361,325,378,1 324,334,401,346,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008169.jpg 349,385,588,599,2 18,368,212,581,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009689.jpg 254,316,442,384,2 1,417,600,586,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008730.jpg 308,347,458,450,0 448,406,538,431,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008753.jpg 22,494,107,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008333.jpg 1,353,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000294.jpg 21,350,538,585,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012040.jpg 163,379,568,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004739.jpg 55,330,172,430,2 491,439,598,472,1 303,372,373,406,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000696.jpg 287,438,331,563,0 248,290,275,367,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008230.jpg 266,224,394,248,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011833.jpg 488,161,587,257,0 330,259,497,294,1 454,270,600,311,1 45,221,112,241,1 444,172,507,197,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005102.jpg 245,353,264,384,3 133,437,270,568,2 340,437,567,567,2 206,507,244,537,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003275.jpg 403,175,581,477,0 14,307,302,355,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011664.jpg 301,372,376,432,2 417,459,564,600,2 30,406,298,568,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011327.jpg 173,488,212,593,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006423.jpg 180,363,249,465,2 369,375,600,595,2 282,450,300,494,0 307,373,321,403,0 545,558,600,599,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006609.jpg 97,505,152,596,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010722.jpg 212,364,575,594,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003140.jpg 62,404,207,598,2 278,452,385,469,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012029.jpg 443,389,527,407,1 541,387,600,400,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005309.jpg 330,185,565,444,0 256,412,411,583,0 260,271,326,423,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005413.jpg 91,462,273,587,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012063.jpg 72,294,219,584,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003605.jpg 100,424,164,444,3 104,442,156,467,3 169,372,188,386,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009213.jpg 2,406,161,434,1 141,310,166,415,0 130,455,432,481,1 359,430,425,500,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005724.jpg 260,326,600,597,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009499.jpg 51,384,244,590,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002435.jpg 7,357,600,458,2 73,442,256,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004553.jpg 192,372,504,597,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006863.jpg 178,501,281,515,1 367,493,423,528,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002001.jpg 131,474,224,528,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012420.jpg 14,387,182,465,2 172,280,362,313,1 244,194,447,216,1 248,161,353,184,1 436,130,595,153,1 362,230,600,254,1 555,246,600,263,1 487,302,600,399,0 267,374,600,468,0 319,126,432,146,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010507.jpg 20,243,137,296,3 225,22,540,440,2 5,1,149,108,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003399.jpg 175,409,222,432,3 22,434,250,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006670.jpg 393,372,476,471,0 221,368,281,455,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007466.jpg 307,372,399,390,1 174,351,279,374,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011127.jpg 1,439,302,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010639.jpg 74,477,178,576,2 47,335,152,394,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011965.jpg 418,498,486,516,3 392,390,437,405,3 524,374,564,396,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008511.jpg 244,455,366,524,0 281,327,312,410,0 251,274,275,335,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003462.jpg 309,564,341,594,3 210,558,248,599,3 467,568,498,600,3 75,377,531,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003461.jpg 73,523,338,548,1 209,503,315,516,1 241,472,305,484,1 155,445,282,463,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003415.jpg 359,392,509,592,2 128,456,209,513,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010867.jpg 309,407,464,585,0 151,561,178,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012717.jpg 192,263,266,422,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011130.jpg 349,452,462,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003136.jpg 192,310,242,348,2 447,262,518,383,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002914.jpg 66,365,596,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012635.jpg 447,424,498,463,3 395,357,440,395,3 8,390,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005477.jpg 117,349,201,477,0 428,190,534,223,1 242,106,554,488,2 63,151,282,208,1 2,281,147,318,1 226,102,267,130,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005964.jpg 5,424,43,504,0 368,331,432,407,0 469,456,565,566,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008198.jpg 71,492,112,537,3 315,430,595,600,2 1,284,356,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004621.jpg 152,117,366,434,2 46,248,145,273,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008095.jpg 305,479,439,598,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009305.jpg 31,364,600,600,2 288,527,306,543,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006360.jpg 255,379,442,599,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011559.jpg 176,180,227,209,3 107,239,193,290,3 88,280,134,317,3 48,378,96,411,3 18,421,78,457,3 203,131,259,159,3 190,156,229,179,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010747.jpg 205,501,341,514,1 201,455,447,501,1 476,499,578,522,1 108,414,212,597,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008083.jpg 153,385,215,435,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005119.jpg 308,329,352,375,2 19,427,321,600,2 463,471,510,483,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008037.jpg 16,337,193,582,2 396,355,430,368,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007574.jpg 248,296,368,515,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004476.jpg 98,322,136,380,3 1,162,540,540,2 75,234,125,266,3 92,279,126,308,3 134,198,161,217,3 197,80,354,153,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010133.jpg 4,170,107,305,0 241,451,404,489,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006624.jpg 2,301,323,595,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004936.jpg 264,570,289,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009035.jpg 20,537,48,600,0 236,486,550,535,1 244,417,412,446,1 509,460,599,492,1 372,442,486,591,0 341,359,432,447,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000316.jpg 136,462,187,495,3 194,442,257,466,3 208,404,258,432,3 268,420,313,461,3 308,466,334,481,3 314,503,346,539,3 10,407,140,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001364.jpg 161,416,267,557,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004280.jpg 108,547,335,597,2 349,430,600,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004311.jpg 140,357,409,574,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009187.jpg 379,254,586,392,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010075.jpg 127,437,206,600,2 29,435,140,582,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004210.jpg 6,448,600,499,1 101,381,148,452,0 50,377,170,399,1 223,336,376,358,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010444.jpg 351,224,564,507,2 52,260,281,464,2 188,172,426,204,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002508.jpg 9,522,127,599,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008009.jpg 139,365,277,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009048.jpg 25,313,487,579,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001251.jpg 28,366,593,598,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009718.jpg 441,533,558,598,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003220.jpg 415,453,512,529,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005981.jpg 645,577,790,653,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001541.jpg 1,186,600,454,2 124,143,165,162,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002729.jpg 323,343,588,568,2 72,321,304,590,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002487.jpg 316,534,436,565,1 197,446,404,481,1 15,539,131,575,1 165,351,352,378,1 8,453,68,555,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003316.jpg 210,380,596,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006066.jpg 40,377,595,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012275.jpg 435,334,595,498,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005995.jpg 474,459,600,537,2 520,358,600,409,2 3,529,142,574,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010037.jpg 264,362,331,443,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004889.jpg 450,572,503,600,3 310,404,443,470,2 394,463,572,599,2 156,416,290,435,1 238,432,325,454,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000716.jpg 372,422,426,468,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008428.jpg 387,437,499,560,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008170.jpg 272,301,395,374,2 31,346,292,388,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009730.jpg 202,496,265,545,3 187,422,218,452,3 185,351,215,367,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004352.jpg 332,385,600,591,2 117,351,275,580,0 558,478,585,500,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012356.jpg 416,435,584,593,0 340,343,430,406,0 438,340,554,380,0 156,369,258,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007276.jpg 336,500,379,599,0 323,338,361,417,0 323,454,381,476,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007454.jpg 140,457,600,600,2 77,518,186,542,1 92,362,234,425,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002824.jpg 424,396,592,424,1 470,459,600,477,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000478.jpg 93,366,571,393,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000207.jpg 147,438,222,472,2 348,525,448,600,2 257,401,274,428,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007953.jpg 441,412,555,520,0 472,330,576,417,0 407,521,587,581,2 50,370,595,443,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001827.jpg 123,406,353,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012829.jpg 190,537,574,600,2 231,366,360,436,2 228,470,362,507,3 384,460,519,502,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008722.jpg 1,542,62,585,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005043.jpg 518,474,596,539,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012334.jpg 267,457,333,595,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007883.jpg 216,325,230,355,0 223,392,243,448,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004246.jpg 280,373,332,418,2 142,472,267,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007241.jpg 284,469,379,583,0 424,479,600,584,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012564.jpg 267,414,567,489,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011467.jpg 137,395,512,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004819.jpg 468,458,600,595,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012439.jpg 455,405,600,500,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004429.jpg 4,384,153,595,2 310,502,487,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011862.jpg 19,338,245,591,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001966.jpg 8,457,422,595,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010706.jpg 111,211,261,514,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010292.jpg 383,79,600,417,2 296,379,518,415,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011761.jpg 277,269,533,420,2 258,160,540,200,2 7,422,277,514,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002041.jpg 187,243,597,345,2 211,158,399,213,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000973.jpg 1,374,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003814.jpg 15,406,175,600,2 273,501,402,544,2 284,370,358,435,2 415,423,478,451,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008353.jpg 241,404,459,567,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010957.jpg 434,561,508,575,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006204.jpg 383,87,596,366,2 13,320,130,469,0 236,144,283,208,0 139,289,453,364,1 263,213,381,233,1 124,223,192,244,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000915.jpg 280,335,444,437,2 53,351,208,438,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007989.jpg 242,331,468,600,2 127,330,172,394,0 219,408,300,426,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011501.jpg 286,407,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000895.jpg 157,72,359,265,2 502,63,562,130,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008023.jpg 382,484,472,596,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008332.jpg 110,346,429,373,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012814.jpg 221,422,251,510,0 341,531,370,595,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005639.jpg 407,364,600,560,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012495.jpg 301,382,600,599,2 236,578,299,600,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006478.jpg 182,524,265,577,3 101,366,369,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005601.jpg 547,186,600,245,0 556,218,596,233,1 90,169,313,450,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008060.jpg 415,452,448,489,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006338.jpg 9,332,255,599,2 285,329,334,414,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006457.jpg 501,296,551,334,3 476,333,534,400,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001919.jpg 53,322,557,596,2 479,464,518,479,3 444,504,468,526,3 419,450,445,464,3 316,543,344,560,3 496,504,514,516,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004564.jpg 133,395,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008052.jpg 490,530,529,561,3 184,347,257,424,2 351,385,437,438,2 454,494,595,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010016.jpg 84,407,166,524,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003684.jpg 56,337,419,600,2 293,409,325,421,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005278.jpg 76,475,223,508,1 290,465,494,501,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001589.jpg 171,532,207,568,3 153,482,473,600,2 228,314,405,404,2 1,443,117,518,2 479,534,593,560,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007504.jpg 225,447,581,506,2 1,524,154,600,2 285,577,323,600,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006577.jpg 538,517,600,574,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009646.jpg 359,354,585,382,1 361,301,428,317,1 198,524,293,544,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011692.jpg 345,336,558,510,2 105,469,278,503,1 287,505,410,530,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003722.jpg 439,405,600,427,1 215,344,251,419,0 112,343,192,414,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010174.jpg 364,364,595,595,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005759.jpg 309,454,419,591,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003536.jpg 342,178,600,332,2 7,180,293,438,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010156.jpg 5,342,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009525.jpg 1,233,192,437,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_013098.jpg 457,437,600,531,0 169,441,210,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002698.jpg 334,408,455,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003784.jpg 37,836,475,1080,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010145.jpg 229,395,502,580,2 18,339,156,443,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011263.jpg 266,432,332,459,3 29,420,342,550,2 343,423,595,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010533.jpg 297,449,349,494,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001773.jpg 111,421,270,598,2 388,492,516,511,2 283,411,368,421,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000469.jpg 185,460,600,600,2 257,318,510,432,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006062.jpg 23,325,220,461,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004251.jpg 71,421,471,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006740.jpg 316,498,407,516,1 448,405,527,420,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008917.jpg 7,503,228,561,1 220,466,259,492,1 241,494,437,531,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007485.jpg 25,455,213,547,2 251,407,313,475,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010417.jpg 233,501,478,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009460.jpg 115,544,390,600,2 438,357,552,406,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008579.jpg 69,495,192,586,2 396,504,493,573,2 533,507,600,542,0 493,467,600,516,0 433,553,600,580,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005803.jpg 1,358,452,600,2 474,448,600,525,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001781.jpg 231,478,272,591,0 241,357,272,429,0 262,296,273,328,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010742.jpg 72,330,581,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010686.jpg 1,41,266,540,2 78,291,139,334,3 308,37,538,261,2 391,448,540,475,1 334,474,462,504,1 436,327,524,351,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004022.jpg 128,486,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002992.jpg 99,409,173,484,0 24,479,93,497,1 474,532,550,552,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001503.jpg 132,300,172,343,3 106,366,164,383,3 292,294,319,305,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007473.jpg 217,482,282,506,3 164,390,593,600,2 107,388,159,430,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006732.jpg 303,312,422,423,2 238,433,352,580,2 1,518,126,546,1 70,410,184,437,1 128,346,203,363,1 252,403,362,415,1 252,372,344,386,1 376,400,503,417,1 417,439,487,452,1 245,337,313,350,1 333,325,357,338,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001112.jpg 41,324,222,597,2 513,380,600,447,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_013057.jpg 228,448,353,488,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008345.jpg 321,541,434,557,1 325,574,443,591,1 74,550,154,579,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003558.jpg 201,508,306,532,1 226,432,284,448,1 329,430,398,446,1 336,492,409,505,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003092.jpg 282,440,595,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007723.jpg 450,236,600,262,1 353,205,443,280,2 302,99,371,204,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_013067.jpg 131,416,231,600,0 442,401,587,425,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003871.jpg 104,368,178,498,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009430.jpg 351,420,547,484,2 543,523,600,599,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012811.jpg 197,373,250,507,0 293,349,374,381,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008596.jpg 151,440,249,526,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000068.jpg 221,550,364,600,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010286.jpg 277,329,600,600,2 1,410,252,599,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000024.jpg 1,383,83,518,2 292,422,479,565,2 145,414,282,590,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005516.jpg 244,581,297,600,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008356.jpg 248,312,292,379,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003079.jpg 443,292,589,329,1 511,160,600,180,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012691.jpg 18,531,72,557,3 102,448,126,464,3 377,459,474,538,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005794.jpg 248,407,290,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009189.jpg 176,379,328,566,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003909.jpg 340,557,565,600,1 500,476,596,553,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009951.jpg 273,369,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007965.jpg 279,326,600,600,2 78,445,356,490,1 118,381,312,418,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004209.jpg 425,353,485,379,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007897.jpg 370,182,459,369,0 476,280,600,308,1 408,204,474,216,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008296.jpg 238,324,347,588,0 292,482,324,588,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003199.jpg 4,380,310,600,2 220,466,273,509,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000846.jpg 102,226,224,593,2 287,327,600,364,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012254.jpg 347,388,375,423,0 399,452,448,600,0 459,394,598,439,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000319.jpg 346,463,428,584,0 300,405,327,438,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006283.jpg 350,389,469,506,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009855.jpg 385,351,439,485,0 441,459,510,543,0 527,344,598,411,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009617.jpg 2,231,224,534,2 230,186,331,211,1 174,337,522,394,1 282,225,374,241,1 218,235,387,265,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006295.jpg 1,346,297,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007586.jpg 157,358,176,393,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005779.jpg 18,365,476,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011891.jpg 410,565,523,597,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_013096.jpg 15,453,92,573,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011609.jpg 41,554,150,577,2 272,298,342,388,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002712.jpg 246,313,437,471,2 228,528,517,600,2 47,428,117,445,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011220.jpg 274,349,368,366,1 148,343,212,353,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000544.jpg 367,322,460,485,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009211.jpg 261,439,324,482,3 141,375,598,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005297.jpg 276,372,427,599,0 277,370,429,597,2 299,293,351,409,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005770.jpg 208,487,316,600,2 324,388,447,595,0 452,394,504,442,0 436,430,573,455,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003880.jpg 1,396,287,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009303.jpg 81,49,594,494,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002212.jpg 31,279,240,570,2 1,368,125,393,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002400.jpg 179,473,287,598,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009080.jpg 156,497,189,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004841.jpg 33,338,192,577,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010333.jpg 1,339,492,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005459.jpg 442,261,565,283,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000605.jpg 3,571,42,599,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002288.jpg 241,399,351,516,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010531.jpg 259,447,336,467,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005206.jpg 472,467,554,523,0 308,460,346,552,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003629.jpg 28,397,238,425,1 318,445,469,589,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011135.jpg 110,540,182,578,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011231.jpg 248,421,278,477,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011642.jpg 5,445,596,582,2 14,373,103,388,1 237,312,261,360,0 347,357,459,470,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012681.jpg 294,323,555,468,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006133.jpg 908,750,1080,874,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012413.jpg 65,488,183,517,1 158,365,375,391,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007649.jpg 2,476,209,570,2 179,460,279,485,1 241,560,316,578,1 503,453,600,518,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007216.jpg 25,420,157,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004375.jpg 299,358,600,600,2 1,400,194,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006877.jpg 1,313,138,503,2 92,446,237,475,1 154,355,236,386,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000311.jpg 356,116,432,315,0 313,156,416,176,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012487.jpg 328,299,472,499,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003414.jpg 283,390,343,508,0 92,398,228,539,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007914.jpg 209,479,284,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010847.jpg 182,421,217,457,0 114,516,184,533,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007210.jpg 408,351,600,590,2 12,336,226,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000153.jpg 54,376,235,600,2 310,458,397,473,1 393,454,510,476,1 360,420,510,447,1 515,434,587,453,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006841.jpg 385,317,598,523,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009724.jpg 209,522,239,584,0 516,504,585,538,1 523,552,598,592,2 20,511,98,598,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012997.jpg 388,479,468,541,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008294.jpg 145,386,264,468,2 88,501,188,598,2 215,346,243,397,0 349,470,538,510,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002393.jpg 215,495,258,511,3 272,542,346,581,3 1,484,330,600,2 199,491,332,582,3 332,556,557,600,2 332,440,378,457,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003891.jpg 34,346,348,600,2 346,534,521,600,2 377,578,404,592,3 392,402,600,518,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004531.jpg 343,372,543,532,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008780.jpg 243,268,519,600,2 11,327,70,438,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004646.jpg 418,440,449,473,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001863.jpg 86,392,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005892.jpg 55,412,598,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000158.jpg 82,375,520,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000881.jpg 1,385,252,600,2 95,427,143,461,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004900.jpg 51,448,201,594,2 248,390,407,403,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000407.jpg 220,367,600,589,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008112.jpg 125,360,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004364.jpg 107,345,297,551,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008854.jpg 484,350,600,480,0 81,259,185,280,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000599.jpg 83,433,327,598,2 337,422,598,497,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012491.jpg 151,318,362,575,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002546.jpg 1,433,51,474,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012197.jpg 229,446,383,516,2 446,504,493,545,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009919.jpg 292,314,600,595,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003304.jpg 222,448,264,598,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010161.jpg 298,350,452,428,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009509.jpg 119,208,257,314,3 96,38,324,448,2 388,328,540,426,2 361,5,514,107,2 318,186,540,238,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009609.jpg 270,401,306,489,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004627.jpg 14,370,520,595,2 216,518,328,544,1 205,419,285,434,1 220,385,281,399,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004667.jpg 224,334,405,591,2 319,446,368,524,3 435,401,553,509,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010905.jpg 1,482,156,600,2 208,415,234,459,0 472,407,588,486,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012150.jpg 534,440,593,595,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001777.jpg 200,346,580,593,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002425.jpg 308,516,504,550,1 400,411,530,552,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010019.jpg 12,414,600,599,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009659.jpg 76,359,290,581,2 348,390,540,415,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007809.jpg 258,446,279,511,0 265,565,492,596,1 318,442,361,525,0 372,536,392,577,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007911.jpg 29,403,202,577,0 1,552,103,600,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008099.jpg 365,463,442,498,2 363,531,459,564,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006146.jpg 293,358,319,422,0 121,445,414,502,1 463,440,523,486,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012859.jpg 330,252,598,589,2 59,282,294,537,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000783.jpg 355,442,409,548,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011257.jpg 6,442,122,550,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010355.jpg 336,542,381,600,0 416,434,595,599,0 304,414,339,483,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012652.jpg 290,378,430,597,2 61,365,221,599,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001636.jpg 145,355,419,600,2 499,396,600,452,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007931.jpg 184,456,256,472,1 214,511,232,541,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006136.jpg 45,307,569,454,2 337,444,405,577,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010684.jpg 47,347,487,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007063.jpg 31,437,274,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002861.jpg 413,475,484,584,2 339,395,434,474,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002656.jpg 193,284,234,382,0 341,451,384,581,0 1,372,199,590,2 319,381,345,445,0 163,451,345,497,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009054.jpg 287,479,364,595,2 370,443,597,600,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004134.jpg 328,412,401,430,1 228,491,330,512,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007141.jpg 395,561,576,588,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005649.jpg 664,626,717,658,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002634.jpg 421,420,467,446,3 173,494,220,521,3 86,370,600,600,2 469,426,521,481,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010095.jpg 84,360,233,600,2 244,472,411,495,1 232,404,345,423,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003843.jpg 80,254,236,443,0 237,242,541,287,1 244,133,401,145,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002876.jpg 181,376,232,501,0 327,385,461,499,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008521.jpg 7,118,306,508,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007807.jpg 183,315,291,525,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002925.jpg 210,374,589,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003410.jpg 1,43,584,393,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002875.jpg 295,354,426,425,0 472,439,564,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002695.jpg 10,512,382,584,1 141,366,284,383,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006529.jpg 107,404,342,468,2 439,274,485,310,2 486,347,570,431,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011383.jpg 325,425,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001750.jpg 199,420,583,597,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006034.jpg 152,199,543,229,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000713.jpg 490,429,598,511,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011943.jpg 446,411,595,594,0 403,365,420,416,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006690.jpg 1,480,45,561,2 436,504,600,600,2 173,434,297,481,2 68,447,167,498,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010067.jpg 409,438,555,586,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008382.jpg 45,407,321,449,1 334,389,470,426,1 334,431,550,467,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005324.jpg 304,437,430,522,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010887.jpg 131,557,419,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_004607.jpg 223,279,393,309,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000446.jpg 445,575,491,595,3 260,541,313,565,3 218,559,551,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007256.jpg 15,287,508,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001633.jpg 60,429,222,592,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000281.jpg 1,381,600,600,2 219,529,251,550,3 215,468,238,486,3 261,447,291,461,3 455,518,478,536,3 282,570,310,585,3 280,528,301,548,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001204.jpg 195,436,301,599,2 384,455,596,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006149.jpg 315,325,408,409,0 397,404,562,593,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011156.jpg 26,47,283,384,2 369,128,428,255,0 284,385,494,415,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012755.jpg 420,457,510,544,0 453,564,499,599,0 519,549,574,599,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001139.jpg 186,352,307,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008251.jpg 46,507,591,600,2 336,316,512,552,2 102,366,253,548,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008401.jpg 376,424,404,481,0 465,416,508,441,0 435,460,466,506,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001907.jpg 346,397,595,600,2 59,361,281,517,2 299,294,392,367,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008895.jpg 536,387,600,436,0 323,368,348,447,0 266,394,285,447,0 269,545,291,600,0 79,456,235,600,0 447,474,516,578,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008532.jpg 34,397,132,416,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010255.jpg 201,304,243,387,0 258,288,347,380,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006554.jpg 29,354,261,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005307.jpg 326,365,373,387,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000604.jpg 249,459,275,498,0 111,423,216,477,2 332,417,372,437,0 332,440,407,492,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008313.jpg 78,323,339,513,2 285,417,314,439,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002286.jpg 309,439,352,543,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005013.jpg 382,525,466,600,3 268,556,299,600,3 217,381,539,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008156.jpg 495,522,554,557,3 121,363,271,563,2 397,471,442,534,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001330.jpg 131,374,383,597,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002624.jpg 168,163,360,430,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009316.jpg 489,412,541,454,0 578,447,600,466,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009478.jpg 250,499,312,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003627.jpg 155,459,218,496,3 502,519,568,553,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002167.jpg 116,444,402,466,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012440.jpg 163,388,190,430,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010811.jpg 197,452,238,600,0 357,381,597,584,0 96,315,199,466,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007845.jpg 8,125,578,462,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001479.jpg 136,355,358,456,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009977.jpg 129,524,168,541,3 199,472,310,575,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012704.jpg 101,453,150,483,3 161,468,257,600,2 256,349,314,475,2 8,506,211,545,1 409,358,487,373,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003607.jpg 66,444,421,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000146.jpg 6,519,303,597,1 432,440,472,576,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012656.jpg 282,367,303,425,0 298,468,328,565,0 288,383,334,396,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007830.jpg 28,364,193,590,2 319,382,422,436,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008080.jpg 207,356,469,596,2 556,448,600,490,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012523.jpg 1,216,600,574,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003670.jpg 338,270,407,317,3 382,181,468,269,0 421,49,479,187,0 339,334,378,381,3 334,389,368,426,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011845.jpg 430,369,598,459,2 50,490,229,600,2 193,380,337,457,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000114.jpg 45,437,205,458,1 159,423,335,451,1 5,478,88,533,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000302.jpg 152,399,554,527,2 337,558,433,600,2 450,448,523,486,3 180,451,211,471,3 290,489,344,512,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005987.jpg 1,414,395,600,2 86,457,206,541,3 279,425,325,538,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009558.jpg 451,479,555,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006684.jpg 174,399,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003130.jpg 250,512,459,600,2 275,289,460,423,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005122.jpg 291,520,485,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010710.jpg 355,412,500,596,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000440.jpg 7,463,171,596,2 162,452,321,518,2 359,552,519,600,2 324,450,423,487,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008846.jpg 307,171,348,261,0 477,164,598,287,0 395,214,488,283,0 268,287,443,508,0 170,211,301,288,2 396,155,425,188,0 388,179,408,208,0 453,133,566,148,1 524,186,584,202,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006691.jpg 418,495,593,580,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007411.jpg 183,466,251,480,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008301.jpg 112,452,424,595,2 544,381,577,395,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010992.jpg 241,426,600,600,2 123,454,202,594,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009773.jpg 4,387,154,542,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_002704.jpg 400,356,600,589,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009854.jpg 45,514,370,560,1 288,437,428,461,1 277,397,387,415,1 361,392,405,456,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006108.jpg 9,412,598,598,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011194.jpg 350,412,403,465,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005726.jpg 369,373,589,472,0 206,387,348,583,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_001895.jpg 6,524,77,563,3 288,431,600,598,2 54,431,138,514,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009439.jpg 506,497,559,588,0 530,510,600,527,1 200,414,271,432,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005311.jpg 2,442,357,594,2 314,477,426,504,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003472.jpg 206,493,268,535,3 481,464,518,506,3 25,398,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005313.jpg 279,494,339,521,3 4,510,60,588,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007601.jpg 400,530,600,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012281.jpg 93,433,314,600,2 301,492,410,516,1 254,448,357,459,1 250,406,326,420,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003582.jpg 131,439,367,596,2 227,393,244,435,0 20,517,156,539,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003387.jpg 228,480,398,566,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009778.jpg 458,459,525,482,1 298,474,411,509,1 50,440,205,471,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009725.jpg 169,432,412,586,2 108,536,207,575,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007414.jpg 149,254,470,515,2 83,310,168,329,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007699.jpg 1,369,546,600,2 240,513,321,570,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006545.jpg 340,520,428,574,3 1,402,286,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006782.jpg 338,450,599,478,1 359,479,582,530,1 480,524,521,582,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012850.jpg 9,344,532,387,1 184,265,455,296,1 145,216,406,230,1 158,184,383,213,1 175,299,202,360,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012244.jpg 322,405,596,561,2 8,513,188,543,1 210,383,308,397,1 217,348,303,366,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010372.jpg 6,378,586,596,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_011269.jpg 107,453,570,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010960.jpg 244,401,443,592,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_007152.jpg 1,929,429,1020,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_010765.jpg 1,391,329,600,2 327,553,352,573,3 503,517,525,534,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009127.jpg 131,366,200,394,2 437,502,588,595,0 539,476,559,513,0 239,535,266,597,0 238,530,276,600,0 231,433,254,529,0 131,351,190,394,2 138,430,178,590,0 12,456,232,486,1 275,510,492,539,1 574,505,594,548,0 50,514,273,545,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009515.jpg 219,288,311,430,2 352,335,592,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_003787.jpg 19,346,253,600,2 366,454,409,595,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008044.jpg 328,421,597,485,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_006317.jpg 1,506,90,526,1 118,469,379,499,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008427.jpg 123,355,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012193.jpg 201,377,600,600,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_000862.jpg 8,289,181,511,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_012943.jpg 301,441,388,477,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008158.jpg 1,420,62,600,2 285,411,469,600,2 44,304,108,382,2 123,274,275,374,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_009229.jpg 264,346,419,454,2 7,407,172,435,1 169,433,203,600,0 210,582,294,596,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_005417.jpg 363,488,396,590,0 6,431,112,567,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/Japan/JPEGImages/Japan_008583.jpg 306,434,334,475,0 306,404,321,430,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001966.jpg 1,481,212,497,1 335,425,401,634,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000693.jpg 166,489,197,550,0 332,460,356,548,0 329,537,511,561,1 94,454,134,485,0 92,455,214,544,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003583.jpg 303,448,340,552,0 353,546,395,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004368.jpg 528,444,640,514,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002561.jpg 211,418,245,554,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003385.jpg 180,431,205,639,0 1,531,112,557,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001081.jpg 27,456,93,618,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003275.jpg 377,430,506,625,0 1,483,265,505,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001452.jpg 123,492,245,640,0 310,480,400,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003815.jpg 211,397,251,583,0 390,552,516,578,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002322.jpg 109,452,150,542,0 368,452,416,586,0 234,446,258,517,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002258.jpg 96,466,251,550,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004024.jpg 214,432,242,584,0 6,464,174,494,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004802.jpg 406,464,598,636,0 410,401,625,524,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002119.jpg 189,400,235,609,0 16,402,139,596,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000125.jpg 285,402,477,633,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002570.jpg 349,403,530,634,0 1,544,202,612,1 176,421,219,487,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000561.jpg 407,416,632,523,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002007.jpg 342,477,377,554,0 216,475,244,557,0 101,528,217,566,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003937.jpg 383,525,556,639,0 309,532,403,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000662.jpg 102,391,156,443,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003441.jpg 86,474,122,529,0 21,524,60,614,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004496.jpg 114,452,174,503,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001022.jpg 8,483,141,526,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000095.jpg 496,503,636,528,1 260,463,445,489,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002283.jpg 13,442,219,622,0 223,403,260,440,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003508.jpg 469,592,535,622,1 427,461,634,602,0 411,572,481,601,1 372,525,409,601,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003068.jpg 18,548,225,628,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001120.jpg 167,549,351,594,1 1,602,67,633,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004698.jpg 177,395,227,585,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001501.jpg 10,463,352,483,1 347,475,402,594,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003010.jpg 219,418,265,433,1 343,480,412,507,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000581.jpg 562,553,638,627,0 245,361,290,498,0 246,467,631,561,1 358,527,419,635,0 370,364,557,495,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004025.jpg 485,547,639,576,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002475.jpg 270,431,336,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003835.jpg 241,488,273,638,0 166,458,572,498,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002572.jpg 474,520,586,630,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001132.jpg 286,498,334,638,0 133,473,254,634,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002418.jpg 238,380,312,514,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003086.jpg 548,460,640,612,0 420,514,440,566,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000848.jpg 397,455,516,571,0 92,408,208,625,0 9,456,197,478,1 1,544,144,579,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000696.jpg 115,493,185,639,2 334,545,498,639,2 197,439,225,472,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001220.jpg 196,529,232,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001529.jpg 58,434,148,458,1 240,388,632,640,2 94,406,335,433,1 246,557,383,640,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002303.jpg 307,565,459,619,1 158,495,359,523,1 61,512,149,631,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002746.jpg 374,469,478,585,0 100,432,128,475,0 323,430,357,508,0 16,577,208,602,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004593.jpg 210,529,250,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001054.jpg 238,394,303,496,0 411,484,577,640,2 435,442,634,602,0 308,534,338,640,0 1,455,271,500,1 258,485,300,546,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000121.jpg 83,460,107,480,0 74,465,158,602,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001405.jpg 204,448,534,606,2 0,392,160,620,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002408.jpg 57,409,164,597,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000958.jpg 11,408,189,576,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002956.jpg 221,404,270,602,0 382,421,547,551,0 482,533,588,623,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003726.jpg 192,488,232,640,0 241,558,438,634,1 122,414,157,486,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004255.jpg 1,431,167,455,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001195.jpg 380,541,440,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004075.jpg 43,480,244,510,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002813.jpg 487,476,636,499,1 201,382,263,532,0 213,446,491,542,2 21,427,283,454,1 1,445,72,495,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003603.jpg 376,377,407,431,0 428,459,580,636,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001974.jpg 317,521,418,543,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001634.jpg 0,388,217,520,0 214,468,270,562,0 323,397,568,639,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000664.jpg 320,406,551,628,0 98,563,164,637,0 176,366,212,468,0 1,444,198,477,1 237,392,339,446,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000172.jpg 6,386,73,513,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003280.jpg 327,465,488,639,0 1,376,147,608,0 210,372,292,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003435.jpg 241,385,274,499,0 93,450,193,588,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003397.jpg 1,398,117,610,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002894.jpg 329,426,358,538,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002304.jpg 286,419,358,485,0 383,445,457,511,0 499,534,536,562,0 282,416,462,504,2 355,374,634,533,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004672.jpg 247,414,338,633,0 82,403,178,626,0 1,486,151,527,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000574.jpg 320,515,539,565,1 273,440,358,636,0 112,506,224,640,0 1,517,108,540,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001470.jpg 494,494,546,638,0 251,391,377,453,0 205,475,375,632,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004237.jpg 297,446,515,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003645.jpg 379,596,479,639,0 285,551,322,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000509.jpg 362,421,633,605,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004451.jpg 8,486,175,627,0 203,419,234,571,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001336.jpg 1,423,180,577,0 5,470,242,522,1 232,424,293,532,0 469,437,630,573,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003405.jpg 379,420,533,636,0 507,562,640,606,1 257,377,291,428,0 39,413,261,430,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004490.jpg 1,453,104,551,0 188,463,238,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003067.jpg 340,503,548,573,1 41,452,187,620,0 313,382,359,476,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000990.jpg 169,426,242,634,0 267,471,592,513,1 300,509,319,634,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002420.jpg 162,541,200,639,0 215,402,244,534,0 366,422,565,624,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001696.jpg 148,484,206,560,0 70,454,224,473,1 1,423,148,442,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003536.jpg 247,461,273,547,0 393,468,571,640,0 390,459,458,544,0 471,529,564,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002659.jpg 0,346,415,626,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002396.jpg 523,459,640,539,0 288,550,343,640,0 169,434,231,638,0 342,389,586,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003586.jpg 67,430,185,514,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002017.jpg 385,379,566,622,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003570.jpg 230,416,282,640,0 8,396,167,625,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001241.jpg 41,500,79,620,0 23,381,320,639,2 142,391,170,480,0 240,447,354,471,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004420.jpg 300,506,460,638,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003369.jpg 345,425,462,629,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002257.jpg 27,414,81,450,0 126,448,153,544,0 138,376,154,418,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000274.jpg 259,439,309,617,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001523.jpg 16,558,224,621,1 520,531,636,564,1 328,465,475,595,0 9,395,119,535,0 380,476,483,501,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003707.jpg 1,437,256,465,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002445.jpg 421,481,639,527,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004589.jpg 457,534,589,557,1 145,434,251,586,0 1,488,146,520,1 153,432,181,484,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000283.jpg 374,491,477,516,1 8,457,96,551,0 1,420,284,442,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003021.jpg 274,445,313,470,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000758.jpg 59,402,210,614,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004785.jpg 17,462,343,518,1 419,444,639,462,1 355,473,506,637,0 289,386,334,447,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000005.jpg 368,534,408,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003713.jpg 322,385,389,629,0 199,575,353,628,1 503,440,633,555,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002737.jpg 289,425,378,636,0 385,442,445,479,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002831.jpg 199,494,333,638,2 440,485,512,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003992.jpg 138,415,253,633,0 268,380,289,452,0 385,479,640,510,1 555,527,620,626,0 432,414,529,485,0 357,423,386,492,0 405,390,521,408,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003708.jpg 0,415,190,505,2 273,473,401,567,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001283.jpg 2,465,280,512,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000006.jpg 445,496,571,636,0 313,401,390,482,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002335.jpg 468,585,630,639,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003187.jpg 223,389,261,547,0 48,437,214,452,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001091.jpg 258,359,311,625,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004724.jpg 169,385,262,637,0 358,524,398,628,0 427,538,573,557,1 434,469,520,527,1 7,427,433,462,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001803.jpg 84,476,135,491,1 331,518,376,557,1 68,390,113,479,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002014.jpg 242,522,277,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004606.jpg 78,459,134,472,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004445.jpg 320,485,415,640,0 185,442,413,483,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004479.jpg 234,436,273,510,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003181.jpg 314,463,361,540,0 186,485,210,550,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004281.jpg 206,456,259,629,0 4,467,244,515,0 376,481,415,578,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001791.jpg 270,380,296,640,0 134,432,550,447,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000028.jpg 145,501,282,522,1 73,480,159,498,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004396.jpg 152,413,190,479,0 210,540,240,640,0 395,511,469,640,0 316,408,396,484,0 125,491,328,526,1 1,592,217,629,1 167,437,256,454,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003148.jpg 409,528,466,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001018.jpg 0,444,111,572,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004004.jpg 213,370,259,638,0 286,402,390,601,0 72,407,209,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002008.jpg 112,486,220,514,1 418,493,617,627,0 456,482,487,548,0 475,440,640,538,0 204,402,235,572,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001799.jpg 230,541,264,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004502.jpg 0,460,55,594,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003948.jpg 337,437,407,526,0 419,495,581,640,0 171,432,232,587,0 66,419,154,505,0 378,522,432,640,0 151,576,192,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000789.jpg 259,374,276,405,0 466,503,634,529,1 392,450,556,640,0 283,433,301,490,0 322,380,376,491,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002072.jpg 175,410,233,638,0 474,521,578,623,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001198.jpg 59,455,337,493,1 204,484,231,554,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000640.jpg 337,396,499,480,2 372,522,448,606,0 19,394,153,537,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002661.jpg 0,548,94,623,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001232.jpg 110,423,212,591,0 16,440,356,467,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002576.jpg 315,458,635,489,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000215.jpg 208,410,415,638,2 0,428,164,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002995.jpg 95,402,151,614,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000442.jpg 2,460,551,504,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003778.jpg 187,500,261,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002797.jpg 0,427,90,621,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002097.jpg 1,511,143,540,1 504,507,640,613,0 234,470,471,517,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003970.jpg 173,506,287,525,1 438,433,600,550,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003462.jpg 140,522,224,638,0 301,510,347,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002640.jpg 101,417,126,463,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003532.jpg 98,504,153,570,0 320,493,590,631,2 173,447,258,557,0 342,377,406,471,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003383.jpg 227,421,261,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004317.jpg 152,412,190,627,0 3,405,132,523,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003283.jpg 101,410,249,638,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003160.jpg 126,451,146,468,0 117,455,189,585,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004514.jpg 81,439,192,635,0 7,419,132,560,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000917.jpg 196,368,306,480,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003868.jpg 374,374,404,406,0 295,440,406,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002982.jpg 93,522,203,549,1 11,498,100,619,0 291,410,377,608,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003004.jpg 436,428,464,444,0 397,411,621,635,0 1,577,134,616,1 462,579,540,610,1 395,482,622,513,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004144.jpg 1,502,121,534,1 81,504,146,606,0 293,434,320,478,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004352.jpg 44,476,188,498,1 18,494,516,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001069.jpg 99,487,160,588,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001889.jpg 461,468,639,628,2 200,467,259,480,1 1,471,132,493,1 265,485,347,549,2 104,416,198,576,2 20,592,110,640,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002501.jpg 516,612,554,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003985.jpg 321,508,391,543,0 174,403,211,433,3 1,514,59,530,1 6,373,456,547,2 458,425,640,614,0 17,556,115,619,3 381,454,404,471,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004689.jpg 285,465,309,539,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000054.jpg 198,412,245,498,0 99,500,187,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001843.jpg 181,501,218,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001871.jpg 260,382,350,638,0 318,489,574,521,1 307,421,377,441,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002019.jpg 418,599,470,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000965.jpg 216,416,248,536,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004792.jpg 87,488,225,634,0 11,371,183,514,0 372,417,549,626,0 275,380,308,458,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002168.jpg 323,460,488,634,0 226,388,257,552,0 22,402,217,588,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003851.jpg 154,466,180,517,0 201,527,227,637,0 464,498,622,618,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003217.jpg 0,382,352,638,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001179.jpg 65,580,82,616,0 194,512,230,562,0 205,430,234,510,0 91,412,137,560,0 1,500,67,529,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004491.jpg 189,430,303,450,1 107,418,196,582,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003795.jpg 278,574,472,618,1 218,480,258,636,0 156,424,187,488,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003973.jpg 304,541,326,617,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001035.jpg 493,498,639,522,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002033.jpg 274,419,312,498,0 121,548,513,595,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002719.jpg 428,577,475,636,0 248,589,292,611,3 189,496,334,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000277.jpg 521,389,635,497,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000367.jpg 71,564,108,634,0 123,431,159,507,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002493.jpg 210,443,246,557,0 554,533,640,586,0 36,480,130,620,0 338,448,530,640,0 102,499,236,518,1 458,533,570,580,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001807.jpg 271,398,387,630,0 15,466,318,502,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002035.jpg 0,384,537,640,2 2,494,36,518,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002830.jpg 68,378,616,640,2 97,376,318,638,2 83,600,193,623,1 92,426,247,448,1 361,432,627,639,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003106.jpg 187,444,309,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002239.jpg 266,432,370,568,2 452,462,471,506,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000164.jpg 562,413,636,430,1 136,478,296,629,0 16,571,181,596,1 299,442,640,477,1 568,425,637,467,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002550.jpg 137,427,263,509,0 530,568,605,640,1 215,400,233,420,0 311,433,425,566,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004563.jpg 558,588,640,620,1 328,369,460,454,0 402,485,572,639,0 222,403,313,501,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001939.jpg 243,417,353,434,1 405,455,561,635,0 354,386,397,437,0 118,396,255,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000440.jpg 141,440,210,512,0 210,486,451,537,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002416.jpg 302,384,484,624,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001500.jpg 296,550,358,640,0 277,432,302,508,0 1,494,459,560,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004657.jpg 126,450,317,489,1 362,556,446,640,0 133,526,198,640,0 305,465,335,555,0 10,540,42,596,0 0,474,129,505,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000257.jpg 301,464,363,636,2 202,462,286,612,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004263.jpg 208,451,256,620,0 354,411,423,627,0 113,455,246,467,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000017.jpg 195,471,327,512,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000803.jpg 35,509,368,555,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002588.jpg 385,425,610,619,0 285,428,355,616,0 250,390,271,441,0 1,502,180,535,1 286,423,405,438,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003045.jpg 341,451,377,549,0 1,423,206,470,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001504.jpg 256,396,288,548,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002226.jpg 70,456,208,613,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001619.jpg 130,367,172,472,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003841.jpg 333,452,362,567,0 1,469,333,489,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003833.jpg 345,401,570,617,0 216,423,255,543,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003814.jpg 533,530,639,606,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000333.jpg 392,494,482,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004640.jpg 283,498,347,640,0 486,490,580,510,1 388,381,440,485,0 31,477,242,606,0 231,429,393,492,1 408,467,431,484,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000155.jpg 156,410,192,469,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001250.jpg 231,393,273,475,0 99,392,144,443,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002553.jpg 161,393,198,458,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002472.jpg 124,381,176,638,0 1,449,332,540,1 231,362,255,431,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003135.jpg 40,473,77,635,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000352.jpg 15,378,249,610,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000242.jpg 62,441,132,625,0 260,417,335,498,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003042.jpg 175,470,613,554,1 353,383,420,479,0 5,404,114,463,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003593.jpg 197,489,259,562,2 278,490,386,604,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001669.jpg 17,490,301,582,1 24,446,111,628,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003433.jpg 239,464,260,534,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004773.jpg 203,526,289,546,1 281,450,310,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003081.jpg 63,485,435,629,1 120,402,193,633,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000327.jpg 321,426,423,638,0 4,484,289,516,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000204.jpg 358,464,394,548,0 266,376,282,415,0 529,569,639,599,1 9,452,158,583,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003756.jpg 0,400,95,496,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002969.jpg 134,424,350,640,2 21,473,101,621,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002526.jpg 2,537,201,566,1 257,400,315,584,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001900.jpg 176,501,198,563,0 180,402,210,466,0 22,480,278,509,1 256,411,297,622,0 1,602,76,623,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002816.jpg 353,448,522,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000968.jpg 111,525,192,639,2 6,507,281,537,1 278,433,480,638,2 188,433,220,510,0 464,497,640,524,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001004.jpg 343,434,437,566,0 301,529,383,550,1 74,554,247,573,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004108.jpg 362,463,562,637,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003297.jpg 109,437,448,474,1 418,406,640,434,1 401,396,587,609,0 1,447,125,485,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003000.jpg 405,408,582,624,0 418,414,632,436,1 74,395,395,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001968.jpg 4,378,480,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003007.jpg 185,377,272,467,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000056.jpg 309,417,327,530,0 125,430,174,491,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004557.jpg 7,447,252,528,1 107,487,290,535,1 227,415,305,536,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003321.jpg 390,390,414,449,0 489,432,639,455,1 194,430,413,638,2 502,496,556,598,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002137.jpg 124,493,453,557,1 140,363,224,504,0 366,480,612,596,2 393,411,620,504,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001539.jpg 303,442,441,640,0 330,442,426,468,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000655.jpg 356,494,435,638,0 197,520,242,609,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002376.jpg 191,453,319,630,0 109,403,166,592,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000722.jpg 227,392,276,635,0 393,377,634,525,0 539,460,640,477,1 497,409,640,426,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001396.jpg 30,538,80,602,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003648.jpg 272,484,426,512,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000833.jpg 143,509,201,635,0 353,487,575,631,0 349,518,469,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001194.jpg 467,513,528,639,0 307,556,336,612,0 257,481,450,512,1 239,500,275,637,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003575.jpg 301,436,334,540,0 425,516,507,632,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004208.jpg 30,459,114,590,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000276.jpg 329,467,445,640,0 450,530,578,638,2 327,396,377,442,0 324,431,468,452,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002724.jpg 179,403,195,440,0 208,420,274,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002999.jpg 141,463,251,640,0 75,416,88,436,0 160,421,195,454,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004394.jpg 388,420,587,638,2 559,590,640,617,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001872.jpg 258,447,318,603,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000723.jpg 4,393,484,639,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000638.jpg 30,574,68,622,0 187,508,217,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000004.jpg 27,548,61,616,0 104,398,200,510,0 230,437,270,567,0 351,460,425,556,0 539,443,637,512,0 511,472,603,495,1 212,564,226,640,0 434,587,473,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001886.jpg 93,424,219,636,0 0,474,162,505,1 366,438,506,596,2 520,540,640,564,1 192,388,230,426,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003390.jpg 186,415,233,481,0 61,508,158,606,0 410,389,627,554,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002301.jpg 254,490,309,586,0 362,416,621,563,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004705.jpg 1,454,280,517,1 316,446,462,620,0 235,483,496,536,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001257.jpg 82,387,183,600,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001298.jpg 70,451,166,593,0 298,473,333,531,0 152,430,465,505,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000124.jpg 293,531,343,637,0 80,416,161,633,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002539.jpg 167,604,196,640,0 199,550,216,578,0 304,533,352,640,0 516,554,633,623,0 470,549,558,570,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003062.jpg 136,422,179,556,0 245,420,311,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002050.jpg 2,461,414,531,1 120,377,326,392,1 100,385,179,453,0 2,500,68,549,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002446.jpg 156,414,193,468,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002581.jpg 322,413,505,631,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000252.jpg 75,504,237,632,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000235.jpg 129,425,213,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003784.jpg 325,407,346,433,0 502,498,556,602,0 364,437,387,490,0 548,451,640,597,0 276,488,327,575,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003587.jpg 287,485,464,518,1 369,506,470,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000921.jpg 297,524,367,639,0 48,496,124,552,0 160,490,221,640,0 276,485,292,519,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002627.jpg 460,410,595,486,0 295,384,334,436,0 342,448,411,556,0 31,508,107,610,0 159,479,212,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003361.jpg 292,493,422,550,1 432,494,591,531,1 357,414,513,606,0 267,477,289,637,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001495.jpg 415,547,432,565,3 194,475,209,555,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004195.jpg 139,492,265,526,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000831.jpg 42,478,116,620,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000814.jpg 72,545,110,639,0 395,489,572,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003306.jpg 287,423,401,636,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004407.jpg 304,362,344,397,0 389,434,614,622,0 221,361,242,411,0 1,518,239,555,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004224.jpg 298,556,394,640,0 1,534,300,579,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000311.jpg 351,457,433,571,0 410,520,544,580,1 524,544,640,599,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000153.jpg 1,386,105,475,0 94,484,147,592,0 11,495,106,639,0 269,415,359,544,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001514.jpg 232,521,319,542,1 55,405,196,622,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001323.jpg 372,389,640,640,2 202,381,291,632,0 6,488,160,504,1 257,488,451,532,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001558.jpg 149,494,219,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002414.jpg 506,384,634,591,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004373.jpg 218,394,264,640,0 108,469,268,485,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004187.jpg 5,398,168,534,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003436.jpg 1,544,127,566,1 364,397,439,450,0 280,417,340,627,0 337,450,417,470,1 110,380,249,576,0 410,482,510,604,0 574,564,640,630,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001382.jpg 161,447,267,488,1 45,388,219,620,0 1,540,209,554,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001537.jpg 290,529,317,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002721.jpg 282,402,497,635,0 131,439,166,462,3 1,442,146,467,1 116,581,268,608,1 578,513,625,621,0 202,460,281,535,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000098.jpg 20,532,160,567,1 207,544,241,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001839.jpg 256,363,290,583,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002893.jpg 177,413,241,627,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000795.jpg 11,491,109,513,1 258,420,462,638,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004472.jpg 170,588,220,599,1 133,548,203,636,0 224,542,248,556,3
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004663.jpg 388,421,631,623,0 227,467,265,567,0 338,482,376,548,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001487.jpg 222,430,265,518,0 475,480,528,608,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001105.jpg 133,568,174,638,0 448,492,526,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004498.jpg 132,420,227,627,0 271,355,293,433,0 39,401,273,429,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001307.jpg 91,473,120,510,0 225,426,334,582,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000245.jpg 358,512,510,548,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000284.jpg 30,551,266,640,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001341.jpg 0,479,81,496,1 478,561,562,639,0 0,428,152,568,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003567.jpg 339,458,466,494,1 1,475,172,490,1 43,353,203,620,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000642.jpg 1,521,207,594,1 310,360,344,500,0 361,451,447,637,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000554.jpg 315,488,581,639,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000128.jpg 243,538,277,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001600.jpg 368,544,438,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003632.jpg 62,439,187,637,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000059.jpg 10,460,385,550,1 205,399,245,488,0 138,523,172,637,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004476.jpg 312,530,348,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004567.jpg 471,595,558,622,1 164,545,335,571,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004793.jpg 209,557,387,589,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001590.jpg 137,435,519,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004046.jpg 312,427,372,533,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002598.jpg 173,379,242,470,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000978.jpg 441,474,639,626,0 533,400,587,428,0 313,345,543,475,1 254,404,366,487,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000344.jpg 326,373,422,562,0 443,520,585,548,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001971.jpg 263,459,320,569,0 496,512,520,588,0 555,471,635,537,0 145,516,253,630,0 399,556,603,620,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003694.jpg 71,506,137,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003057.jpg 451,504,582,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002144.jpg 504,414,600,498,0 440,424,538,574,2 9,365,302,603,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001398.jpg 458,471,513,513,0 275,437,321,450,1 261,360,295,419,0 435,477,569,638,2 260,441,308,639,0 63,434,205,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003346.jpg 346,402,444,530,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004581.jpg 147,392,200,496,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000202.jpg 268,501,308,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003036.jpg 221,404,295,554,0 541,471,640,581,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003352.jpg 174,492,198,552,0 3,490,147,618,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001155.jpg 2,406,109,519,0 101,438,159,566,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002278.jpg 278,442,546,483,1 189,406,289,599,0 1,464,182,616,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002556.jpg 148,397,195,440,0 1,448,87,475,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001511.jpg 415,456,540,487,1 449,389,542,481,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002913.jpg 1,446,164,574,0 1,491,408,540,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002617.jpg 444,510,640,534,1 392,460,442,552,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003523.jpg 215,442,249,550,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001719.jpg 248,431,397,446,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000631.jpg 40,474,236,526,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003730.jpg 91,416,208,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004469.jpg 334,417,578,638,2 518,473,640,581,0 348,420,588,636,0 42,425,182,550,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003666.jpg 94,473,380,528,1 157,402,214,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003271.jpg 258,432,378,552,2 456,450,622,546,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000646.jpg 202,428,297,508,0 0,553,92,633,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002127.jpg 0,452,56,536,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001598.jpg 307,508,358,631,0 412,512,522,633,0 130,429,203,637,0 6,440,43,502,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002071.jpg 239,459,264,536,0 1,443,229,466,1 410,447,473,542,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001419.jpg 212,480,264,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002175.jpg 160,473,318,504,1 75,422,192,460,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000964.jpg 122,354,176,449,0 1,431,439,497,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001656.jpg 271,465,353,639,0 117,508,231,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000945.jpg 416,556,508,640,0 356,563,384,629,0 207,492,268,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002387.jpg 444,453,616,598,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000755.jpg 40,421,82,467,0 0,496,84,614,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000399.jpg 0,425,136,563,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001858.jpg 314,446,384,562,0 26,464,246,492,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002967.jpg 1,450,324,637,2 131,415,337,448,1 43,416,185,440,1 1,396,88,467,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004174.jpg 310,531,405,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002216.jpg 148,520,298,553,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001127.jpg 8,523,116,605,0 313,389,421,632,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004380.jpg 228,441,352,639,0 478,528,520,636,0 474,579,505,640,0 49,453,177,498,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003425.jpg 354,471,436,493,1 242,402,281,492,0 229,498,322,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000663.jpg 188,361,610,638,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000909.jpg 291,484,397,510,1 102,523,198,544,1 21,513,97,623,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003493.jpg 2,403,134,529,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004499.jpg 330,459,358,549,0 235,432,268,548,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000914.jpg 9,356,186,456,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003872.jpg 330,346,518,622,0 458,482,593,513,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000744.jpg 298,402,362,558,0 82,444,260,610,2 470,579,554,605,1 545,600,640,627,1 371,560,409,638,0 338,409,449,432,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003483.jpg 232,460,268,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003335.jpg 414,505,540,595,0 433,588,535,615,1 495,590,563,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002821.jpg 546,457,592,527,0 588,533,635,573,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000300.jpg 274,370,307,640,0 145,549,191,640,0 214,404,241,444,0 1,451,619,503,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004211.jpg 398,493,576,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004154.jpg 142,478,193,565,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000078.jpg 55,536,147,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003340.jpg 162,368,266,482,0 426,444,522,463,1 19,567,59,616,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004070.jpg 35,497,626,549,1 438,428,518,470,0 538,426,640,488,0 550,523,640,617,0 361,432,387,491,0 420,558,455,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004406.jpg 159,542,292,562,1 19,558,148,610,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000643.jpg 133,437,382,462,1 16,502,122,606,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000187.jpg 5,493,343,553,1 107,475,176,529,0 105,547,143,637,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002900.jpg 145,438,279,636,0 348,418,452,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001980.jpg 222,499,246,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002273.jpg 341,436,386,540,0 58,457,178,630,0 365,413,395,451,0 205,390,243,453,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000295.jpg 323,427,533,461,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000949.jpg 308,506,335,564,0 122,459,138,485,0 31,565,53,610,0 395,493,557,625,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001130.jpg 321,390,545,621,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002332.jpg 97,465,307,638,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002176.jpg 251,588,272,640,0 328,467,406,547,2 89,531,320,550,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004736.jpg 438,549,543,604,1 282,414,403,617,0 135,355,247,565,0 43,487,114,623,0 1,405,112,486,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004456.jpg 121,546,430,592,1 100,420,176,486,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004161.jpg 398,500,556,640,0 286,381,314,465,0 5,457,422,482,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000522.jpg 351,501,510,552,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000948.jpg 182,581,378,623,1 76,407,152,637,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002616.jpg 1,501,97,637,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001408.jpg 118,547,148,637,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002090.jpg 121,354,243,636,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003415.jpg 441,398,634,431,1 418,398,585,500,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004199.jpg 251,361,631,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003238.jpg 0,498,82,600,0 285,428,330,535,0 354,562,384,634,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003947.jpg 291,479,318,529,0 243,395,276,456,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000227.jpg 17,404,190,547,0 334,406,445,632,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002624.jpg 346,504,460,531,1 90,449,166,594,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003371.jpg 18,434,441,547,1 3,401,156,579,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000253.jpg 190,386,222,550,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001197.jpg 43,530,277,556,1 4,362,167,463,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002586.jpg 262,387,304,633,0 344,411,416,526,0 165,462,570,489,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003158.jpg 340,596,374,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003100.jpg 353,477,431,499,1 225,424,386,638,2 423,423,640,447,1 538,601,637,636,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003263.jpg 66,447,394,502,1 237,565,271,639,0 158,518,190,576,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000650.jpg 443,471,595,500,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002118.jpg 318,457,496,487,1 204,459,219,501,0 81,518,167,633,0 44,502,287,525,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003797.jpg 311,377,348,431,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002206.jpg 303,412,434,615,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000397.jpg 384,457,484,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003826.jpg 1,580,103,600,1 123,541,205,639,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004292.jpg 9,422,326,460,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000081.jpg 221,399,383,547,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000685.jpg 211,405,318,633,0 258,377,299,466,0 94,408,282,440,1 1,414,107,462,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003960.jpg 284,501,298,530,0 364,548,444,624,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000927.jpg 120,396,500,640,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002924.jpg 99,561,133,599,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000556.jpg 436,412,564,531,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001311.jpg 314,383,342,505,0 474,549,504,580,3 333,497,475,519,1 167,487,308,517,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003991.jpg 292,549,392,623,2 240,458,316,518,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000411.jpg 0,474,74,594,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003349.jpg 437,412,589,622,0 14,498,114,574,0 249,400,433,424,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004246.jpg 182,460,229,563,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003917.jpg 240,498,299,550,0 54,414,257,630,0 253,454,626,477,1 431,465,482,557,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001550.jpg 432,421,633,600,0 357,448,607,480,1 37,429,165,531,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000101.jpg 29,465,379,522,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002523.jpg 330,407,597,636,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000118.jpg 162,388,184,639,0 316,525,424,639,0 1,431,153,456,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003139.jpg 138,417,254,562,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001548.jpg 168,382,323,456,0 544,542,640,622,0 147,446,176,534,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_003670.jpg 82,486,169,638,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004106.jpg 33,446,306,629,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000827.jpg 136,383,286,633,0 120,462,521,504,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000784.jpg 229,439,338,622,0 116,412,196,572,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000184.jpg 328,440,421,627,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002312.jpg 135,469,304,498,1 283,390,346,640,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002498.jpg 149,431,260,445,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002069.jpg 399,427,585,637,0 306,410,341,546,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000940.jpg 402,426,594,622,0
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_000873.jpg 437,500,467,560,0 480,562,640,598,1 414,412,530,487,0 421,482,532,507,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_001292.jpg 322,417,546,637,0 420,475,542,517,1 213,606,338,638,1 1,458,104,473,1 349,425,476,454,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002759.jpg 1,476,113,500,1
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_004332.jpg 307,448,351,487,0 302,452,502,639,2
+/data4/czh/code/yolov8-pytorch-master-main/datasets/RDD2022/United_States/JPEGImages/United_States_002646.jpg 401,416,439,560,0

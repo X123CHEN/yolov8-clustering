@@ -1,0 +1,131 @@
+/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_100ep_seed11_20261015_150504/source_snapshot/utils/utils_bbox.py:719: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources as pkg
+initialize network with normal type
+initialization method [xavier]
+initialization method [xavier]
+initialization method [xavier]
+initialization method [xavier]
+initialization method [xavier]
+initialization method [xavier]
+initialization method [xavier]
+{
+  "seed": 11,
+  "epochs": 100,
+  "labels": {
+    "images": 12742,
+    "validation_images": 1592,
+    "coverage": 1.0,
+    "cluster_counts": [
+      5913,
+      6829
+    ],
+    "country_cluster": {
+      "India:1": 2272,
+      "India:0": 306,
+      "Japan:0": 5055,
+      "Japan:1": 1265,
+      "United_States:1": 3292,
+      "United_States:0": 552
+    },
+    "artifact": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/latent_domain_analysis/results/final_cluster_labels.csv",
+    "identical_unique_protocol": true
+  },
+  "checks": {
+    "grl_sign_head_gradients_b1_b12": true,
+    "schedule_zero_and_progress": true,
+    "country": {
+      "real_batch_shapes": true,
+      "student_gradient": true,
+      "fab_gradient": true,
+      "disabled_domain_task_parity": true,
+      "frozen_sample_probe_accuracy": 1.0,
+      "probe_initial_ce": 1.0661859512329102,
+      "probe_final_ce": 1.773221265466418e-05,
+      "probe_scope": "source training samples only; connectivity/learnability, not held-out domain invariance"
+    },
+    "latent": {
+      "real_batch_shapes": true,
+      "student_gradient": true,
+      "fab_gradient": true,
+      "disabled_domain_task_parity": true,
+      "frozen_sample_probe_accuracy": 1.0,
+      "probe_initial_ce": 0.658992350101471,
+      "probe_final_ce": 5.97037933403044e-06,
+      "probe_scope": "source training samples only; connectivity/learnability, not held-out domain invariance"
+    }
+  },
+  "calibrations": {
+    "country": {
+      "alpha_domain": 0.01306498680128547,
+      "historical_effective_weight": 0.7,
+      "formula": "median(0.7 * legacy_raw_feature_grad_norm / kway_raw_feature_grad_norm)",
+      "batches": [
+        {
+          "detection": 2.1489360332489014,
+          "fab": 0.02325078286230564,
+          "legacy_raw": 0.00821602437645197,
+          "kway_raw": 0.43741345405578613,
+          "batch": 0,
+          "fab_loss": 2.7009987831115723,
+          "anchors": 272,
+          "student_domain_gradient": 23.58960723876953,
+          "raw_gradient_ratio": 53.239064785331124
+        },
+        {
+          "detection": 2.4839415550231934,
+          "fab": 0.029727313667535782,
+          "legacy_raw": 0.00814104825258255,
+          "kway_raw": 0.4361836612224579,
+          "batch": 1,
+          "fab_loss": 3.3700647354125977,
+          "anchors": 246,
+          "student_domain_gradient": 23.223329544067383,
+          "raw_gradient_ratio": 53.57831666015359
+        },
+        {
+          "detection": 2.635298728942871,
+          "fab": 0.023400358855724335,
+          "legacy_raw": 0.00804873462766409,
+          "kway_raw": 0.45059698820114136,
+          "batch": 2,
+          "fab_loss": 2.401658773422241,
+          "anchors": 224,
+          "student_domain_gradient": 23.59158706665039,
+          "raw_gradient_ratio": 55.983581152297724
+        }
+      ],
+      "scope": "fixed source training batches; r=1; no target data"
+    },
+    "latent": {
+      "alpha_domain": 0.014579329162945357,
+      "historical_effective_weight": 0.7,
+      "formula": "median(0.7 * legacy_raw_feature_grad_norm / kway_raw_feature_grad_norm)",
+      "batches": [
+        {
+          "detection": 2.5790205001831055,
+          "fab": 0.023831026628613472,
+          "legacy_raw": 0.008079317398369312,
+          "kway_raw": 0.3642764687538147,
+          "batch": 0,
+          "fab_loss": 2.5730369091033936,
+          "anchors": 110,
+          "student_domain_gradient": 19.323728561401367,
+          "raw_gradient_ratio": 45.0875303930179
+        },
+        {
+          "detection": 2.150728702545166,
+          "fab": 0.030608998611569405,
+          "legacy_raw": 0.007984105497598648,
+          "kway_raw": 0.4099428057670593,
+          "batch": 1,
+          "fab_loss": 2.8739564418792725,
+          "anchors": 134,
+          "student_domain_gradient": 21.207035064697266,
+          "raw_gradient_ratio": 51.34486335261432
+        }
+      ],
+      "scope": "fixed source training batches; r=1; no target data"
+    }
+  },
+  "passed": true
+}

@@ -1,0 +1,43 @@
+{
+  "created_at": "2026-10-15T11:57:15.401359+08:00",
+  "root": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715",
+  "confidence_mode": "max_class_sigmoid",
+  "runs": [
+    {
+      "experiment": "01_country_multi_unique",
+      "gpu": 0,
+      "screen": "kway_std_1_20261015_115715",
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/launch_logs/01_country_multi_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/launch_logs/01_country_multi_unique.log",
+      "weights": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/01_country_multi_unique/best_epoch_weights.pth",
+      "output": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/01_country_multi_unique"
+    },
+    {
+      "experiment": "02_latent_multi_unique",
+      "gpu": 1,
+      "screen": "kway_std_2_20261015_115715",
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/launch_logs/02_latent_multi_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/launch_logs/02_latent_multi_unique.log",
+      "weights": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/02_latent_multi_unique/best_epoch_weights.pth",
+      "output": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/02_latent_multi_unique"
+    },
+    {
+      "experiment": "03_country_kway_unique",
+      "gpu": 2,
+      "screen": "kway_std_3_20261015_115715",
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/launch_logs/03_country_kway_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/launch_logs/03_country_kway_unique.log",
+      "weights": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/03_country_kway_unique/best_epoch_weights.pth",
+      "output": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/03_country_kway_unique"
+    },
+    {
+      "experiment": "04_latent_kway_unique",
+      "gpu": 3,
+      "screen": "kway_std_4_20261015_115715",
+      "script": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/launch_logs/04_latent_kway_unique.sh",
+      "log": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/launch_logs/04_latent_kway_unique.log",
+      "weights": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/04_latent_kway_unique/best_epoch_weights.pth",
+      "output": "/data4/czh/yolov8-cluster/yolov8-hard-clustering/kway_comparison_60ep_seed42_20261014_195549/testing_standard_conf_20261015_115715/04_latent_kway_unique"
+    }
+  ]
+}

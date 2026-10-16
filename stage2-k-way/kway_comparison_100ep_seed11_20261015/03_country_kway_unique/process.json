@@ -1,0 +1,6 @@
+{
+  "phase": "testing",
+  "child_pid": 3200106,
+  "worker_pid": 3059978,
+  "gpu": "2"
+}

@@ -1,0 +1,723 @@
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000027.jpg 474,570,586,621,3 478,511,558,548,3 191,470,300,547,3 1,624,168,711,3 12,506,274,663,2 640,494,720,531,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000043.jpg 317,496,475,537,3 497,520,563,549,3 200,562,269,595,3 509,478,590,514,3 160,459,264,527,3 72,476,720,650,2 376,458,426,488,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000053.jpg 173,499,678,705,2 574,603,636,630,0 286,462,377,691,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000102.jpg 463,573,595,720,0 375,489,506,573,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000114.jpg 207,515,518,706,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000115.jpg 341,487,471,520,1 196,495,244,531,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000191.jpg 132,561,309,701,2 226,451,593,530,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000197.jpg 428,568,555,677,0 516,568,675,679,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000209.jpg 22,488,720,693,2 463,574,584,662,3 289,472,448,523,3 469,464,715,562,3 27,529,121,610,3 186,455,277,509,3 594,572,655,630,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000278.jpg 211,516,442,704,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000288.jpg 98,545,261,660,3 436,563,509,609,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000319.jpg 340,577,504,720,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000362.jpg 537,612,577,689,0 427,517,461,659,0 497,549,537,626,0 136,524,290,623,0 6,512,582,692,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000383.jpg 427,432,514,546,3 268,440,392,525,2 293,404,321,427,3 240,397,268,420,3 330,376,358,399,3 92,379,191,422,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000392.jpg 222,414,294,469,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000470.jpg 180,480,282,558,3 1,526,60,565,3 69,508,156,550,3 1,448,60,481,3 81,464,162,505,3 166,398,360,473,3 411,436,477,563,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000475.jpg 17,502,118,569,3 237,396,274,422,3 159,466,220,498,3 96,576,157,608,3 233,442,464,715,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000478.jpg 474,606,527,696,0 391,487,444,577,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000504.jpg 132,396,717,712,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000590.jpg 383,478,493,527,3 535,509,619,557,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000592.jpg 1,528,720,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000628.jpg 217,526,571,706,2 334,561,387,601,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000678.jpg 16,499,542,694,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000729.jpg 339,484,438,533,3 306,544,458,613,3 479,499,712,629,3 486,574,585,623,3 414,443,463,465,3 375,415,424,437,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000743.jpg 152,679,216,720,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000759.jpg 14,517,600,654,2 304,488,341,504,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000788.jpg 4,529,258,715,2 330,547,606,717,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000802.jpg 515,632,710,715,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000812.jpg 294,522,333,545,3 407,506,463,531,3 354,540,410,565,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000850.jpg 278,477,489,672,2 496,592,683,694,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000942.jpg 274,591,344,637,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000949.jpg 232,344,358,696,0 109,347,460,692,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_000981.jpg 444,520,523,641,3 347,508,430,657,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001007.jpg 354,471,488,568,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001008.jpg 341,454,656,513,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001017.jpg 146,560,407,691,2 459,496,720,692,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001023.jpg 407,544,720,694,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001030.jpg 454,550,714,715,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001037.jpg 359,442,570,570,2 509,552,720,680,2 507,536,695,678,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001068.jpg 329,542,683,667,2 179,484,327,699,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001133.jpg 524,595,716,633,1 634,518,713,578,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001149.jpg 230,534,573,709,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001161.jpg 356,381,384,562,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001228.jpg 361,566,551,716,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001271.jpg 301,480,720,656,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001287.jpg 197,478,324,572,0 1,554,192,718,2 252,484,612,624,2 71,428,164,469,3 173,426,240,468,3 332,438,429,480,3 364,483,398,510,3 300,408,380,436,3 288,456,322,483,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001407.jpg 426,515,494,562,3 117,495,406,625,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001443.jpg 174,631,527,704,3 328,520,411,635,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001516.jpg 429,550,550,674,3 658,616,720,660,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001526.jpg 268,560,486,716,2 353,542,398,571,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001594.jpg 400,354,504,609,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001640.jpg 504,606,720,715,3 88,579,325,709,3 373,524,476,686,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001655.jpg 424,521,662,694,2 236,647,349,717,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001673.jpg 408,523,720,633,3 134,495,356,600,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001722.jpg 7,549,138,621,3 146,535,221,613,3 214,581,322,649,3 221,511,296,549,3 42,634,179,718,3 271,549,308,575,3 227,549,264,575,3 351,517,500,674,2 317,495,347,571,0 437,548,487,674,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001723.jpg 597,467,720,549,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001755.jpg 437,519,466,629,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001765.jpg 326,474,592,696,2 1,569,313,715,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001776.jpg 1,361,706,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001887.jpg 39,553,380,715,3 111,542,720,719,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_001996.jpg 451,611,573,716,3 459,535,501,571,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002011.jpg 372,399,483,505,2 371,506,720,621,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002013.jpg 1,415,592,619,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002034.jpg 603,558,696,655,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002047.jpg 87,423,454,619,3 140,437,508,675,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002063.jpg 152,585,404,716,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002066.jpg 146,580,542,659,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002112.jpg 289,597,477,660,3 422,499,491,595,3 76,544,273,660,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002150.jpg 178,456,288,621,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002187.jpg 482,589,700,708,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002206.jpg 51,572,260,697,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002207.jpg 201,552,567,716,3 71,503,720,712,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002249.jpg 440,477,502,517,3 503,536,565,576,3 425,523,520,663,0 576,483,716,576,3 512,474,715,686,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002253.jpg 1,520,524,666,3 411,436,510,518,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002305.jpg 434,520,485,553,3 404,475,455,508,3 527,531,578,564,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002364.jpg 7,464,341,708,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002386.jpg 520,559,706,684,2 317,497,510,683,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002487.jpg 278,451,433,612,3 1,439,184,504,3 31,489,269,568,3 37,490,286,682,0 42,512,386,712,2 240,402,400,446,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002591.jpg 201,553,240,619,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002668.jpg 558,565,663,675,0 1,479,666,669,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002689.jpg 1,515,703,702,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002849.jpg 156,510,713,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002858.jpg 36,555,253,715,0 16,506,284,564,2 40,552,673,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002936.jpg 228,480,495,569,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002939.jpg 233,445,400,647,3 467,488,606,651,0 288,452,397,640,0 433,443,460,472,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002956.jpg 236,496,279,520,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002968.jpg 67,526,314,658,3 463,502,564,575,0 329,453,462,587,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002976.jpg 387,589,461,635,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_002995.jpg 371,384,439,422,3 412,460,445,578,0 7,454,462,707,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003049.jpg 406,571,534,683,2 93,595,258,720,2 248,517,329,590,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003054.jpg 392,487,447,554,2 406,578,495,659,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003065.jpg 360,662,454,720,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003102.jpg 208,224,298,391,0 168,272,631,520,2 436,410,552,504,3 549,511,720,672,3 553,308,720,496,3 390,152,506,246,3 495,249,583,320,3 383,246,492,357,3 321,214,379,264,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003116.jpg 274,623,626,683,1 255,431,318,622,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003172.jpg 150,574,313,663,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003247.jpg 279,477,350,683,0 100,547,720,708,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003299.jpg 484,456,642,629,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003319.jpg 296,571,528,714,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003392.jpg 443,551,498,695,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003427.jpg 173,486,667,691,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003523.jpg 398,399,577,577,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003560.jpg 205,558,284,668,0 451,518,530,628,0 75,525,718,682,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003592.jpg 28,436,170,692,0 169,461,210,705,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003609.jpg 550,519,671,608,3 433,441,529,491,3 439,500,670,611,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003651.jpg 466,558,586,627,2 571,628,691,697,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003700.jpg 491,642,642,720,3 385,517,430,595,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003731.jpg 507,468,686,617,3 124,486,263,704,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003795.jpg 356,440,621,540,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003852.jpg 3,526,204,614,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003864.jpg 3,537,49,596,3 60,537,139,598,3 422,376,469,587,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003909.jpg 280,527,324,571,3 296,480,340,524,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003911.jpg 522,419,627,467,3 420,376,482,416,3 348,340,391,364,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003939.jpg 489,495,720,674,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003953.jpg 173,515,695,699,2 457,474,658,689,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003975.jpg 419,523,448,545,3 418,591,464,695,3 398,490,496,702,0 488,511,613,577,2 584,578,720,700,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_003987.jpg 348,437,416,466,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004029.jpg 66,532,381,631,3 187,414,389,530,3 402,434,452,454,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004039.jpg 118,518,720,710,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004061.jpg 113,590,258,718,2 333,548,428,691,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004100.jpg 4,491,260,601,3 382,544,411,575,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004178.jpg 407,644,454,709,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004183.jpg 507,539,719,634,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004185.jpg 189,425,290,462,3 72,494,384,668,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004242.jpg 453,456,659,706,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004256.jpg 1,473,222,567,0 417,456,489,594,0 369,467,433,498,3 309,431,400,464,3 156,388,326,432,3 116,493,149,525,3 159,479,192,501,3 227,467,346,534,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004285.jpg 287,571,521,676,2 374,504,456,572,2 227,555,264,589,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004320.jpg 337,513,386,645,0 377,453,409,508,0 277,487,352,519,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004321.jpg 351,365,440,430,3 448,395,480,414,3 451,425,527,459,3 379,504,519,547,3 1,388,134,430,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004341.jpg 263,615,330,707,0 330,518,397,610,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004370.jpg 421,548,472,590,3 192,483,277,507,3 256,501,379,632,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004375.jpg 108,553,720,717,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004393.jpg 8,456,195,534,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004403.jpg 244,547,312,571,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004407.jpg 126,536,480,680,2 392,455,491,683,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004523.jpg 491,462,669,626,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004601.jpg 99,456,371,649,2 299,419,356,595,0 93,481,262,673,0 148,433,338,652,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004626.jpg 181,494,500,633,2 421,445,538,497,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004632.jpg 481,591,501,616,3 461,562,481,587,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004700.jpg 29,585,607,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004701.jpg 487,579,570,619,3 481,462,621,525,3 637,523,720,563,3 414,521,441,561,3 322,521,351,541,3 288,499,720,638,2 14,510,251,704,0 591,560,669,612,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004721.jpg 161,501,530,677,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004735.jpg 425,540,558,616,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004799.jpg 477,130,594,598,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004865.jpg 248,428,300,497,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004882.jpg 284,454,350,564,2 372,487,430,572,3 372,478,430,571,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004891.jpg 334,551,387,691,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_004935.jpg 445,478,533,529,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005094.jpg 455,495,718,667,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005260.jpg 330,421,451,461,3 285,462,417,534,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005266.jpg 351,416,460,464,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005269.jpg 147,469,358,673,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005294.jpg 501,519,566,539,3 382,484,466,512,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005348.jpg 178,506,230,538,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005393.jpg 358,490,719,669,2 1,534,343,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005419.jpg 262,350,536,561,2 1,434,162,617,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005420.jpg 34,523,211,583,3 41,588,314,701,3 1,415,248,521,3 319,429,349,458,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005491.jpg 438,496,551,691,0 328,476,354,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005698.jpg 1,511,473,697,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005702.jpg 303,519,398,720,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005755.jpg 10,620,484,720,2 411,578,481,607,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005758.jpg 352,554,393,666,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005801.jpg 116,472,645,650,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005810.jpg 285,542,324,564,3 199,496,652,704,2 442,546,554,706,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005817.jpg 386,516,565,650,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005843.jpg 19,460,472,686,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005886.jpg 174,524,264,555,3 1,543,218,715,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005948.jpg 380,541,657,706,2 101,477,379,642,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005967.jpg 428,475,461,595,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005968.jpg 446,590,494,616,3 472,637,523,671,3 368,569,604,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005988.jpg 124,499,454,691,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_005994.jpg 201,490,720,655,2 1,550,202,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006057.jpg 539,488,691,619,2 353,425,428,519,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006058.jpg 127,573,247,700,0 261,528,289,560,0 306,460,348,517,0 16,529,518,697,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006065.jpg 330,538,621,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006115.jpg 312,596,405,672,3 175,581,264,648,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006137.jpg 530,550,580,597,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006148.jpg 147,439,196,469,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006167.jpg 191,452,437,627,2 489,514,605,615,2 68,617,183,686,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006228.jpg 230,514,498,708,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006260.jpg 186,535,549,694,2 338,504,397,689,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006290.jpg 151,571,340,629,3 213,495,324,529,3 187,454,291,481,3 112,433,181,465,3 51,493,96,515,3 401,505,449,594,3 458,448,530,506,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006297.jpg 1,417,536,616,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006395.jpg 301,462,340,557,0 341,411,367,459,0 451,528,477,576,0 371,477,511,602,2 9,450,343,626,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006397.jpg 5,647,95,715,3 128,479,226,521,3 291,455,346,488,3 407,437,462,470,3 391,486,446,519,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006474.jpg 5,399,433,651,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006555.jpg 299,431,479,486,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006592.jpg 364,477,501,656,2 517,487,653,658,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006670.jpg 490,358,527,394,3 487,393,525,444,0 14,408,141,470,0 499,452,699,571,2 348,401,451,440,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006690.jpg 4,546,272,678,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006710.jpg 402,222,452,270,3 324,217,374,265,3 436,325,560,387,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006715.jpg 243,338,522,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006736.jpg 33,465,525,533,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006759.jpg 475,464,618,649,0 283,491,627,661,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006773.jpg 451,538,530,683,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006808.jpg 334,412,404,448,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006831.jpg 11,457,558,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006835.jpg 240,561,480,679,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006876.jpg 97,482,672,650,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006945.jpg 266,451,720,622,3 122,518,235,594,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006960.jpg 517,521,623,630,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006962.jpg 150,414,556,540,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006983.jpg 390,472,474,525,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_006999.jpg 297,484,433,540,3 489,489,548,517,3 452,448,511,476,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007034.jpg 516,657,565,718,0 304,615,505,719,2 245,619,328,710,0 221,522,402,592,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007055.jpg 327,509,424,708,0 277,512,366,610,2 430,572,568,672,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007067.jpg 348,472,488,559,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007088.jpg 216,445,447,666,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007113.jpg 328,478,426,530,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007281.jpg 119,508,291,709,0 536,544,636,618,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007287.jpg 400,511,440,644,0 343,513,383,646,0 251,505,303,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007299.jpg 271,458,642,599,2 227,444,324,490,3 437,432,480,472,3 537,448,580,488,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007308.jpg 6,433,367,704,2 480,440,574,480,3 296,497,357,533,3 146,504,207,540,3 228,486,289,522,3 212,433,368,617,0 376,461,410,514,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007321.jpg 357,631,414,665,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007329.jpg 350,468,482,528,0 488,526,664,581,0 444,502,482,524,3 381,474,419,496,3 227,462,359,476,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007372.jpg 21,523,307,695,2 323,597,537,693,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007377.jpg 1,568,537,701,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007398.jpg 189,527,483,705,2 174,526,302,707,0 495,534,549,590,0 633,646,687,702,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007418.jpg 250,555,328,659,0 328,453,380,550,0 345,474,374,502,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007432.jpg 179,549,307,655,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007478.jpg 296,532,573,711,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007507.jpg 1,466,646,655,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007578.jpg 368,572,444,638,3 389,495,465,561,3 357,462,394,491,3 384,436,443,491,3 247,482,278,521,3 129,548,303,620,3 280,480,329,538,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007618.jpg 302,400,492,519,2 539,491,663,707,0 176,503,300,720,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007627.jpg 230,481,467,589,2 261,594,562,670,2 469,521,529,553,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007637.jpg 105,621,228,696,3 115,504,404,549,1 1,506,95,559,3 170,440,400,499,3 322,514,399,545,3 408,453,441,481,3 1,634,101,711,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007655.jpg 1,458,646,644,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007704.jpg 1,526,600,672,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007716.jpg 92,489,424,639,2 484,464,578,611,0 369,399,442,436,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007785.jpg 558,485,680,605,0 203,564,305,629,3 253,514,318,558,3 1,545,49,586,3 12,467,588,617,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007806.jpg 593,533,711,596,3 526,477,586,522,3 332,496,375,541,3 12,525,393,692,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007861.jpg 1,476,263,613,0 455,461,514,590,0 185,442,262,466,3 282,461,350,508,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007890.jpg 347,576,422,604,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007965.jpg 316,423,474,609,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_007999.jpg 21,490,569,689,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008007.jpg 390,526,548,601,2 381,615,458,687,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008013.jpg 275,562,473,656,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008142.jpg 397,451,445,474,3 68,486,677,684,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008182.jpg 488,645,620,715,2 579,559,720,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008238.jpg 194,518,597,690,2 168,515,367,704,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008261.jpg 429,512,537,545,3 74,648,179,717,3 412,453,493,491,3 117,553,226,631,0 442,563,551,641,2 267,559,358,652,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008339.jpg 143,557,339,637,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008340.jpg 203,543,302,660,0 17,495,354,687,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008407.jpg 494,505,719,718,2 340,492,434,678,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008466.jpg 167,568,491,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008499.jpg 142,614,214,695,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008505.jpg 1,223,471,650,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008541.jpg 1,480,603,680,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008553.jpg 5,552,641,713,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008557.jpg 274,682,338,717,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008585.jpg 324,569,720,712,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008611.jpg 453,321,644,615,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008654.jpg 237,515,542,714,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008664.jpg 487,462,649,616,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008680.jpg 225,556,718,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008684.jpg 261,467,649,636,2 394,495,433,599,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008694.jpg 410,585,501,621,3 460,553,522,578,3 526,570,649,620,3 389,508,451,533,3 403,478,465,503,3 458,510,518,550,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008698.jpg 463,536,571,640,2 403,545,437,576,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008704.jpg 114,528,311,598,2 206,415,327,533,2 402,421,443,510,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008707.jpg 1,477,407,643,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008739.jpg 414,462,471,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008826.jpg 287,576,524,664,2 354,518,421,558,2 300,520,349,558,3 163,477,212,515,3 141,656,266,715,3 366,604,432,650,3 303,589,504,676,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008846.jpg 41,545,549,714,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008881.jpg 26,478,138,516,3 157,434,243,475,3 323,398,442,429,3 84,562,268,707,3 457,492,650,585,2 249,439,449,463,1 3,510,189,617,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008893.jpg 236,476,720,688,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008971.jpg 460,452,536,717,0 4,424,319,598,0 349,417,391,459,0 140,499,194,534,3 193,531,247,566,3 256,537,310,572,3 9,346,449,676,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008988.jpg 497,641,567,674,3 266,580,347,645,3 479,538,633,589,3 283,546,346,717,0 479,549,538,702,0 521,510,573,583,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_008990.jpg 56,520,619,696,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009042.jpg 537,652,578,720,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009066.jpg 407,537,667,710,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009080.jpg 411,494,671,708,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009153.jpg 291,600,445,699,3 491,567,549,615,3 533,615,622,681,3 436,553,477,600,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009251.jpg 405,409,467,431,3 329,429,410,563,0 423,441,639,549,2 321,367,425,400,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009263.jpg 116,315,488,720,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009271.jpg 356,469,396,652,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009282.jpg 571,378,684,474,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009287.jpg 289,615,366,635,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009304.jpg 3,532,687,720,2 192,565,324,720,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009348.jpg 160,470,209,493,3 414,449,432,622,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009349.jpg 437,476,704,694,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009370.jpg 297,470,352,667,0 367,469,720,689,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009394.jpg 11,419,552,604,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009397.jpg 237,543,465,596,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009447.jpg 436,606,563,708,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009469.jpg 406,434,445,607,0 4,509,218,644,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009478.jpg 413,515,624,643,2 385,506,434,531,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009574.jpg 170,511,639,646,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009647.jpg 301,296,714,647,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009655.jpg 496,419,713,619,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009675.jpg 655,608,720,677,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/India_009880.jpg 128,500,597,697,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000009.jpg 124,394,187,571,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000015.jpg 148,467,593,496,1 396,483,516,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000028.jpg 145,501,282,522,1 73,480,159,498,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000045.jpg 290,525,374,639,0 262,418,389,462,1 1,522,84,555,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000049.jpg 58,429,153,600,0 13,390,91,446,0 278,444,391,473,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000051.jpg 107,458,392,502,1 345,573,375,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000059.jpg 10,460,385,550,1 205,399,245,488,0 138,523,172,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000069.jpg 119,396,417,638,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000073.jpg 292,463,364,537,2 1,400,372,608,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000075.jpg 327,550,353,590,0 116,517,155,583,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000081.jpg 221,399,383,547,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000096.jpg 4,512,59,592,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000132.jpg 156,421,208,639,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000134.jpg 181,398,338,572,0 284,412,591,586,0 10,394,38,451,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000141.jpg 282,495,325,640,0 381,396,548,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000147.jpg 290,415,324,556,0 109,454,239,477,1 1,478,139,497,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000151.jpg 367,490,517,628,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000159.jpg 0,420,98,516,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000168.jpg 202,496,289,520,1 2,509,198,534,1 453,447,510,524,0 384,412,408,455,0 126,512,206,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000170.jpg 432,538,536,566,1 436,454,640,626,2 440,454,640,622,0 69,484,163,504,1 544,534,640,630,0 98,407,234,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000173.jpg 487,552,557,580,1 322,406,441,579,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000196.jpg 121,471,316,512,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000229.jpg 327,476,441,612,0 157,488,187,572,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000269.jpg 150,555,170,589,0 365,490,435,514,1 264,413,388,547,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000270.jpg 159,476,217,552,2 162,478,217,554,0 298,496,422,519,1 374,426,428,493,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000276.jpg 329,467,445,640,0 450,530,578,638,2 327,396,377,442,0 324,431,468,452,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000295.jpg 323,427,533,461,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000296.jpg 366,472,522,632,0 486,464,634,570,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000359.jpg 41,462,124,595,0 45,535,289,599,1 361,434,551,475,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000373.jpg 340,432,550,640,0 324,395,356,428,0 380,452,542,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000377.jpg 327,516,456,536,1 227,558,328,576,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000383.jpg 1,500,443,531,1 1,406,431,438,1 423,409,458,423,3 35,528,142,625,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000403.jpg 129,590,167,640,0 313,409,361,555,0 172,464,320,483,1 1,501,343,523,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000404.jpg 0,435,116,608,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000405.jpg 71,482,177,638,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000411.jpg 0,474,74,594,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000419.jpg 529,491,551,524,0 552,506,571,545,0 347,517,498,549,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000431.jpg 256,442,291,546,0 5,438,130,616,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000457.jpg 377,507,402,560,0 189,395,265,545,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000475.jpg 31,374,115,628,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000476.jpg 1,418,171,622,2 389,513,490,615,0 370,406,493,493,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000477.jpg 57,556,189,632,0 291,553,348,639,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000492.jpg 107,448,243,468,1 18,460,122,619,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000511.jpg 62,470,156,624,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000518.jpg 173,373,303,555,0 35,468,210,486,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000542.jpg 447,431,634,609,0 233,560,326,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000543.jpg 252,515,520,560,1 436,560,458,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000547.jpg 341,462,523,636,0 1,560,217,592,1 475,421,577,483,0 446,488,578,543,0 289,376,330,431,0 239,381,256,422,0 140,441,333,476,1 256,540,376,568,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000551.jpg 0,568,46,632,0 272,526,376,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000555.jpg 314,492,526,540,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000556.jpg 436,412,564,531,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000567.jpg 273,528,306,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000570.jpg 219,363,237,412,0 273,454,318,466,1 259,436,280,508,0 193,441,222,515,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000574.jpg 320,515,539,565,1 273,440,358,636,0 112,506,224,640,0 1,517,108,540,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000577.jpg 451,544,607,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000580.jpg 172,444,207,634,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000588.jpg 0,546,90,568,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000595.jpg 194,398,221,553,0 227,544,288,640,0 2,535,64,549,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000600.jpg 322,430,341,474,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000616.jpg 292,405,340,500,0 326,514,419,639,0 478,524,579,595,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000617.jpg 221,393,274,632,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000618.jpg 298,528,325,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000633.jpg 82,463,126,602,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000641.jpg 0,418,416,638,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000643.jpg 133,437,382,462,1 16,502,122,606,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000650.jpg 443,471,595,500,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000669.jpg 398,546,640,586,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000677.jpg 285,362,314,522,0 102,440,289,468,1 350,393,472,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000679.jpg 248,444,354,470,1 24,460,111,618,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000684.jpg 280,378,328,430,3 363,400,637,580,0 135,442,193,606,2 365,490,431,585,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000697.jpg 296,563,422,640,0 355,523,376,552,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000744.jpg 298,402,362,558,0 82,444,260,610,2 470,579,554,605,1 545,600,640,627,1 371,560,409,638,0 338,409,449,432,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000748.jpg 241,482,262,536,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000752.jpg 439,463,628,485,1 7,461,195,598,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000755.jpg 40,421,82,467,0 0,496,84,614,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000770.jpg 7,402,145,527,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000790.jpg 217,458,339,580,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000814.jpg 72,545,110,639,0 395,489,572,639,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000834.jpg 88,522,144,630,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000873.jpg 437,500,467,560,0 480,562,640,598,1 414,412,530,487,0 421,482,532,507,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000878.jpg 1,400,107,628,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000895.jpg 368,428,620,612,0 8,386,350,487,1 1,562,95,598,1 95,469,152,579,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000899.jpg 119,423,173,625,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000901.jpg 318,553,346,639,0 143,457,201,573,0 349,440,534,600,0 274,381,296,424,0 291,440,315,488,0 52,622,162,640,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000902.jpg 441,485,632,599,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000923.jpg 301,367,458,627,0 6,412,166,533,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000934.jpg 0,588,101,610,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000949.jpg 308,506,335,564,0 122,459,138,485,0 31,565,53,610,0 395,493,557,625,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000954.jpg 131,576,204,618,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000961.jpg 162,471,188,569,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000965.jpg 216,416,248,536,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000981.jpg 342,408,551,639,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000984.jpg 537,525,617,621,0 511,402,624,524,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_000986.jpg 387,402,617,632,0 375,380,465,464,0 542,455,636,524,0 357,412,448,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001002.jpg 238,387,309,638,0 357,430,576,630,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001028.jpg 2,542,82,601,0 32,482,302,521,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001031.jpg 191,439,265,479,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001037.jpg 240,414,350,592,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001060.jpg 512,450,640,475,1 422,408,565,439,1 162,417,237,582,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001067.jpg 201,462,376,509,1 250,380,378,611,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001082.jpg 208,438,266,634,0 349,413,472,633,0 502,576,640,617,1 464,419,634,528,0 494,407,614,485,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001086.jpg 565,583,639,605,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001096.jpg 0,518,74,545,1 123,386,197,532,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001102.jpg 229,381,283,632,0 242,465,425,515,1 137,546,214,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001134.jpg 153,518,371,558,1 362,480,421,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001141.jpg 260,402,332,638,0 23,403,188,617,0 1,474,124,497,1 373,504,475,528,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001155.jpg 2,406,109,519,0 101,438,159,566,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001158.jpg 286,377,328,543,0 96,491,205,635,0 359,422,435,633,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001171.jpg 8,493,212,607,2 260,464,536,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001194.jpg 467,513,528,639,0 307,556,336,612,0 257,481,450,512,1 239,500,275,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001199.jpg 0,392,260,622,2 78,388,114,468,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001217.jpg 494,455,553,501,0 397,469,457,574,0 225,402,331,546,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001294.jpg 144,434,176,508,0 142,457,208,640,0 13,492,318,539,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001308.jpg 207,465,313,639,0 140,425,400,474,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001317.jpg 133,373,253,629,0 1,394,193,595,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001322.jpg 95,531,524,594,1 73,380,215,630,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001323.jpg 372,389,640,640,2 202,381,291,632,0 6,488,160,504,1 257,488,451,532,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001329.jpg 348,522,420,545,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001332.jpg 211,422,264,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001342.jpg 350,538,508,640,2 79,492,201,520,1 368,426,395,509,0 254,430,297,510,0 1,581,172,610,1 3,389,186,473,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001348.jpg 1,504,85,556,0 229,415,299,637,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001365.jpg 40,573,544,637,1 271,402,315,633,0 287,453,511,508,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001370.jpg 109,546,167,604,0 260,372,367,638,0 28,391,315,595,0 219,539,389,555,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001376.jpg 362,353,416,435,0 465,514,510,550,0 128,429,634,455,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001377.jpg 227,538,268,640,0 277,566,403,598,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001386.jpg 411,560,529,640,0 332,569,378,639,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001387.jpg 320,391,503,633,0 370,381,621,557,0 441,508,553,592,1 158,408,219,584,0 1,445,100,482,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001391.jpg 200,430,235,577,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001397.jpg 0,432,44,508,0 98,416,384,640,2 4,540,62,620,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001421.jpg 126,459,366,489,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001440.jpg 125,520,150,618,0 340,542,378,568,0 332,598,392,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001444.jpg 197,404,550,640,2 52,439,252,488,1 29,469,180,611,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001458.jpg 379,388,611,632,0 470,415,622,505,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001460.jpg 152,391,236,468,0 263,506,517,546,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001462.jpg 443,550,551,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001464.jpg 130,410,251,631,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001479.jpg 223,475,261,628,0 38,510,94,622,0 41,489,146,502,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001482.jpg 110,470,252,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001524.jpg 252,507,592,527,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001530.jpg 1,396,188,496,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001551.jpg 339,502,413,638,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001553.jpg 282,498,312,561,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001556.jpg 121,513,522,624,1 157,392,201,490,0 257,386,322,586,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001579.jpg 394,398,433,442,0 343,400,405,596,0 478,412,640,572,0 426,444,568,588,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001580.jpg 269,434,355,480,0 135,570,401,638,1 368,396,540,600,0 86,392,255,627,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001600.jpg 368,544,438,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001604.jpg 247,405,289,534,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001615.jpg 103,404,205,500,0 283,445,309,534,0 7,531,109,617,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001634.jpg 0,388,217,520,0 214,468,270,562,0 323,397,568,639,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001636.jpg 304,348,332,432,0 405,483,499,501,1 0,365,417,626,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001642.jpg 149,583,175,611,0 76,562,111,634,0 70,495,134,549,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001652.jpg 45,404,101,449,0 37,390,201,587,0 156,460,202,566,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001657.jpg 222,438,274,554,0 120,543,180,572,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001667.jpg 1,540,80,564,1 60,513,111,605,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001679.jpg 210,405,234,459,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001752.jpg 408,461,493,629,0 360,376,392,460,0 201,439,372,459,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001760.jpg 378,389,542,634,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001778.jpg 204,403,236,460,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001779.jpg 521,459,639,561,0 360,418,634,634,2 282,395,340,604,0 150,475,274,496,1 39,391,203,621,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001795.jpg 331,521,566,556,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001796.jpg 176,420,311,447,1 296,392,319,428,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001798.jpg 201,427,239,494,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001807.jpg 271,398,387,630,0 15,466,318,502,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001812.jpg 259,456,341,479,1 14,380,266,636,2 170,513,413,638,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001813.jpg 396,486,588,638,0 259,500,292,534,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001823.jpg 1,463,206,497,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001833.jpg 82,470,202,550,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001837.jpg 323,427,387,639,0 375,544,414,638,0 345,475,495,507,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001839.jpg 256,363,290,583,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001841.jpg 1,392,129,472,0 151,508,212,640,0 2,448,220,471,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001848.jpg 302,404,325,488,0 249,454,278,542,0 0,368,195,502,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001868.jpg 155,363,223,463,0 120,428,233,448,1 118,585,245,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001876.jpg 307,373,386,638,0 426,472,550,637,0 89,371,260,624,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001889.jpg 461,468,639,628,2 200,467,259,480,1 1,471,132,493,1 265,485,347,549,2 104,416,198,576,2 20,592,110,640,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001938.jpg 422,485,533,629,0 306,411,346,557,0 326,467,541,497,1 345,412,551,438,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001952.jpg 344,553,380,615,0 369,458,402,498,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001971.jpg 263,459,320,569,0 496,512,520,588,0 555,471,635,537,0 145,516,253,630,0 399,556,603,620,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001975.jpg 227,416,272,636,0 189,404,246,515,0 390,468,640,523,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_001996.jpg 168,504,272,526,1 294,453,330,487,0 117,423,149,585,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002008.jpg 112,486,220,514,1 418,493,617,627,0 456,482,487,548,0 475,440,640,538,0 204,402,235,572,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002039.jpg 1,560,32,615,0 3,438,215,454,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002067.jpg 88,395,202,640,0 6,487,392,556,1 306,548,393,640,0 366,444,539,597,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002068.jpg 329,431,435,448,1 302,412,370,559,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002069.jpg 399,427,585,637,0 306,410,341,546,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002075.jpg 533,572,571,616,3 470,485,564,595,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002086.jpg 12,534,98,554,1 93,464,138,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002100.jpg 309,510,406,533,1 217,384,265,420,2 110,440,281,463,1 30,524,262,549,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002101.jpg 251,450,326,631,0 1,405,183,441,1 301,513,376,542,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002102.jpg 161,550,234,638,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002104.jpg 378,607,640,636,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002107.jpg 280,471,316,640,0 260,396,287,448,0 43,467,138,619,0 1,451,283,471,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002124.jpg 185,423,217,557,0 7,522,62,596,0 68,427,114,499,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002136.jpg 344,478,424,570,0 60,460,144,587,0 195,451,331,475,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002137.jpg 124,493,453,557,1 140,363,224,504,0 366,480,612,596,2 393,411,620,504,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002141.jpg 73,506,157,524,1 0,434,88,497,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002147.jpg 394,504,559,545,1 324,380,473,638,0 580,542,637,612,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002157.jpg 179,469,293,621,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002168.jpg 323,460,488,634,0 226,388,257,552,0 22,402,217,588,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002176.jpg 251,588,272,640,0 328,467,406,547,2 89,531,320,550,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002177.jpg 26,424,102,600,0 171,492,335,550,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002180.jpg 367,522,493,542,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002183.jpg 334,462,375,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002206.jpg 303,412,434,615,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002208.jpg 2,374,358,633,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002239.jpg 266,432,370,568,2 452,462,471,506,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002284.jpg 131,440,245,580,2 335,415,389,551,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002287.jpg 47,432,185,634,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002324.jpg 234,379,292,522,0 43,429,432,459,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002352.jpg 306,606,342,637,3 191,443,425,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002364.jpg 358,434,518,620,0 258,356,291,448,0 505,570,596,614,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002371.jpg 311,411,582,633,0 294,365,337,403,0 219,438,259,567,0 3,454,227,495,1 487,492,633,556,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002389.jpg 342,445,378,541,0 405,547,445,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002402.jpg 119,482,137,530,0 84,453,417,480,1 110,388,290,457,0 361,407,481,634,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002412.jpg 1,529,168,551,1 168,539,311,564,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002420.jpg 162,541,200,639,0 215,402,244,534,0 366,422,565,624,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002429.jpg 299,463,341,537,0 12,454,199,477,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002432.jpg 452,545,584,623,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002440.jpg 3,508,155,615,0 168,421,197,606,0 289,412,410,446,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002448.jpg 550,434,610,465,0 380,427,508,637,0 124,466,345,487,1 464,384,517,416,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002450.jpg 0,504,128,528,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002459.jpg 17,483,306,551,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002464.jpg 244,389,278,483,0 363,508,443,530,1 366,409,468,555,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002471.jpg 136,452,186,555,0 365,444,541,612,0 6,509,155,526,1 3,541,160,565,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002477.jpg 422,535,576,582,1 18,389,149,515,0 47,537,284,618,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002478.jpg 159,580,223,639,0 262,435,297,529,0 369,450,467,626,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002481.jpg 1,513,92,535,1 1,397,80,442,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002483.jpg 302,508,397,546,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002499.jpg 270,540,310,600,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002511.jpg 148,410,255,632,0 324,423,385,635,0 364,436,583,488,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002516.jpg 325,450,346,506,0 370,421,602,627,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002536.jpg 378,543,426,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002537.jpg 5,406,125,540,0 1,452,126,471,1 1,497,53,509,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002538.jpg 6,393,160,488,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002544.jpg 0,395,277,637,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002551.jpg 370,405,494,567,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002563.jpg 560,493,640,551,0 132,452,176,548,0 386,510,429,568,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002589.jpg 280,460,320,475,0 2,507,201,536,1 0,429,316,631,2 109,437,142,483,0 109,437,142,482,2 0,391,106,512,0 67,550,92,598,0 282,529,381,558,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002592.jpg 104,422,211,610,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002613.jpg 208,500,284,640,0 0,588,22,612,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002622.jpg 460,568,534,640,0 233,511,302,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002630.jpg 358,415,397,569,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002651.jpg 1,470,301,510,1 209,528,247,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002653.jpg 0,476,96,544,0 102,416,165,484,0 0,582,106,606,1 181,385,258,567,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002665.jpg 232,522,300,638,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002680.jpg 335,531,360,597,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002684.jpg 1,419,117,615,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002696.jpg 177,524,197,640,0 62,429,442,471,1 337,500,449,523,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002699.jpg 503,421,541,467,0 186,512,370,564,1 454,480,562,499,1 538,488,560,552,0 364,421,412,566,0 453,564,618,588,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002731.jpg 396,552,548,600,1 191,562,216,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002733.jpg 0,538,90,620,2 347,489,453,619,0 60,450,92,497,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002736.jpg 207,403,284,421,1 444,477,466,494,3 1,483,82,512,1 96,391,196,592,0 372,531,442,563,1 529,596,640,638,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002737.jpg 289,425,378,636,0 385,442,445,479,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002739.jpg 276,404,298,464,0 297,466,322,532,0 124,488,183,572,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002745.jpg 28,378,252,621,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002811.jpg 298,435,358,640,0 292,422,324,546,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002848.jpg 295,448,351,634,0 426,400,630,507,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002861.jpg 162,387,282,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002862.jpg 405,602,555,626,1 125,553,211,575,1 118,614,197,633,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002864.jpg 170,382,206,506,0 0,385,480,634,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002866.jpg 283,475,412,639,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002867.jpg 111,471,176,637,0 178,442,455,511,1 1,466,174,487,1 11,574,124,608,1 77,417,129,468,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002880.jpg 329,487,640,531,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002885.jpg 463,541,520,634,0 348,489,392,639,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002893.jpg 177,413,241,627,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002925.jpg 404,416,574,627,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002933.jpg 229,458,259,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002934.jpg 1,579,58,603,1 87,438,191,460,1 5,402,89,451,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002966.jpg 431,555,595,584,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002969.jpg 134,424,350,640,2 21,473,101,621,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_002983.jpg 375,484,633,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003002.jpg 334,475,478,640,0 472,493,562,631,0 294,386,334,438,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003032.jpg 0,427,86,611,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003039.jpg 262,517,299,629,0 159,384,217,513,0 12,499,275,534,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003113.jpg 66,484,268,640,2 239,403,262,479,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003140.jpg 185,419,407,454,1 443,556,530,617,1 370,429,639,583,0 345,542,454,582,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003146.jpg 317,499,346,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003154.jpg 122,395,208,546,0 385,523,581,568,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003161.jpg 239,486,297,630,0 242,383,261,460,0 339,399,637,620,2 80,509,168,626,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003165.jpg 345,456,411,552,2 187,506,308,541,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003172.jpg 115,474,184,631,0 5,454,93,530,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003187.jpg 223,389,261,547,0 48,437,214,452,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003190.jpg 560,388,640,484,0 421,503,520,525,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003211.jpg 93,483,142,552,0 302,435,329,485,0 338,459,465,496,1 433,539,587,633,0 1,490,331,610,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003217.jpg 0,382,352,638,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003235.jpg 164,413,179,434,0 282,475,496,557,1 28,460,82,612,0 404,495,504,543,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003243.jpg 215,571,247,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003247.jpg 442,508,566,530,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003250.jpg 103,434,169,538,0 227,429,249,509,0 328,409,428,551,0 47,556,103,616,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003270.jpg 245,405,311,543,0 377,470,554,640,0 84,402,188,598,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003279.jpg 255,584,462,640,1 169,410,249,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003291.jpg 139,472,466,541,1 90,423,169,577,0 1,532,100,556,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003312.jpg 54,461,365,535,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003333.jpg 179,394,220,481,0 2,533,247,587,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003341.jpg 277,449,545,467,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003346.jpg 346,402,444,530,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003347.jpg 105,404,171,419,1 0,406,108,610,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003355.jpg 363,413,557,629,0 197,417,253,567,0 43,547,155,574,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003364.jpg 241,560,295,640,0 34,512,70,622,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003378.jpg 4,367,388,561,2 445,498,553,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003380.jpg 199,503,272,597,0 149,522,424,546,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003388.jpg 324,542,343,586,0 228,499,246,565,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003392.jpg 188,442,208,506,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003401.jpg 161,516,423,548,1 1,462,309,487,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003402.jpg 34,446,182,622,0 260,431,299,545,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003406.jpg 173,377,190,414,0 70,392,153,482,0 230,481,257,555,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003424.jpg 170,437,256,640,0 335,482,420,635,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003438.jpg 317,432,491,638,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003446.jpg 49,492,153,620,0 295,389,353,611,0 139,454,164,477,0 194,428,230,456,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003457.jpg 251,536,377,640,2 115,375,185,463,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003458.jpg 94,510,189,640,0 160,553,274,570,1 322,478,469,640,0 397,558,475,574,1 277,457,300,638,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003465.jpg 280,369,370,638,0 460,504,640,600,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003472.jpg 525,436,639,556,0 1,479,129,511,1 1,438,214,603,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003482.jpg 111,446,345,469,1 5,420,101,460,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003487.jpg 584,538,640,614,0 301,434,326,570,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003493.jpg 2,403,134,529,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003505.jpg 278,524,563,555,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003511.jpg 64,459,196,605,2 230,499,253,573,0 339,462,452,576,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003519.jpg 29,467,83,497,0 146,392,342,548,2 102,500,162,515,1 160,410,227,510,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003521.jpg 61,492,211,515,1 211,449,357,479,1 390,460,548,480,1 211,495,248,571,0 363,432,485,451,1 150,395,206,465,0 359,449,500,633,0 291,372,321,430,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003526.jpg 407,437,464,470,3 238,433,262,495,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003532.jpg 98,504,153,570,0 320,493,590,631,2 173,447,258,557,0 342,377,406,471,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003533.jpg 318,432,402,452,1 289,402,338,606,0 440,512,632,640,2 48,374,250,626,0 364,382,630,617,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003544.jpg 160,446,381,476,1 497,512,637,602,1 19,450,191,619,0 481,422,622,502,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003545.jpg 189,422,218,462,0 82,508,158,639,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003548.jpg 344,408,513,628,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003552.jpg 134,541,274,563,1 459,454,627,624,2 389,370,452,437,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003566.jpg 212,532,300,640,0 268,536,599,571,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003584.jpg 303,450,534,632,0 305,388,632,560,0 1,543,51,564,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003588.jpg 291,454,415,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003589.jpg 129,368,384,633,2 386,462,607,483,1 426,434,608,617,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003613.jpg 501,578,595,604,1 477,450,637,568,0 306,381,347,462,0 322,487,404,508,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003636.jpg 126,538,149,586,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003638.jpg 561,496,639,520,1 436,436,463,464,0 514,586,640,600,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003642.jpg 1,425,104,493,0 413,450,567,606,0 298,395,329,491,0 313,452,461,468,1 77,427,291,450,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003671.jpg 439,514,471,577,0 518,478,540,497,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003679.jpg 266,483,321,581,0 400,496,447,562,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003684.jpg 295,403,324,530,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003697.jpg 28,450,126,619,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003719.jpg 330,593,458,615,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003731.jpg 372,531,494,640,0 313,388,366,428,2 67,420,296,462,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003747.jpg 351,529,404,639,0 204,521,268,639,0 376,562,547,598,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003751.jpg 272,469,295,510,0 116,408,192,640,0 206,585,402,629,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003752.jpg 0,418,302,630,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003774.jpg 99,400,157,537,0 286,498,460,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003784.jpg 325,407,346,433,0 502,498,556,602,0 364,437,387,490,0 548,451,640,597,0 276,488,327,575,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003785.jpg 168,535,191,593,0 278,540,317,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003795.jpg 278,574,472,618,1 218,480,258,636,0 156,424,187,488,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003797.jpg 311,377,348,431,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003814.jpg 533,530,639,606,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003841.jpg 333,452,362,567,0 1,469,333,489,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003864.jpg 240,457,332,567,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003880.jpg 261,412,283,637,0 153,496,178,559,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003909.jpg 130,401,172,554,0 1,554,78,624,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003910.jpg 199,568,236,640,0 58,527,172,637,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003912.jpg 107,527,635,600,1 146,414,240,630,0 76,447,200,629,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003919.jpg 337,477,445,640,0 239,488,278,640,0 1,452,70,556,0 4,483,203,540,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003921.jpg 105,552,165,632,0 441,424,640,578,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003925.jpg 340,425,378,474,0 77,543,214,575,1 126,567,157,634,0 185,416,237,511,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003941.jpg 62,414,173,587,0 305,446,547,507,1 536,464,618,480,1 151,388,349,421,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003946.jpg 95,409,208,635,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003971.jpg 76,380,215,563,0 40,410,412,554,2 440,494,587,610,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003980.jpg 432,475,612,621,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_003991.jpg 292,549,392,623,2 240,458,316,518,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004016.jpg 10,432,140,620,0 124,505,158,539,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004023.jpg 233,520,274,594,0 319,496,409,639,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004028.jpg 135,421,221,450,1 218,468,284,488,1 294,510,325,544,0 55,476,220,499,1 334,396,554,621,0 389,404,517,493,2 210,381,238,586,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004037.jpg 114,528,182,636,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004038.jpg 436,466,608,486,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004044.jpg 217,430,271,638,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004070.jpg 35,497,626,549,1 438,428,518,470,0 538,426,640,488,0 550,523,640,617,0 361,432,387,491,0 420,558,455,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004072.jpg 181,552,459,636,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004078.jpg 146,384,182,408,0 213,406,259,550,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004083.jpg 55,450,180,638,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004094.jpg 448,574,483,640,0 346,366,366,452,0 278,526,640,570,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004111.jpg 324,451,408,540,2 136,443,255,565,0 1,593,80,617,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004139.jpg 374,407,422,473,0 292,387,315,411,0 253,442,278,508,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004141.jpg 549,523,636,599,0 262,410,300,546,0 53,465,302,484,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004147.jpg 426,596,466,622,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004150.jpg 200,376,272,548,0 374,415,417,480,0 0,520,103,544,1 444,487,590,633,0 276,477,428,514,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004191.jpg 243,446,356,469,1 233,418,251,469,0 366,435,494,453,1 531,420,637,468,0 191,484,245,640,0 293,389,309,422,0 336,405,540,635,0 1,456,223,488,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004199.jpg 251,361,631,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004207.jpg 196,398,272,605,0 257,419,283,584,0 282,438,435,457,1 385,381,634,572,0 430,492,527,531,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004215.jpg 209,395,291,555,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004216.jpg 272,478,458,536,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004227.jpg 83,372,262,627,0 310,426,338,550,0 1,544,116,570,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004251.jpg 1,412,214,590,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004256.jpg 356,445,391,474,0 335,488,481,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004257.jpg 360,408,567,620,0 415,417,637,556,0 140,415,202,533,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004260.jpg 56,566,243,600,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004262.jpg 174,487,229,585,0 326,422,402,436,1 414,534,450,590,0 330,472,364,548,0 291,383,305,412,0 556,465,640,519,0 150,480,174,523,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004269.jpg 119,496,209,515,1 408,494,639,521,1 1,500,87,515,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004285.jpg 2,501,217,560,1 232,448,275,544,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004295.jpg 142,449,208,571,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004299.jpg 166,456,234,616,0 376,414,448,507,0 7,513,162,531,1 478,524,634,556,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004315.jpg 146,425,267,633,0 233,540,507,610,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004320.jpg 156,468,524,615,1 119,524,158,634,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004325.jpg 208,449,247,498,0 238,401,362,639,0 259,372,280,436,0 104,476,166,638,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004344.jpg 140,565,184,595,3
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004357.jpg 279,401,405,538,2 25,448,147,598,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004362.jpg 580,583,600,625,0 482,442,590,462,1 73,479,197,635,0 268,482,297,636,0 318,488,358,633,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004407.jpg 304,362,344,397,0 389,434,614,622,0 221,361,242,411,0 1,518,239,555,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004418.jpg 1,488,458,539,1 191,376,216,403,2 226,471,322,561,2 248,367,262,439,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004423.jpg 464,576,632,640,1 68,536,152,640,0 306,480,477,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004426.jpg 150,394,270,444,0 568,489,640,618,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004459.jpg 170,566,264,588,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004485.jpg 374,400,425,460,0 534,454,640,518,0 402,484,513,523,0 337,448,403,550,0 96,404,206,536,0 515,413,568,443,0 31,565,70,619,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004489.jpg 213,415,528,472,1 198,413,310,433,1 230,379,446,400,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004498.jpg 132,420,227,627,0 271,355,293,433,0 39,401,273,429,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004518.jpg 8,457,640,640,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004536.jpg 372,430,534,478,2 327,525,368,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004537.jpg 1,541,415,566,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004541.jpg 160,437,278,629,0 53,438,212,458,1 177,406,229,450,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004543.jpg 338,412,388,640,0 10,417,284,632,0 453,473,631,638,0 1,516,280,553,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004544.jpg 434,502,473,562,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004565.jpg 266,541,294,635,0 112,622,341,640,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004569.jpg 308,510,366,554,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004571.jpg 186,500,245,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004575.jpg 270,386,294,450,0 179,388,241,476,0 97,495,182,623,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004581.jpg 147,392,200,496,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004610.jpg 199,557,220,617,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004629.jpg 311,406,478,634,0 493,450,581,464,1 170,422,460,452,1
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004633.jpg 0,365,242,639,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004642.jpg 1,462,113,498,1 67,458,140,617,0 376,490,588,638,0 268,394,396,534,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004684.jpg 147,532,275,560,1 310,459,375,635,0 419,492,549,633,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004694.jpg 363,489,405,554,0 158,445,213,502,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004697.jpg 158,571,282,632,1 380,501,603,544,1 328,587,374,640,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004698.jpg 177,395,227,585,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004703.jpg 275,448,317,459,1 292,504,347,523,1 279,465,329,479,1 41,402,229,588,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004709.jpg 430,439,526,501,0 275,428,421,604,2
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004721.jpg 338,457,501,623,0 372,411,432,469,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004732.jpg 365,505,438,551,0 236,521,275,639,0 302,503,418,637,0 437,555,537,632,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004741.jpg 311,484,357,640,0 48,494,200,621,0
+/cvgroup/home/wurx/yolov8_beifen/data_total/JPEGImages/United_States_004795.jpg 560,470,640,494,1 302,454,464,482,1
